@@ -1,0 +1,39 @@
+<?php
+global $xoopsConfig, $xoopsUser, $xoopsUserIsAdmin, $xoopsLogger, $xoopsModule, $xoopsOption, $xoopsDB, $xoopsRequestUri;
+xoops_cp_header();
+printf('
+%2$s
+%3$s
+%4$s
+', $LAYOUT_URL, $CSS, $JS_HEAD, $HTML_HEAD);
+?>
+<div id="plugg">
+<?php if (!empty($FLASH)):?>
+  <div id="plugg-flash">
+<?php   foreach ($FLASH as $_flash):
+          switch ($_flash['level']):
+            case Sabai_Response::MESSAGE_ERROR:?>
+    <div class="error fadeout">
+<?php         break;
+            case Sabai_Response::MESSAGE_WARNING:?>
+    <div class="warning fadeout">
+<?php         break;
+            case Sabai_Response::MESSAGE_INFO:?>
+    <div class="info fadeout">
+<?php         break;
+            default:?>
+    <div class="success fadeout">
+<?php     endswitch;?>
+      <p><?php echo $_flash['msg'];?></p>
+    </div>
+<?php   endforeach;?>
+  </div>
+<?php endif;?>
+<?php if ($PAGE_BREADCRUMBS):?><p class="topicPath"><?php echo $PAGE_BREADCRUMBS;?></p><?php endif;?>
+<?php if ($PAGE_TITLE):?><h1><?php _h($PAGE_TITLE);?></h1><?php endif;?>
+  <div id="plugg-content" class="content-admin">
+<?php echo $CONTENT;?>
+  </div>
+</div>
+<?php echo $JS_FOOT;
+xoops_cp_footer();?>

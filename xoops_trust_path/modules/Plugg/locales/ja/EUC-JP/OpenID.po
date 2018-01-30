@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:11
+msgid "OpenID authentication"
+msgstr "OpenID認証"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:32
+msgid "OpenID"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:35
+msgid "Enter your OpenID identifier"
+msgstr "お持ちのOpenID識別子を入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:40
+#, php-format
+msgid ""
+"If you have an <a href=\"%s\">OpenID</a> account, you can either click on "
+"one of the OpenID provider logos or enter your OpenID identifier in the form "
+"below to login."
+msgstr ""
+"<a href=\"%s\">OpenID</a>識別子をお持ちの場合は、下記のOpenIDプロバイダの画像"
+"リンクをクリックするか、フォームにOpenID識別子を入力することでOpenIDを利用し"
+"た認証が行えます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:62
+#, php-format
+msgid ""
+"If you have an <a href=\"%s\">OpenID</a> account, you can use it to log in "
+"here."
+msgstr ""
+"<a href=\"%s\">OpenID</a>識別子をお持ちの場合は、下記フォームにOpenID識別子を"
+"入力することでOpenIDを利用した認証が行えます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:113
+msgid "Authentication error; not a valid OpenID."
+msgstr "OpenID認証に失敗しました。不正なOpenID識別子です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:140
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:148
+#, php-format
+msgid "Could not redirect to server: %s"
+msgstr "%sのサーバへとリダイレクトできませんでした。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:169
+msgid "Verification cancelled."
+msgstr "認証がキャンセルされました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/Plugin.php:173
+#, php-format
+msgid "OpenID authentication failed: %s"
+msgstr "OpenID認証に失敗しました。エラー: %s"

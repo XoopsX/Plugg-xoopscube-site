@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:8
+msgid "Filter that uses the HTMLPurifier php library"
+msgstr ""
+"HTMLPurifierライブラリを使用してユーザが投稿したコンテンツのHTMLの調整および"
+"フィルタリング処理を行います。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:9
+msgid "HTMLPurifier Filter"
+msgstr "HTMLPurifierフィルタ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:15
+msgid "Disable external resources"
+msgstr "外部リソースの参照を無効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:15
+msgid ""
+"Disables the embedding of external resources, preventing users from "
+"embedding things like images from other hosts."
+msgstr ""
+"他サイトの画像等の外部リソースが投稿コンテンツ内に表示されるのを防ぎます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:21
+msgid "Auto linkify"
+msgstr "自動リンク機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:21
+msgid ""
+"Enable this option to automagically convert URLs in user posts to HTML links."
+msgstr "投稿コンテンツ内のURLを自動的にHTMLリンクへと変換します。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:27
+msgid "Auto paragraph"
+msgstr "自動パラグラフ機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:27
+msgid ""
+"Enable this option to convert double newlines in user posts to paragraphs. p "
+"tags must be allowed for this directive to take effect. We do not use br "
+"tags for paragraphing, as that is semantically incorrect."
+msgstr ""
+"連続した改行がある場合、その前後の文章を自動的にパラグラフ化（&lt;p&gt;&lt;/"
+"p&gt;で囲う）します。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:33
+msgid "Allowed HTML tags"
+msgstr "使用可能なHTMLタグ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifierFilter/HTMLPurifierFilter/PluginInfo.php:33
+msgid ""
+"HTML tags allowed to be used. Separate tags with a comma. If you are not "
+"sure what to enter here, it is recommended that you leave this option as-is."
+msgstr ""
+"投稿コンテンツ内で使用可能なHTMLタグを入力してください。各タグは「,」で離して"
+"入力してください。よく分からない場合は、デフォルトの設定を使用することをお勧"
+"めします。"

@@ -1,0 +1,1595 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-20 11:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: plugins/Project/Admin/Category/Create.php:13
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:42
+msgid "Add category"
+msgstr ""
+
+#: plugins/Project/Admin/Category/Delete.php:15
+msgid "Delete category"
+msgstr ""
+
+#: plugins/Project/Admin/Category/Update.php:13
+msgid "Edit category"
+msgstr ""
+
+#: plugins/Project/Admin/Category.php:12
+msgid "Category administration"
+msgstr ""
+
+#: plugins/Project/Main/Comment/DeleteForm.php:33
+msgid "Comment deleted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Comment/DeleteForm.php:42
+#: plugins/Project/Main/Comment/SubmitReportForm.php:36
+msgid "Delete comment"
+msgstr ""
+
+#: plugins/Project/Main/Comment/EditForm.php:47
+msgid "Comment edited successfully"
+msgstr ""
+
+#: plugins/Project/Main/Comment/EditForm.php:56
+msgid "Edit comment"
+msgstr ""
+
+
+#: plugins/Project/Main/Comment/ShowReportForm.php:20
+msgid "Report this comment"
+msgstr ""
+
+#: plugins/Project/Main/Comment/SubmitReportForm.php:27
+#: plugins/Project/Main/Link/SubmitReportForm.php:27
+msgid "Report posted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Developer/ApproveForm.php:26
+msgid "Developer approved successfully"
+msgstr ""
+
+#: plugins/Project/Main/Developer/ApproveForm.php:34
+msgid "Approve developer"
+msgstr ""
+
+#: plugins/Project/Main/Developer/DeleteForm.php:25
+msgid "Developer deleted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Developer/DeleteForm.php:34
+msgid "Delete developer"
+msgstr ""
+
+#: plugins/Project/Main/Developer/DeleteForm.php:43
+#: plugins/Project/Model/Base/DeveloperForm.php:12
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:6
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:29
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:34
+#: plugins/Project/templates/user/widget/default.php:8
+#: plugins/Project/templates/user/widget/default.php:115
+msgid "Role"
+msgstr ""
+
+#: plugins/Project/Main/Developer/DeleteForm.php:44
+#: plugins/Project/Model/Base/DeveloperForm.php:16
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:35
+#: plugins/Project/templates/user/widget/default.php:9
+msgid "Tasks"
+msgstr ""
+
+#: plugins/Project/Main/Developer/EditForm.php:27
+msgid "Developer edited successfully"
+msgstr ""
+
+#: plugins/Project/Main/Developer/EditForm.php:35
+msgid "Edit developer"
+msgstr ""
+
+#: plugins/Project/Main/Developer.php:30
+#, php-format
+msgid "Developer #%d"
+msgstr ""
+
+#: plugins/Project/Main/Link/DeleteForm.php:28
+msgid "Link deleted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Link/DeleteForm.php:37
+msgid "Delete link"
+msgstr ""
+
+#: plugins/Project/Main/Link/EditForm.php:41
+msgid "Link edited successfully"
+msgstr ""
+
+#: plugins/Project/Main/Link/EditForm.php:50
+msgid "Edit link"
+msgstr ""
+
+#: plugins/Project/Main/Link/ShowReportForm.php:20
+#: plugins/Project/Main/Link/SubmitReportForm.php:36
+msgid "Report this link"
+msgstr ""
+
+#: plugins/Project/Main/Link/Vote.php:7
+msgid "Invalid request method"
+msgstr ""
+
+#: plugins/Project/Main/Link/Vote.php:28
+msgid "Invalid IP address. Guest votes require a valid IP address."
+msgstr ""
+
+#: plugins/Project/Main/Link/Vote.php:36
+msgid "Already voted"
+msgstr ""
+
+#: plugins/Project/Main/Link/Vote.php:51 plugins/Project/Main/Link/Vote.php:57
+#: plugins/Project/Main/Link/Vote.php:62
+msgid "An error occurred"
+msgstr ""
+
+#: plugins/Project/Main/Link/Vote.php:66
+msgid "Voted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/ApproveForm.php:23
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:41
+#: plugins/Project/Main/Release/ApproveForm.php:28
+#: plugins/Project/Main/Release/DeleteForm.php:30
+#: plugins/Project/Main/Release/EditForm.php:44
+msgid "Project latest release updated"
+msgstr ""
+
+#: plugins/Project/Main/Project/ApproveForm.php:25
+msgid "Project approved successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/ApproveForm.php:32
+msgid "Approve project"
+msgstr ""
+
+#: plugins/Project/Main/Project/ApproveForm.php:40
+#: plugins/Project/Model/Base/LinkForm.php:18
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:13
+#: plugins/Project/Model/Base/ProjectForm.php:14
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:8
+#: plugins/Project/Model/Base/ReleaseForm.php:22
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:23
+#: plugins/Project/Model/LinkHTMLQuickForm.php:12
+msgid "Summary"
+msgstr ""
+
+#: plugins/Project/Main/Project/ApproveForm.php:42
+#: plugins/Project/Main/Release/ApproveForm.php:50
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:47
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:20
+msgid "Submitter"
+msgstr ""
+
+#: plugins/Project/Main/Project/DeleteForm.php:17
+msgid "Project deleted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/DeleteForm.php:22
+msgid "Delete project"
+msgstr ""
+
+#: plugins/Project/Main/Project/EditForm.php:33
+msgid "Project submitted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/EditForm.php:39
+msgid "Edit project"
+msgstr ""
+
+#: plugins/Project/Main/Project/ListImages.php:55
+#: plugins/Project/Main/Project/SubmitImageForm.php:64
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:30
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:31
+msgid "Screenshots"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowCommentForm.php:11
+msgid "Comments not allowed for this project"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowCommentForm.php:24
+#: plugins/Project/Main/Project/SubmitCommentForm.php:51
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:28
+msgid "Add comment"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowDeveloperForm.php:11
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:11
+msgid "You are already listed as a developer or have submitted a request"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowDeveloperForm.php:20
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:40
+msgid "Submit developer request"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowImageForm.php:15
+msgid "Images not allowed for this project"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowImageForm.php:19
+#: plugins/Project/Main/Project/SubmitImageForm.php:15
+msgid "There are already 9 screenshot images uploaded."
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowLinkForm.php:11
+msgid "Links not allowed for this project"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowLinkForm.php:25
+#: plugins/Project/Main/Project/SubmitLinkForm.php:47
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:30
+msgid "Add link"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowReleaseForm.php:11
+msgid "Releases not allowed for this project"
+msgstr ""
+
+#: plugins/Project/Main/Project/ShowReleaseForm.php:32
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:56
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:27
+msgid "Add release"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitCommentForm.php:42
+msgid "Comment posted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:28
+msgid "Developer request posted successfully."
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:30
+msgid ""
+"You will be listed on the project page once approved by the site "
+"administrators or the developers."
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:44
+msgid "Featured image updated"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:46
+msgid "Image uploaded successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:50
+msgid "Screenshot images must be at least 100 x 70 pixels in size."
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:53
+msgid "Failed fetching image size."
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:57
+msgid "Failed uploading image to the media directory"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:65
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:5
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:41
+msgid "Add screenshot"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:34
+msgid "An error occurred while generating thumbmail images"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:36
+msgid "Thumbnails generated successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:41
+msgid "Could not update selected images"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:43
+msgid "Selected images updated successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:48
+msgid "Could not delete selected images"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:50
+msgid "Selected images deleted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitLinkForm.php:38
+msgid "Link posted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:43
+msgid "Release data posted successfully."
+msgstr ""
+
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:45
+msgid ""
+"Release data submitted successfully. It will be listed on the project page "
+"once approved by the developers"
+msgstr ""
+
+#: plugins/Project/Main/Project/View.php:67
+#: plugins/Project/Main/Project/ViewComments.php:42
+#: plugins/Project/Main/ViewComments.php:44
+msgid "Higher rating first"
+msgstr ""
+
+#: plugins/Project/Main/Project/View.php:136
+#: plugins/Project/Main/Project/ViewReleases.php:53
+#: plugins/Project/Main/ViewReleases.php:69
+msgid "More stable first"
+msgstr ""
+
+#: plugins/Project/Main/Project/View.php:137
+#: plugins/Project/Main/Project/ViewReleases.php:54
+msgid "Recently reported"
+msgstr ""
+
+#: plugins/Project/Main/Project/View.php:195
+#: plugins/Project/Main/Project/ViewLinks.php:67
+#: plugins/Project/Main/ViewLinks.php:65
+#: plugins/Project/Model/Base/CommentForm.php:12
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/LinkvoteForm.php:12
+#: plugins/Project/Model/Base/LinkvoteHTMLQuickForm.php:9
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:49
+msgid "Rating"
+msgstr ""
+
+#: plugins/Project/Main/Release/ApproveForm.php:30
+msgid "Release approved successfully"
+msgstr ""
+
+#: plugins/Project/Main/Release/ApproveForm.php:38
+msgid "Approve release data"
+msgstr ""
+
+#: plugins/Project/Main/Release/ApproveForm.php:46
+#: plugins/Project/Main/Release/DeleteForm.php:48
+#: plugins/Project/Model/Base/ReleaseForm.php:12
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:6
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:40
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:19
+#: plugins/Project/templates/user/widget/default.php:72
+msgid "Version"
+msgstr ""
+
+#: plugins/Project/Main/Release/ApproveForm.php:47
+msgid "Release Date"
+msgstr ""
+
+#: plugins/Project/Main/Release/ApproveForm.php:48
+#: plugins/Project/Model/Base/ReleaseForm.php:14
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:43
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:6
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:34
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:21
+msgid "Stability"
+msgstr ""
+
+#: plugins/Project/Main/Release/DeleteForm.php:32
+msgid "Release deleted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Release/DeleteForm.php:41
+msgid "Delete release data"
+msgstr ""
+
+#: plugins/Project/Main/Release/EditForm.php:46
+msgid "Release posted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Release/EditForm.php:55
+msgid "Edit release data"
+msgstr ""
+
+#: plugins/Project/Main/Release/ShowReportForm.php:36
+#: plugins/Project/Main/Release/SubmitReportForm.php:54
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:36
+msgid "Submit report"
+msgstr ""
+
+#: plugins/Project/Main/Release/SubmitReportForm.php:44
+msgid "Report submitted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Report/DeleteForm.php:30
+msgid "Report deleted successfully"
+msgstr ""
+
+#: plugins/Project/Main/Report/DeleteForm.php:40
+msgid "Delete report"
+msgstr ""
+
+#: plugins/Project/Main/Report/DeleteForm.php:48
+msgid "Report ID"
+msgstr ""
+
+#: plugins/Project/Main/Report/EditForm.php:39
+msgid "Report edited successfully"
+msgstr ""
+
+#: plugins/Project/Main/Report/EditForm.php:49
+msgid "Edit report"
+msgstr ""
+
+#: plugins/Project/Main/Report.php:29
+#, php-format
+msgid "Report #%d"
+msgstr ""
+
+#: plugins/Project/Main/ShowProjectForm.php:15
+#: plugins/Project/Main/SubmitProjectForm.php:51
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:4
+#: plugins/Project/templates/user/widget/default.php:48
+msgid "Submit project"
+msgstr ""
+
+#: plugins/Project/Main/SubmitProjectForm.php:39
+msgid "Project submitted successfully."
+msgstr ""
+
+#: plugins/Project/Main/SubmitProjectForm.php:43
+msgid ""
+"It will be listed on the project page once approved by the site "
+"administrators."
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:74
+msgid "All Projects"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:79
+#, php-format
+msgid "%s(%d)"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:112
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:18
+msgid "Project name"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:113
+msgid "Date added"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:114
+msgid "Recently updated"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:115
+msgid "Project rating"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:116
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+msgid "View count"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:117
+msgid "Recently commented"
+msgstr ""
+
+#: plugins/Project/Main/ViewProjects.php:118
+msgid "Recently linked"
+msgstr ""
+
+#: plugins/Project/Main/ViewReleases.php:70
+msgid "Newly reported first"
+msgstr ""
+
+#: plugins/Project/Model/Abuse.php:39
+msgid "Advertisement"
+msgstr ""
+
+#: plugins/Project/Model/Abuse.php:40
+msgid "Inappropriate content"
+msgstr ""
+
+#: plugins/Project/Model/Abuse.php:41
+msgid "Multiple entries"
+msgstr ""
+
+#: plugins/Project/Model/Abuse.php:42
+msgid "Adult content"
+msgstr ""
+
+#: plugins/Project/Model/Abuse.php:43
+msgid "Invalid link"
+msgstr ""
+
+#: plugins/Project/Model/Abuse.php:44
+msgid "Privacy information"
+msgstr ""
+
+#: plugins/Project/Model/AbuseHTMLQuickForm.php:14
+msgid "Please select the reason for this report"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:12
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:6
+msgid "Entity"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:14
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:7
+msgid "Entity id"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:16
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:8
+msgid "Reason"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:18
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:9
+#: plugins/Project/Model/Base/ReportForm.php:18
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:10
+#: plugins/Project/Model/ReportHTMLQuickForm.php:17
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreports.tpl:45
+msgid "Comment"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:22
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:11
+#: plugins/Project/Model/Base/CommentForm.php:24
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:18
+#: plugins/Project/Model/Base/DeveloperForm.php:14
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:7
+#: plugins/Project/Model/Base/LinkForm.php:28
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:22
+#: plugins/Project/Model/Base/ProjectForm.php:26
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:15
+#: plugins/Project/Model/Base/ReleaseForm.php:26
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:25
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+msgid "Status"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:25
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:12
+#: plugins/Project/Model/Base/CommentForm.php:27
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:19
+#: plugins/Project/Model/Base/DeveloperForm.php:19
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:9
+#: plugins/Project/Model/Base/ImageForm.php:27
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:14
+#: plugins/Project/Model/Base/LinkForm.php:31
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:23
+#: plugins/Project/Model/Base/Project2categoryForm.php:13
+#: plugins/Project/Model/Base/Project2categoryHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/ReleaseForm.php:33
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:34
+msgid "project"
+msgstr ""
+
+#: plugins/Project/Model/Base/CategoryForm.php:16
+#: plugins/Project/Model/Base/CategoryHTMLQuickForm.php:9
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:13
+msgid "Order"
+msgstr ""
+
+#: plugins/Project/Model/Base/CategoryHTMLQuickForm.php:7
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:7
+msgid "Name is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/CommentForm.php:14
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:8
+#: plugins/Project/Model/Base/ImageForm.php:12
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/LinkForm.php:16
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:11
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:46
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:19
+msgid "Title"
+msgstr ""
+
+#: plugins/Project/Model/Base/CommentForm.php:16
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:10
+#: plugins/Project/Model/CommentHTMLQuickForm.php:13
+msgid "Body"
+msgstr ""
+
+#: plugins/Project/Model/Base/CommentForm.php:18
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:12
+msgid "Body html"
+msgstr ""
+
+#: plugins/Project/Model/Base/CommentForm.php:20
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:16
+#: plugins/Project/Model/Base/LinkForm.php:22
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:19
+msgid "Allow edit"
+msgstr ""
+
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:7
+msgid "Rating is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:9
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:12
+msgid "Title is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:11
+msgid "Body is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageForm.php:14
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:7
+msgid "Original"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageForm.php:16
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:8
+msgid "Medium"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageForm.php:18
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:9
+msgid "Thumbnail"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageForm.php:24
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:13
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:22
+msgid "Priority"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:11
+msgid "Invalid file"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkForm.php:12
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/ReportForm.php:16
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:8
+msgid "Type"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkForm.php:14
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:8
+msgid "Url"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkForm.php:20
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:15
+#: plugins/Project/Model/Base/ProjectForm.php:16
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:10
+#: plugins/Project/Model/Base/ReleaseForm.php:24
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:24
+msgid "Summary html"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkForm.php:24
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:20
+msgid "Score"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:7
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:9
+msgid "Type is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:9
+msgid "Url is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:10
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:20
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:22
+msgid "Invalid URI"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:14
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:9
+msgid "Summary is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkvoteForm.php:17
+#: plugins/Project/Model/Base/LinkvoteHTMLQuickForm.php:11
+msgid "link"
+msgstr ""
+
+#: plugins/Project/Model/Base/Project2categoryForm.php:16
+#: plugins/Project/Model/Base/Project2categoryHTMLQuickForm.php:7
+msgid "category"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:18
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:11
+#: plugins/Project/Model/Base/ReportForm.php:12
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:6
+msgid "Data"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:20
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:12
+msgid "Release latest"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:22
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:13
+msgid "Lastupdate"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:24
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:14
+msgid "Image featured"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:28
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:19
+msgid "Hidden"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:30
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:23
+msgid "Allow comments"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:32
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:27
+msgid "Allow links"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:34
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:31
+msgid "Allow images"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:36
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:35
+msgid "Allow releases"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:38
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:36
+msgid "Comment rating"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:40
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:37
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:50
+msgid "Views"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:43
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:38
+msgid "Category"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReleaseForm.php:16
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:17
+msgid "Date"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReleaseForm.php:18
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:18
+msgid "Download url"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReleaseForm.php:20
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:21
+msgid "Note url"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReleaseForm.php:28
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:29
+msgid "Allow reports"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReleaseForm.php:30
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:33
+msgid "Allow download"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:7
+msgid "Version is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:19
+msgid "Download url is required"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReportForm.php:20
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:11
+msgid "Comment html"
+msgstr ""
+
+#: plugins/Project/Model/Base/ReportForm.php:23
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:12
+msgid "release"
+msgstr ""
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "5 stars"
+msgstr ""
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "4 stars"
+msgstr ""
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "3 stars"
+msgstr ""
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "2 stars"
+msgstr ""
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "1 star"
+msgstr ""
+
+#: plugins/Project/Model/Developer.php:36
+msgid "Lead"
+msgstr ""
+
+#: plugins/Project/Model/Developer.php:37
+msgid "Developer"
+msgstr ""
+
+#: plugins/Project/Model/Developer.php:38
+msgid "Contributor"
+msgstr ""
+
+#: plugins/Project/Model/Developer.php:39
+msgid "Helper"
+msgstr ""
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:42
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:22
+msgid ""
+"If you are a developer of this project, claim yourself as a developer using "
+"the request form below. Project developers can manage the contents of this "
+"page basend on the assigned role."
+msgstr ""
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:42
+msgid ""
+"You will be listed as a developer once the request is approved by the site "
+"administrator or other developers."
+msgstr ""
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:46
+msgid ""
+"Developers with the lead role can edit project data, approve/edit/delete any "
+"developers and releases, and edit/delete any comments, links, and reports "
+"for this project."
+msgstr ""
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:49
+msgid ""
+"Developers with the developer role can approve/edit/delete developers with "
+"roles other than the lead role, approve/edit/delete any releases, and edit/"
+"delete any comments, links, and reports for this project."
+msgstr ""
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:52
+msgid ""
+"Developers with the contributor role can approve/edit/delete developers with "
+"either the contributor or the helper role, approve/edit any releases, edit/"
+"delete any comments, links, and reports for this project."
+msgstr ""
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:55
+msgid ""
+"Developers with the helper role can approve/edit/delete developers with the "
+"helper role, and edit/delete any comments, links, reports for this project."
+msgstr ""
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:15
+msgid "Please select a file to upload"
+msgstr ""
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:16
+msgid "Invalid file type"
+msgstr ""
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:17
+#, php-format
+msgid "File size must be smaller than %d kilo bytes"
+msgstr ""
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:20
+msgid "Screenshot"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:18
+msgid "Blogs"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:19
+msgid "News/Announcement"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:20
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:44
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:31
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:35
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:22
+msgid "Reports"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:21
+msgid "Reviews"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:22
+msgid "Tips"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:23
+msgid "Downloadable contents"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:24
+msgid "Images/Videos"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:25
+msgid "I'm using it!"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:26
+msgid "Support sites"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:27
+msgid "Demo"
+msgstr ""
+
+#: plugins/Project/Model/Link.php:28
+msgid "Miscellaneous"
+msgstr ""
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:11
+msgid "Project summary"
+msgstr ""
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:28
+msgid "Invalid URL"
+msgstr ""
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:32
+msgid "Invalid mail address"
+msgstr ""
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:47
+#: plugins/Project/Model/ReportHTMLQuickForm.php:39
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:52
+msgid "Project details"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:23
+msgid "Stable"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:24
+msgid "RC"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:25
+msgid "Beta"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:26
+msgid "Alpha"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:27
+msgid "Snapshot"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:41
+msgid "F jS, Y"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:46
+msgid "M jS, Y"
+msgstr ""
+
+#: plugins/Project/Model/Release.php:46
+msgid "N/A"
+msgstr ""
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:13
+msgid "Stability must be selected"
+msgstr ""
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:14
+msgid ""
+"Version number must start with a number followed by zero or more digit/"
+"alphanumerical values. A digit may not be used after using an alphabet and "
+"must always be followed by a number."
+msgstr ""
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:15
+msgid "Release summary"
+msgstr ""
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:16
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:41
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:32
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:20
+msgid "Release date"
+msgstr ""
+
+#: plugins/Project/Model/Report.php:16
+msgid "OK"
+msgstr ""
+
+#: plugins/Project/Model/Report.php:17
+msgid "NG"
+msgstr ""
+
+#: plugins/Project/Plugin.php:18
+msgid "Edit any project data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:19
+msgid "Delete any project data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:20
+msgid "Approve project data submitted"
+msgstr ""
+
+#: plugins/Project/Plugin.php:21
+msgid "Hide project data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:22
+msgid "Allow or disallow project data comments"
+msgstr ""
+
+#: plugins/Project/Plugin.php:23
+msgid "Allow or disallow project data links"
+msgstr ""
+
+#: plugins/Project/Plugin.php:24
+msgid "Allow or disallow project releases"
+msgstr ""
+
+#: plugins/Project/Plugin.php:25
+msgid "Allow or disallow project data videos"
+msgstr ""
+
+#: plugins/Project/Plugin.php:26
+msgid "Edit raw HTML in project data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:27
+msgid "Edit project view count"
+msgstr ""
+
+#: plugins/Project/Plugin.php:30
+msgid "Edit own comment"
+msgstr ""
+
+#: plugins/Project/Plugin.php:31
+msgid "Edit any comment"
+msgstr ""
+
+#: plugins/Project/Plugin.php:32
+msgid "Delete own comment"
+msgstr ""
+
+#: plugins/Project/Plugin.php:33
+msgid "Delete any comment"
+msgstr ""
+
+#: plugins/Project/Plugin.php:34
+msgid "Edit comment raw HTML"
+msgstr ""
+
+#: plugins/Project/Plugin.php:35
+msgid "Allow or disallow editing comment data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:38
+msgid "Edit any release data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:39
+msgid "Delete any release data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:40
+msgid "Approve submitted release data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:41
+msgid "Edit raw HTML in release data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:44
+msgid "Edit link submitted"
+msgstr ""
+
+#: plugins/Project/Plugin.php:45
+msgid "Edit any link"
+msgstr ""
+
+#: plugins/Project/Plugin.php:46
+msgid "Delete link submitted"
+msgstr ""
+
+#: plugins/Project/Plugin.php:47
+msgid "Delete any link"
+msgstr ""
+
+#: plugins/Project/Plugin.php:48
+msgid "Edit raw HTML in link data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:49
+msgid "Vote links"
+msgstr ""
+
+#: plugins/Project/Plugin.php:50
+msgid "Allow or disallow editing link data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:53
+msgid "Edit any developer data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:54
+msgid "Delete any developer data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:55
+msgid "Approve submitted developer data"
+msgstr ""
+
+#: plugins/Project/Plugin.php:58
+msgid "Add and edit own screenshot images"
+msgstr ""
+
+#: plugins/Project/Plugin.php:59
+msgid "Edit image priority"
+msgstr ""
+
+#: plugins/Project/Plugin.php:60
+msgid "Edit any screenshot images"
+msgstr ""
+
+#: plugins/Project/Plugin.php:157
+msgid "Recent projects"
+msgstr ""
+
+#: plugins/Project/Plugin.php:159
+msgid "Recent releases"
+msgstr ""
+
+#: plugins/Project/Plugin.php:161
+msgid "Project categories"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:7
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:48
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:12
+msgid "Created"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:14
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:10
+msgid "Projects"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:9
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:55
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:15
+msgid "Action"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:28
+msgid "Listing projects"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List all"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List approved"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List pending"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List hidden"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+msgid "User rating"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:51
+msgid "Developers"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:52
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:13
+msgid "Releases"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:53
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:16
+msgid "Comments"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:54
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:19
+msgid "Links"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:65
+msgid "Hide"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:67
+msgid "Unhide"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:2
+msgid "Listing categories"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:4
+msgid "Category order"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:4
+msgid "Category name, ascending"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:4
+msgid "Category name, descending"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:3
+msgid "There can be up to 9 screenshot images for each project."
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:21
+#: plugins/Project/templates/user/widget/default.php:42
+#: plugins/Project/templates/user/widget/default.php:74
+#: plugins/Project/templates/user/widget/default.php:117
+msgid "Submitted"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:27
+msgid "Delete selected"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:27
+msgid "Regenerate thumbnails"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:28
+msgid "Update"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:12
+msgid "Rating:"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:18
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:14
+msgid "Category:"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:23
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:23
+msgid "Views:"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:24
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:24
+#, php-format
+msgid "%d time"
+msgid_plural "%d times"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:12
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:10
+#, php-format
+msgid "Developers (%d)"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:15
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:13
+#, php-format
+msgid "Releases (%d)"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:18
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:14
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:14
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:16
+#, php-format
+msgid "Comments (%d)"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:21
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:17
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:17
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:22
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:19
+#, php-format
+msgid "Links (%d)"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:25
+msgid "Please help other users by giving your opinion."
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:60
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:69
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:40
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:46
+msgid "Permalink"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:60
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:69
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:40
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:46
+msgid "Report this"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcommentsrss.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcommentsrss.tpl:12
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentsrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentsrss.tpl:13
+msgid "Recently posted comments"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:40
+msgid "Edit screenshots"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:24
+msgid "I am a developer"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:41
+#, php-format
+msgid "Showing %d developers"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:27
+msgid "We are not responsible for the content of external websites."
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:36
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:3
+msgid "Link Type: "
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:36
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:3
+msgid "All"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:50
+#, php-format
+msgid "Posted %2$s by %1$s in %3$s"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:52
+#, php-format
+msgid "Posted %1$s in %2$s"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinksrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinksrss.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinksrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinksrss.tpl:13
+msgid "Recently submitted links"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:42
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:33
+msgid "Related links"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:59
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:9
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:50
+msgid "Download"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:59
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:9
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:50
+msgid "Release note"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleasesrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleasesrss.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreportsrss.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleasesrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleasesrss.tpl:13
+msgid "Recent project releases"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:31
+msgid "[-]"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:31
+msgid "[+]"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:33
+msgid "Please submit a report if you are using this version."
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreports.tpl:35
+msgid "Report type"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreportsrss.tpl:11
+msgid "Recent reports"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:33
+#, php-format
+msgid "Posted %2$s by %1$s in <a href=\"%3$s\">%4$s</a>"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:36
+#, php-format
+msgid "Posted %1$s in <a href=\"%2$s\">%3$s</a>"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:27
+#, php-format
+msgid "Posted %2$s by %1$s in <a href=\"%3$s\">%4$s</a> - %5$s"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:29
+#, php-format
+msgid "Posted %1$s in <a href=\"%2$s\">%3$s</a> - %4$s"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectslist.tpl:7
+msgid "Category: "
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsrss.tpl:13
+msgid "Recently updated projects"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:19
+msgid "Comments:"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:21
+msgid "Links:"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:31
+msgid "Latest version"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:91
+msgid "Find out more"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:2
+msgid "My projects"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:2
+#, php-format
+msgid "%s's projects"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:7
+msgid "Registered"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:30
+msgid "No projects"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:36
+msgid "Pending projects"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:62
+msgid "No pending projects"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:67
+msgid "Pending releases"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:105
+msgid "No pending releases"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:110
+msgid "Pending developer requests"
+msgstr ""
+
+#: plugins/Project/templates/user/widget/default.php:147
+msgid "No pending developer requests"
+msgstr ""
+
+msgid "Project"
+msgstr ""

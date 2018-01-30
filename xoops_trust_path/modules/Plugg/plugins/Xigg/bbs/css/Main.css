@@ -1,0 +1,139 @@
+#plugg .commentBody,
+#plugg .trackbackBody {
+  border-bottom: 1px dotted #ccc;
+}
+
+#plugg .commentCtrl,
+#plugg .trackbackCtrl {
+  border-top: 0;
+}
+
+#plugg table.nodes {
+  width:100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  clear: both;
+}
+#plugg table.nodes td {
+  vertical-align: middle;
+}
+#plugg table.nodes th,
+#plugg table.nodes td {
+  padding: 8px 5px;
+  text-align: center;
+}
+#plugg table.nodes th {
+  border-bottom: 1px solid #ccc;
+  background-color: #feb;
+  color: #333;
+  font-size: 80%;
+}
+#plugg table.nodes th.text,
+#plugg table.nodes td.text {
+  text-align: left;
+}
+#plugg table.nodes tr.even td {
+  background-color: #ffe;
+  border-bottom: 1px dotted #ccc;
+}
+#plugg table.nodes tr.odd td {
+  background-color: #fff;
+  border-bottom: 1px dotted #ccc;
+}
+#plugg table.nodes td.nodesCommentPoster,
+#plugg table.nodes td.nodesNodePoster {
+  padding-right: 0;
+  width:46px;
+}
+#plugg table.nodes td.nodesNodePoster img,
+#plugg table.nodes td.nodesCommentPoster img {
+  padding: 2px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+}
+#plugg table.nodes span.nodesNodePosterInfo {
+  font-size: 85%;
+}
+
+#plugg .node {
+  margin: 5px 0;
+}
+#plugg .nodeContent {
+  border: 1px solid #ccc;
+  border-top: none;
+}
+#plugg .nodeSource {
+  color: #F39F01;
+}
+
+#plugg .nodeTitle {
+  font-weight: bold;
+  padding: 2px 5px;
+  background-color: #feb;
+  border: 1px solid #ccc;
+  margin-bottom:0;
+}
+#plugg .nodeToggleButton {
+  float: right;
+}
+#plugg .nodeBody,
+#plugg .nodeTeaser {
+  margin: 0;
+  padding: 10px;
+}
+#plugg .nodeInfo {border-bottom:1px solid #ccc; background-color:#efefef; padding:2px 5px;}
+#plugg .nodeInfo strong {
+  color: #F17400;
+}
+#plugg .nodeInfoDetails {margin-left:0;}
+#plugg .nodeInfoPoster {
+  float: left;
+}
+#plugg .nodeInfoPoster img {
+  margin: 7px;
+  margin-right: 10px;
+}
+#plugg .nodeInfoTags {clear:both; margin:10px; margin-top:0;}
+
+#plugg .nodeInnerLinks {
+  clear: both;
+  margin: 0;
+  text-align: right;
+  padding: 2px 5px;
+  border-top: 1px dotted #ccc;
+  background-color: #ffe;
+  float:none;
+}
+
+#plugg span.nodeVoteText span {
+  color: #aaa;
+}
+
+#plugg table.nodesNav {
+  clear: both;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 0.9em;
+}
+#plugg table.nodesNavBottom {
+  margin-top: 10px;
+}
+#plugg td.nodesNavResults {
+  text-align: left;
+  width: 30%;
+}
+#plugg td.nodesNavPages {
+  text-align: center;
+}
+#plugg td.nodesNavPages ul {
+  text-align: center;
+}
+#plugg td.nodesNavSort {
+  text-align: right;
+  width: 33%;
+}
+
+#plugg .nodesCategoryDesc {
+  padding-top: 5px;
+}

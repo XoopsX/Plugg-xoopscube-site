@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/Admin/EditMessagesForm.php:34
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/Admin/EditPluginMessagesForm.php:35
+msgid "Locale messages updated successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/Admin/EditMessagesForm.php:41
+msgid "Global message catalogue"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_editmessagesform.tpl:5
+msgid "Message"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_editmessagesform.tpl:6
+msgid "Translation"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_editmessagesform.tpl:7
+msgid "Custom"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_index.tpl:1
+msgid "Global message cataglogue"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_index.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_index.tpl:27
+msgid "Messages"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_index.tpl:22
+msgid "Plugin message cataglogues"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Locale/Locale/templates/plugg_locale_admin_index.tpl:26
+msgid "Plugin"
+msgstr ""

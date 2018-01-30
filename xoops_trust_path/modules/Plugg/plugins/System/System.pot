@@ -1,0 +1,371 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-06 18:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:7
+msgid "No plugin library specified"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:18
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/InstallPlugin.php:18
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listinstallableplugins.tpl:30
+msgid "Install"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:38
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/InstallPlugin.php:38
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:42
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/InstallPlugin.php:42
+#, php-format
+msgid ""
+"Plugin installation failure. Please check the plugin %s and try again. "
+"Error: %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:48
+msgid "Clone plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:59
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/InstallPlugin.php:59
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UpgradePlugin.php:84
+msgid "Version"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:61
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:62
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:123
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UninstallPlugin.php:72
+msgid "Clone name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:61
+msgid ""
+"Only lowercase alphabet and numerical values are allowed, and must start "
+"with an alphabet."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:63
+msgid ""
+"Only lowercase alphabet and numerical values are allowed starting with an "
+"alphabet."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:64
+msgid "There is another plugin installed using the specified plugin name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ClonePlugin.php:65
+msgid "There is another plugin library using the specified plugin name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:7
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/InstallPlugin.php:7
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UpgradePlugin.php:7
+msgid "No plugin specified"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UpgradePlugin.php:11
+msgid "Plugin not installed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UpgradePlugin.php:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:37
+msgid "Invalid plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:45
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:51
+#, php-format
+msgid "The selected plugin requires PHP %s or higher"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:53
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:84
+#, php-format
+msgid "The selected plugin requires plugin %s to be installed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:89
+#, php-format
+msgid "The selected plugin requires plugin %s to be installed and active"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:63
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:94
+#, php-format
+msgid ""
+"The selected plugin requires plugin %s version %s or higher to be installed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:93
+msgid "Plugin configured successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/ConfigurePlugin.php:111
+msgid "Configure plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/InstallPlugin.php:48
+msgid "Install plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UninstallPlugin.php:33
+msgid "The selected plugin may not be uninstalled."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UninstallPlugin.php:38
+#, php-format
+msgid "Plugin %s is required by %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UninstallPlugin.php:43
+msgid "Uninstall plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UninstallPlugin.php:75
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:55
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:56
+msgid "Display name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UninstallPlugin.php:77
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:67
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:74
+msgid "Uninstall"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UpgradePlugin.php:19
+msgid "Plugin is up to date"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UpgradePlugin.php:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:40
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:62
+msgid "Upgrade"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin/UpgradePlugin.php:71
+msgid "Upgrade plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:18
+msgid "Installable Plugins"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:43
+msgid "Installed Plugins"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:129
+#, php-format
+msgid "<b>%s</b> must be a valid email address"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:136
+#, php-format
+msgid "<b>%s</b> must be a valid URI"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:160
+#, php-format
+msgid "%s must contain only letters"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:163
+#, php-format
+msgid "%s must contain only letters and numbers"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:166
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:200
+#, php-format
+msgid "%s must be a number"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:169
+#, php-format
+msgid "%s must not contain punctuation characters"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:172
+#, php-format
+msgid "%s must be a number not starting with 0"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:175
+#, php-format
+msgid "%s must not exceed %d bytes"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:178
+#, php-format
+msgid "%s must have more than %d bytes"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:181
+#, php-format
+msgid "%s must have between %d and %d bytes"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:184
+#, php-format
+msgid "%s must pass the regex %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:187
+msgid "Options"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:192
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Admin.php:193
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Model/Base/PluginHTMLQuickForm.php:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:44
+msgid "Active"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Model/Base/PluginHTMLQuickForm.php:12
+msgid "Name is required"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Model/Base/PluginHTMLQuickForm.php:13
+msgid "Nicename"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Model/Base/PluginHTMLQuickForm.php:14
+msgid "Nicename is required"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Model/Base/PluginHTMLQuickForm.php:19
+msgid "Locked"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:21
+#, php-format
+msgid "Plugin name %s is reserved by the system"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:26
+#, php-format
+msgid "Plugin with the name %s is installed already"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:32
+msgid "Invalid plugin library"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:41
+msgid "The selected plugin may not be cloned"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:46
+msgid "The selected plugin is not compatible with this application"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:57
+#, php-format
+msgid ""
+"The selected plugin requires the PHP %s extension to be enabled on your "
+"server"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:66
+#, php-format
+msgid ""
+"The selected plugin requires the %s library file(s) to be available under "
+"include_path: %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:75
+#, php-format
+msgid "The selected plugin requires a %s database"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:131
+msgid ""
+"Additionally, failed deleting plugin data from the database. Please "
+"uninstall the plugin manually."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/Plugin.php:136
+msgid "Failed inserting plugin data into the database. "
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listinstallableplugins.tpl:2
+msgid "Refresh"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listinstallableplugins.tpl:27
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:47
+msgid "Disabled"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listinstallableplugins.tpl:29
+#, php-format
+msgid "requires %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:2
+msgid "List all"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:2
+msgid "List active"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:10
+msgid "Plugin library, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:10
+msgid "Plugin library, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:10
+msgid "Plugin name, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:10
+msgid "Plugin name, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:17
+msgid "Library"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:37
+msgid "Error"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:58
+#, php-format
+msgid "required by %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:64
+msgid "Configure"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/System/System/templates/plugg_system_admin_listplugins.tpl:70
+msgid "Clone"
+msgstr ""

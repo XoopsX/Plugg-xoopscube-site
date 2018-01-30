@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-05 17:32+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Admin/Submit.php:31
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/User/SubmitMyFootprints.php:35
+msgid "Could not hide selected footprints"
+msgstr "選択された足あとを隠せませんでした。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Admin/Submit.php:33
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/User/SubmitMyFootprints.php:37
+#, php-format
+msgid "%d footprints hidden successfully"
+msgstr "%d件の足あとを隠しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Admin/Submit.php:38
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/User/SubmitMyFootprints.php:42
+msgid "Could not unhide selected footprints"
+msgstr "選択された足あとの設定を更新できませんでした。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Admin/Submit.php:40
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/User/SubmitMyFootprints.php:44
+#, php-format
+msgid "%d footprints unhidden successfully"
+msgstr "%d件の足あとの設定を更新しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Admin/Submit.php:45
+msgid "Could not delete selected footprints"
+msgstr "選択された足あとを削除できませんでした。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Admin/Submit.php:47
+#, php-format
+msgid "%d footprints deleted successfully"
+msgstr "%d件の足あとを削除しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Model/Base/FootprintHTMLQuickForm.php:11
+msgid "Target"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Model/Base/FootprintHTMLQuickForm.php:12
+msgid "Hidden"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Plugin.php:18
+msgid "Hide own footprint"
+msgstr "自分の足あとを隠すことができる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Plugin.php:19
+msgid "Disable own footprint"
+msgstr "自分の足あとを残さないようにできる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Plugin.php:89
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Plugin.php:97
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/Plugin.php:104
+msgid "Disable my footprint"
+msgstr "自分の足あとを残さない"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_user_listmyfootprints.tpl:2
+msgid "List all"
+msgstr "全て表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_user_listmyfootprints.tpl:2
+msgid "List hidden"
+msgstr "隠した足あと"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_admin_index.tpl:29
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_user_listmyfootprints.tpl:31
+msgid "Timestamp"
+msgstr "記録日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_admin_index.tpl:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_user_listmyfootprints.tpl:40
+msgid "Hide"
+msgstr "足あとを隠す"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_admin_index.tpl:39
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_user_listmyfootprints.tpl:42
+msgid "Unhide"
+msgstr "足あとを隠さない"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_admin_index.tpl:56
+#, php-format
+msgid "%1$s viewed the user profile page of %2$s."
+msgstr "%1$sさんが%2$sさんのプロフィールを閲覧しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/templates/plugg_footprint_user_listmyfootprints.tpl:59
+#, php-format
+msgid "Viewed the user profile page of %s."
+msgstr "%sさんのプロフィールを閲覧しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/User.php:21
+msgid "My footprints"
+msgstr "自分の足あと"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/User.php:44
+msgid "Footprints"
+msgstr "足あと"

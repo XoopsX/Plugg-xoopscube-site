@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:8
+msgid "Project plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:9
+msgid "Project"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:14
+msgid "Use comment feature"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:20
+msgid "Use link feature"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:26
+msgid "Number of projects to display on top page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:35
+msgid "Number of releases to display on top page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:44
+msgid "Number of comments to display on top page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:53
+msgid "Number of links to display on top page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:62
+msgid "Number of comments on project page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:71
+msgid "Number of releases on project page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:80
+msgid "Number of links on project page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:89
+msgid "Number of release package reports per page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:98
+msgid "Allow guest users to vote links"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:104
+msgid "Define extra form elements for the project form"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:106
+msgid "Website"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:107
+msgid "Author"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:107
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:108
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:109
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:110
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:111
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:112
+msgid "Unknown"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:108
+msgid "Supported core version"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:109
+msgid "Minimum PHP version"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:110
+msgid "Included language files"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:110
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:112
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:121
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:122
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:124
+msgid "Other"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:111
+msgid "Duplicateable"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:111
+msgid "Not duplicateable"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:112
+msgid "License"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:118
+msgid "Define form elements for the release report form"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:120
+msgid "Core version"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:121
+msgid "OS"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:122
+msgid "Web server"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:123
+msgid "PHP"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:124
+msgid "Database"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:130
+msgid "Screenshot image max file size"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:130
+msgid "Enter a numeric value in kilo bytes"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:137
+msgid "Image library to use to generate thumbnail images"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:137
+msgid "One of the selected libraries will be used to generate thumbnails"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:144
+msgid "Path to ImageMagick binaries"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:144
+msgid "Set it only when leaving it blank does not work with the library"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:150
+msgid "Path to NetPBM binaries"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Project/Project/PluginInfo.php:150
+msgid "Set it only when leaving it blank does not work with the library."
+msgstr ""

@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:42
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:51
+#, php-format
+msgid "Year %d"
+msgstr "%d年"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:41
+msgid "F Y"
+msgstr "Y年n月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:46
+msgid "F d"
+msgstr "n月j日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:87
+msgid "January"
+msgstr "1月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:88
+msgid "February"
+msgstr "2月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:89
+msgid "March"
+msgstr "3月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:90
+msgid "April"
+msgstr "4月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:91
+msgid "May"
+msgstr "5月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:92
+msgid "June"
+msgstr "6月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:93
+msgid "July"
+msgstr "7月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:94
+msgid "August"
+msgstr "8月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:95
+msgid "September"
+msgstr "9月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:96
+msgid "October"
+msgstr "10月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:97
+msgid "November"
+msgstr "11月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:98
+msgid "December"
+msgstr "12月"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:105
+#, php-format
+msgid "%dst"
+msgstr "%d日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:106
+#, php-format
+msgid "%dnd"
+msgstr "%d日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:107
+#, php-format
+msgid "%drd"
+msgstr "%d日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Main/ViewBirthday.php:108
+#, php-format
+msgid "%dth"
+msgstr "%d日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Plugin.php:42
+msgid "Birthday"
+msgstr "誕生日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Plugin.php:44
+msgid ""
+"Select your birth date from the drop-down boxes below. Select empty values "
+"for all options if you do not want to reveal your birth date. Otherwise, "
+"only the year option can be empty."
+msgstr ""
+"誕生日を指定してください。誕生年を公表したくない場合は、年項目を非選択にして"
+"ください。誕生日を公表したくない場合は、全ての項目を非選択にしてください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Plugin.php:64
+msgid "Month and day options cannot be empty."
+msgstr "月または日の項目が選択されていません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Birthday/Birthday/Plugin.php:97
+msgid "F d, XXXX"
+msgstr "XXXX年n月j日"

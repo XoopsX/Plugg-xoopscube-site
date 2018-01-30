@@ -1,0 +1,260 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Admin/Delete.php:19
+msgid "Delete node"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Admin/Update.php:13
+msgid "Edit node"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/AddPageForm.php:86
+msgid "Node submitted successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/AddPageForm.php:91
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:53
+msgid "The target page is locked"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/AddPageForm.php:103
+msgid "Create page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/DeleteForm.php:10
+msgid "You are not allowed to delete this item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/DeleteForm.php:23
+msgid "Page deleted successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/EditForm.php:15
+msgid "This item has been frozen by the administration"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/EditForm.php:76
+msgid "Page updated successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/EditForm.php:88
+msgid "Edit page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:49
+msgid "Page submitted successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:74
+msgid "Move this page as a"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:76
+msgid "top page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:76
+msgid "parent page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:76
+msgid "child page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:76
+msgid "previous page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:76
+msgid "next page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:77
+msgid "of the following page (enter page ID):"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/MoveForm.php:81
+msgid "Invalid submit type"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/Show.php:82
+msgid "parent"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/Show.php:83
+msgid "child"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/Show.php:84
+msgid "previous"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Main/Page/Show.php:85
+msgid "next"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:11
+msgid "Title"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:12
+msgid "Slug"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:13
+msgid "Htmlhead"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:14
+msgid "Content"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:15
+msgid "Content html"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:16
+msgid "Allow edit"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:20
+msgid "Allow comment"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/PageHTMLQuickForm.php:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:41
+msgid "Lock"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:25
+msgid "Nav"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:29
+msgid "Views"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:30
+msgid "Hidden"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/Base/PageHTMLQuickForm.php:34
+msgid "Parent page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/PageHTMLQuickForm.php:14
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:40
+msgid "Inherit"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/PageHTMLQuickForm.php:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:42
+msgid "Unlock"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/PageHTMLQuickForm.php:20
+msgid "You must enter the title"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/PageHTMLQuickForm.php:26
+msgid "Lock mode for this page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/PageHTMLQuickForm.php:27
+msgid "Show navigation on this page and descendants"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Model/PageHTMLQuickForm.php:42
+msgid "Page with the slug name already exists"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:21
+msgid "Add node"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:22
+msgid "Edit own page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:23
+msgid "Edit any page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:24
+msgid "Delete own page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:25
+msgid "Delete any page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:26
+msgid "Move page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:27
+msgid "Enable or disable lock"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:28
+msgid "Enable or disable navigation links"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:29
+msgid "Edit HTML header"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:30
+msgid "Edit slug"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:31
+msgid "Edit view count"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:32
+msgid "Allow or disallow edit"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/Plugin.php:33
+msgid "Edit raw HTML"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/templates/plugg_page_main_page_show.tpl:10
+msgid "Move"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/templates/plugg_page_main_page_show.tpl:13
+msgid "Add:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/templates/plugg_page_main_page_show.tpl:33
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/templates/plugg_page_main_page_show.tpl:35
+msgid "Up"
+msgstr "上へ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/templates/plugg_page_main_page_show_page.tpl:10
+#, php-format
+msgid "<a href=\"%s\" title=\"%s\">%s</a> (%d)"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Page/Page/templates/plugg_page_main_showtoc.tpl:3
+msgid "Add"
+msgstr ""

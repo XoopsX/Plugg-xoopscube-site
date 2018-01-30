@@ -1,0 +1,215 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-06 18:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:8
+msgid "Feed aggregator plugin"
+msgstr "フィードアグリゲーター"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:11
+msgid "Aggregator"
+msgstr "アグリゲーター"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:15
+msgid "Allow image tags in feed items"
+msgstr "フィード各項目のコンテンツ内にあるimgタグを有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:28
+msgid "Note that this setting may be overridden by each feed."
+msgstr "この設定は各フィードの設定によって変更される場合があります。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:15
+msgid ""
+"Select whether or not to enable image tags in feed items. For security "
+"reasons, it is highly recommended that you select no if accepting feeds from "
+"untrusted users."
+msgstr ""
+"フィード各項目のコンテンツ内に記述されたimgタグを有効にするかどうかを設定しま"
+"す。信頼できないユーザからのフィードを受け付ける場合は「いいえ」を選択するこ"
+"とを推奨します。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:21
+msgid "Allow external resources in feed items"
+msgstr "フィード各項目のコンテンツ内に外部サイトのコンテンツを許可する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:21
+msgid ""
+"Select whether or not to allow resources hosted outside the feed website to "
+"be displayed in feed items, for example external website images. For "
+"security reasons, it is highly recommended that you select no if accepting "
+"feeds from untrusted users."
+msgstr ""
+"フィード各項目のコンテンツ内に、フィードを提供するサイト以外の外部サイトに設"
+"置された画像ファイル等の埋め込みを許可するかどうかを設定します。信頼できない"
+"ユーザからのフィードを受け付ける場合は「いいえ」を選択することを推奨します。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:28
+msgid "Default display preference of feed item author"
+msgstr "フィード各項目の作者名の表示設定"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:28
+msgid "Select how the author of each feed item should be displayed by default."
+msgstr "フィード各項目の作者名の表示方式を選択して下さい。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:31
+msgid ""
+"Display the author name of each feed item if available. Otherwise, display "
+"the feed owner username."
+msgstr ""
+"フィード各項目に作者名が設定されている場合は作者名を表示する。それ以外の場合"
+"にはフィード所有者のユーザ名を表示する。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:32
+msgid "Always display the feed owner username as the author."
+msgstr "常にフィード所有者のユーザ名を表示する。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:40
+msgid ""
+"The periodic time interval in number of days to check for new feed items:"
+msgstr "フィード項目を自動取得する間隔（日数）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:42
+msgid "Never"
+msgstr "自動取得なし"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:47
+msgid "User feeds require approval"
+msgstr "各ユーザによるフィードは承認が必要"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:47
+msgid ""
+"Select yes (recommended) to always require administrator approval for user "
+"submitted feeds."
+msgstr "各ユーザが設定したフィードは管理者による承認を必須としますか？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:53
+msgid "Send feed approved notification email"
+msgstr "フィード承認完了の通知メール"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:53
+msgid ""
+"Select yes to send notification email to the feed owner user upon feed "
+"approval."
+msgstr ""
+"ユーザが設定したフィードが管理者により承認された場合に通知メールを送ります"
+"か？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:59
+msgid "Feed approved notification email subject"
+msgstr "フィード承認完了の通知メールの件名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:59
+msgid ""
+"Enter subject of notification email sent to feed owner user when a feed "
+"submitted by the user is approved by administrator."
+msgstr ""
+"ユーザが設定したフィードが管理者により承認された場合に送られる通知メールの件"
+"名を入力して下さい。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:60
+msgid "{SITE_NAME}: Notification of the approval of your site feed"
+msgstr "【{SITE_NAME}】貴サイトフィード承認完了のご連絡"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:65
+msgid "Feed approved notification email"
+msgstr "フィード承認完了の通知メールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:65
+msgid ""
+"Enter content of notification email sent to feed owner user when a feed "
+"submitted by the user is approved by administrator."
+msgstr ""
+"ユーザが設定したフィードが管理者により承認された場合に送られる通知メールの内"
+"容を記述して下さい。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:71
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:102
+msgid "Hello {USER_NAME},"
+msgstr "{USER_NAME}さん"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:72
+msgid ""
+"The following feed of your website has been approved and now registered at "
+"{SITE_NAME}:"
+msgstr "下記フィードが{SITE_NAME}にて承認され正式に登録が完了しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:74
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:105
+msgid "Your feed contents will soon be listed at the following locations:"
+msgstr "フィードのコンテンツはしばらくすると下記の各ページに掲載されます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:76
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:107
+msgid "You can also send update pings to the following URL to notify updates:"
+msgstr ""
+"また、更新pingを下記URL宛に送信することで当サイトにフィードの更新を知らせるこ"
+"とが可能です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:78
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:109
+msgid "If you need to modify your feed data, go to the following link:"
+msgstr "なお、フィード情報の確認や変更は下記ページより行ってください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:84
+msgid "Send feed added notification email"
+msgstr "フィード追加の通知メール"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:84
+msgid ""
+"Select yes to send notification email to the feed owner user upon addition "
+"of feed by administrator."
+msgstr ""
+"管理者がフィードを追加した場合にフィード所有者であるユーザに通知メールを送り"
+"ますか？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:90
+msgid "Feed added notification email subject"
+msgstr "フィード追加の通知メールの件名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:90
+msgid ""
+"Enter subject of notification email sent to feed owner user upon addition of "
+"feed by administrator."
+msgstr ""
+"管理者がフィードを追加した場合にフィード所有者であるユーザに送られる通知メー"
+"ルの件名を入力して下さい。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:91
+msgid "{SITE_NAME}: Notification of the registration of your site feed"
+msgstr "【{SITE_NAME}】貴サイトフィード登録のご連絡"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:96
+msgid "Feed added notification email"
+msgstr "フィード追加の通知メールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:96
+msgid ""
+"Enter content of notification email sent to feed owner user upon addition of "
+"feed by administrator."
+msgstr ""
+"管理者がフィードを追加した場合にフィード所有者であるユーザに送られる通知メー"
+"ルの内容を記述して下さい。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/PluginInfo.php:103
+msgid ""
+"The following feed of your website has been registered at {SITE_NAME} by the "
+"site administrator:"
+msgstr ""
+"貴サイトが提供する下記フィードが{SITE_NAME}にてサイト管理者により登録されまし"
+"た。"

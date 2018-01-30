@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Admin/Searchable/Import.php:44
+#, php-format
+msgid "%d content(s) imported successfully."
+msgstr "%d件のコンテンツをインポートしました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Admin/Submit.php:47
+msgid "An error occurred while updating data."
+msgstr "データ更新に失敗しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Admin/Submit.php:49
+msgid "Data updated successfully."
+msgstr "データを更新しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/Index.php:10
+msgid "There is no searchable content."
+msgstr "検索可能なコンテンツが存在しません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/Index.php:67
+#, php-format
+msgid "Keywords must be more than %s characters"
+msgstr "キーワードは%s文字以上で入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/Index.php:72
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:455
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:459
+msgid "Please enter keywords to search for"
+msgstr "検索するキーワードを入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/ViewContent.php:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/ViewContent.php:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/ViewContent.php:32
+msgid "Selected content no longer exists"
+msgstr "選択されたコンテンツは存在しないか既に削除されています"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:354
+msgid "Find contents that have..."
+msgstr "下記のキーワードを含む:"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:359
+msgid "all of the above words"
+msgstr "すべてを含む"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:362
+msgid "one of the above words"
+msgstr "いずれかを含む"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:373
+msgid "But don't show contents that have any of these unwanted words:"
+msgstr "下記のキーワードを含めない:"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:378
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_main_index_results.tpl:4
+msgid "Keywords:"
+msgstr "キーワード:"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:389
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:415
+msgid "Only of the type(s):"
+msgstr "検索するコンテンツ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:425
+msgid "Score"
+msgstr "スコアの高いものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:434
+msgid "Order results by:"
+msgstr "検索結果の並び順:"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:441
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:501
+msgid "Search"
+msgstr "検索"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:472
+msgid "Everything"
+msgstr "全てのコンテンツ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Order, ascending"
+msgstr "表示順（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Order, descending"
+msgstr "表示順（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Active, ascending"
+msgstr "有効でないものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Active, descending"
+msgstr "有効なものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:9
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:10
+msgid "Search title"
+msgstr "検索名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:11
+msgid "Order"
+msgstr "表示順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:12
+msgid "Default"
+msgstr "デフォルト"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:35
+msgid "View"
+msgstr "表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:1
+msgid ""
+"Select contents to import to the search engine. If you import contents that "
+"are already registered on the search engine, those contents will just be "
+"overwritten."
+msgstr ""
+"検索エンジンへとインポートするコンテンツを選択してください。既にインポート済"
+"みのコンテンツをインポートした場合、そのコンテンツは上書きされます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:7
+msgid "Title"
+msgstr "タイトル"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:8
+msgid "Body"
+msgstr "本文"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:9
+msgid "Author"
+msgstr "投稿者"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:11
+msgid "Modified"
+msgstr "更新日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:18
+msgid "Import"
+msgstr "インポート"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:20
+msgid "Import and go to next page"
+msgstr "インポートして次のページを表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_main_index_results.tpl:2
+msgid "Search results"
+msgstr "検索結果"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_main_index_results.tpl:7
+#, php-format
+msgid "(score: %d)"
+msgstr "(スコア: %d)"
+
+#~ msgid "Searchable contents"
+#~ msgstr "検索可能なコンテンツ"

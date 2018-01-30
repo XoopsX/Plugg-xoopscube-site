@@ -1,0 +1,48 @@
+<?php
+global $xoopsConfig, $xoopsUser, $xoopsUserIsAdmin, $xoopsLogger, $xoopsModule, $xoopsOption, $xoopsDB, $xoopsRequestUri, $xoopsTpl;
+include XOOPS_ROOT_PATH . '/header.php';
+$header = sprintf('
+%1$s
+%2$s
+%3$s
+', $CSS, $JS_HEAD, $HTML_HEAD);
+$xoopsTpl->assign('xoops_module_header', $header);
+if (!empty($PAGE_TITLE)) {
+    $xoopsTpl->assign('xoops_pagetitle', h($PAGE_TITLE));
+} else {
+    if (is_object($this->Plugin)) {
+        $xoopsTpl->assign('xoops_pagetitle', h($this->Plugin->getNicename()));
+    }
+}
+?>
+<div id="plugg">
+<?php if (!empty($FLASH)):?>
+  <div id="plugg-flash">
+<?php   foreach ($FLASH as $_flash):
+          switch ($_flash['level']):
+            case Sabai_Response::MESSAGE_ERROR:?>
+    <div class="error fadeout">
+<?php       break;
+            case Sabai_Response::MESSAGE_WARNING:?>
+    <div class="warning fadeout">
+<?php       break;
+            case Sabai_Response::MESSAGE_INFO:?>
+    <div class="info fadeout">
+<?php       break;
+            default:?>
+    <div class="success fadeout">
+<?php     endswitch;?>
+      <p><?php echo $_flash['msg'];?></p>
+    </div>
+<?php   endforeach;?>
+  </div>
+<?php endif;?>
+  <div id="plugg-content" class="content-main">
+    <p><?php $this->_e('An error occurred.');?></p>
+<?php if ($this->User->isSuperUser()):?>
+    <p><?php _h($ERROR->getMessage());?></p>
+<?php endif;?>
+  </div>
+</div>
+<?php echo $JS_FOOT;?>
+<?php include XOOPS_ROOT_PATH . '/footer.php';?>

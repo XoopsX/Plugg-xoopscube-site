@@ -1,0 +1,14 @@
+#plugg form.quickform fieldset.collapsible-processed legend a {
+  background:transparent url(./image.php?plugin=jQuery&file=bullet_arrow_down.gif) no-repeat left 50%;
+  padding-left:18px;
+}
+#plugg form.quickform fieldset.collapsible-processed.collapsed legend a {
+  background:transparent url(./image.php?plugin=jQuery&file=bullet_arrow_right.gif) no-repeat left 50%;
+  padding-left:18px;
+}
+#plugg form.quickform fieldset.collapsible-processed.collapsed {
+  background-color:transparent;
+  border-right:none;
+  border-left:none;
+  border-bottom:none;
+}

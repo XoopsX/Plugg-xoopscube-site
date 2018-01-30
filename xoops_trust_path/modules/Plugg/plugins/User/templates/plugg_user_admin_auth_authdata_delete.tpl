@@ -1,0 +1,1 @@
+<?php $entity_form->display();?>

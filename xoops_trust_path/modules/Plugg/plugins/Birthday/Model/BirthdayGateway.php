@@ -1,0 +1,4 @@
+<?php
+class Plugg_Birthday_Model_BirthdayGateway extends Plugg_Birthday_Model_Base_BirthdayGateway
+{
+}

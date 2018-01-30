@@ -1,0 +1,25 @@
+#plugg div.message-messages {clear:both; zoom:1;}
+#plugg div.message-messages table.horizontal tr td {vertical-align:middle;}
+#plugg div.message-messages th,
+#plugg div.message-messages td.message-message-sender {padding-left:4px;}
+#plugg div.message-messages td input,
+#plugg div.message-messages th input {vertical-align:middle; margin:0; padding:0; margin-right:2px;}
+#plugg div.message-messages td select,
+#plugg div.message-messages th select {vertical-align:middle; margin:0; padding:0;}
+#plugg div.message-messages td img {vertical-align:middle; margin-right:2px;}
+#plugg ul.message-actions {display:inline; margin:0; padding:0; clear:both;}
+#plugg ul.message-actions li {display:inline; margin:0; padding:0;}
+#plugg ul.message-actions li form {display:inline;}
+#plugg div.message-message {position:relative;}
+#plugg div.message-message div.message-message-title {font-size:140%; font-weight:bold;}
+#plugg div.message-message {padding:5px 0 10px;}
+#plugg div.message-message img.user {position:absolute; top:0; right:5px;}
+#plugg dl.message-message-data,
+#plugg dl.message-message-data dt,
+#plugg dl.message-message-data dd {display:inline; margin:0; padding:0;}
+#plugg dl.message-message-data dt {margin-right:3px;}
+#plugg dl.message-message-data dd {margin-right:5px;}
+#plugg div.message-message-body {padding:5px 0;}
+#plugg div.message-message-signature {}
+#plugg a.message-new {float:right; padding:0 5px; background:transparent url(./image.php?plugin=Message&file=message_add.gif) no-repeat center left; padding-left:20px;}
+#plugg-message-newform {clear:right;}

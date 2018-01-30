@@ -1,0 +1,4 @@
+<?php
+class Plugg_Signature_Model_SignatureGateway extends Plugg_Signature_Model_Base_SignatureGateway
+{
+}

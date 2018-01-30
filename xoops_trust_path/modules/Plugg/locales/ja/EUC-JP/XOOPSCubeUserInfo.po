@@ -1,0 +1,232 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-05 17:32+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:8
+msgid ""
+"This plugin enables using user accounts of any XOOPS Cube installation as "
+"the user data. If you install this plugin on a XOOPSCube system and select "
+"this plugin as the default user account management plugin from the User "
+"plugin configuration page, this plugin will then replace the original user "
+"account management system provided by XOOPSCube with a more enhanced, "
+"feature rich user account management system."
+msgstr ""
+"XOOPS Cube上のユーザデータをPluggのユーザ情報として利用します。Userプラグイン"
+"の設定ページにてこのプラグインをユーザ管理プラグインとして選択すると、XOOPS "
+"CubeのUserモジュールが提供するユーザ管理機能よりもより高機能なユーザ管理機能"
+"を有効にします。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:9
+msgid "XOOPSCube User"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:16
+msgid "XOOPS URL"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:16
+msgid "Enter the value of XOOPS_URL defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:23
+msgid "Database hostname"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:23
+msgid ""
+"Enter the value of XOOPS_DB_HOST defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:31
+msgid "Database scheme"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:31
+msgid ""
+"Enter the value of XOOPS_DB_SCHEME defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:40
+msgid "Database name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:40
+msgid ""
+"Enter the value of XOOPS_DB_NAME defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:48
+msgid "Database user name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:48
+msgid ""
+"Enter the value of XOOPS_DB_USER defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:56
+msgid "Database user password"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:56
+msgid ""
+"Enter the value of XOOPS_DB_PASS defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:64
+msgid "Database table prefix"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:64
+msgid ""
+"Enter the value of XOOPS_DB_PREFIX defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:72
+msgid "Display on profile page"
+msgstr "プロフィールページに表示する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:73
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:77
+msgid "Display on edit profile page"
+msgstr "プロフィール編集ページに表示する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:74
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:78
+msgid "Display on registration page"
+msgstr "ユーザ登録ページに表示する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:83
+msgid "Password minimum length"
+msgstr "パスワードの最低文字数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:89
+msgid "User name minimum length"
+msgstr "ユーザ名の最低文字数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:95
+msgid "User name maximum length"
+msgstr "ユーザ名の最大文字数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:101
+msgid "User name restriction"
+msgstr "ユーザ名の文字制限"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:101
+msgid "Select the restriction level of allowed characters in a user name"
+msgstr "ユーザ名として使用できる文字の制限の度合いを選択してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:106
+msgid "Strict (Only alphabets, numbers, underscores, and dashes, RECOMMENDED)"
+msgstr "強（アルファベットおよび数字のみ）←推奨"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:107
+msgid "Medium (Strict + some punctuation characters)"
+msgstr "中（強＋いくつかの記号）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:108
+msgid "Light (Medium + multi-byte characters)"
+msgstr "弱（中＋漢字や平仮名）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:112
+msgid "Restricted user names"
+msgstr "ユーザ名として使用できない文字列"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:112
+msgid ""
+"Enter user names that are not allowed to be used, each per line. Regular "
+"expressions may be used."
+msgstr ""
+"ユーザ名として使用できない文字列をそれぞれ各行に入力してください。大文字小文"
+"字は区別しません。また、正規表現が使用可能です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:118
+msgid "Restricted email addresses"
+msgstr "登録メールアドレスとして使用できない文字列"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:118
+msgid ""
+"Enter email addresses that are not allowed to be used, each per line. "
+"Regular expressions may be used."
+msgstr ""
+"登録メールアドレスとして使用できない文字列をそれぞれ各行に入力してください。"
+"大文字小文字は区別しません。また、正規表現が使用可能です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:124
+msgid "\"Full name\" user field"
+msgstr "「名前」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:131
+msgid "\"URL\" user field"
+msgstr "「ホームページ」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:138
+msgid "\"Time zone\" user field"
+msgstr "「タイムゾーン」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:146
+msgid "\"IM accounts\" user field"
+msgstr "「インスタントメッセンジャー」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:153
+msgid "\"Location\" user field"
+msgstr "「居住地」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:160
+msgid "\"Occupation\" user field"
+msgstr "「職業」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:167
+msgid "\"Interests\" user field"
+msgstr "「趣味」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:174
+msgid "\"Site preferences\" user field"
+msgstr "「サイト設定」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:182
+msgid "\"Extra info\" user field"
+msgstr "「その他」項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:189
+msgid "Display statistic user fields"
+msgstr "「統計情報」項目を表示する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:195
+msgid "Allow avatar image upload"
+msgstr "アバター画像のアップロードを許可する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:201
+msgid "Avatar image max file size"
+msgstr "アバター画像の最大ファイルサイズ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:201
+msgid "Enter a numeric value in kilo bytes"
+msgstr "キロバイト値を入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:208
+msgid "Avatar image max file width"
+msgstr "アバター画像の最大幅"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:208
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:215
+msgid "Enter a numeric value in pixels, 0 for unlimited"
+msgstr "ピクセル数を入力してください（制限なしの場合は0）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/PluginInfo.php:215
+msgid "Avatar image max file height"
+msgstr "アバター画像の最大高さ"

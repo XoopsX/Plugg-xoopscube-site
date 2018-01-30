@@ -1,0 +1,41 @@
+#plugg .user-summary {background-color:#f4f4f4; padding:5px; border:1px solid #ccc; margin-top:5px;}
+#plugg ul.user-stat {margin:0; margin-top:3px; text-align:center;}
+#plugg ul.user-stat li {list-style:none; font-size:0.9em; margin:0; padding:0;}
+#plugg ul.user-stat li span.user-stat-label {color:#888;}
+
+#plugg .user-images {float:left; width:170px; text-align:center; margin:0;}
+#plugg .user-image {border:1px solid #eee; padding:7px; background-color:#fff;}
+#plugg .user-status {padding:6px; background-color:#ddf; margin:0; 1margin-bottom:10px; text-align:left; font-size:0.87em; border-radius:9px; -webkit-border-radius:9px; -moz-border-radius:9px; -khtml-border-radius:9px;}
+#plugg .user-status-point {background:#ddf url('./image.php?plugin=User&file=point.png') no-repeat scroll 0 0; width:24px; height:12px; margin:0 auto; margin-top:5px;}
+#plugg #plugg-user-status {padding:5px; background-color:#fff; border:1px solid #eee;}
+#plugg #plugg-user-statusform form {width:100%}
+#plugg #plugg-user-statusform form .form-content {border:0; margin:0; padding:5px; background-color:#fff;}
+#plugg #plugg-user-statusform form fieldset {padding:0; border:0; background-color:#fff;}
+#plugg .user-image img {width:140px;}
+#plugg .user-links,
+#plugg .user-links li {list-style:none; margin:0; padding:0;}
+#plugg .user-links li a {background-repeat:no-repeat; background-position:5% center; font-size:0.9em; padding:5px; text-decoration:none; display:block; margin-bottom:5px; background-color:#fff; border:2px solid #ccc; text-align:center; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; -khtml-border-radius:4px;}
+#plugg .user-links li a:hover {background-color:#ffffc9;}
+
+#plugg .user-widget {margin:0;}
+#plugg .user-widgets .user-widget {margin-left:175px;}
+#plugg .user-widget .user-box {margin-top:5px; background-color:#fff; border:1px solid #eee; padding:7px 8px; text-align:left;}
+#plugg .user-widget-top .user-box {margin-top:0;}
+#plugg .user-widget-header {margin-top:0;}
+
+#plugg .user-widget table th {text-align:left; color:#888; width:30%; vertical-align:top; padding:5px; font-weight:normal;}
+#plugg .user-widget table td {text-align:left; vertical-align:top; padding:5px;}
+#plugg .user-status-edit {float:right; font-size:0.87em;}
+#plugg span.user-image-edit {display:block; font-size:0.87em; margin-top:3px;}
+
+#plugg .user-tab {clear:both; padding:5px; position:relative;}
+#plugg .user-tab h3.user-tab-header {border:0; margin-top:10px; background-color:#f4f4f4; padding:5px; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; -khtml-border-radius:4px;}
+
+#plugg a.user-widget-button {display:block; background-repeat:no-repeat; background-position:5% center; font-size:0.9em; padding:5px; text-decoration:none; display:block; margin-bottom:5px; background-color:#fff; border:2px solid #ccc; text-align:center; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; -khtml-border-radius:4px;}
+#plugg a.user-widget-button:hover {background-color:#ffffd9;}
+#plugg .user-widgets-mini a.user-widget-button {margin-top:5px;}
+#plugg #plugg-user-main-identity-view {position:relative; zoom:1}
+#plugg .user-thumbnail {position:absolute; top:-10px; right:5px;}
+#plugg .user-thumbnail img {border:0;}
+
+#plugg .user-friends-friend {float:left; text-align:center; margin:5px;}

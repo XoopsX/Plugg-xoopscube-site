@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-06 18:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:8
+msgid "Footprint plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:11
+msgid "Footprint"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:16
+msgid "Delete footprints older than:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:19
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:20
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:23
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:22
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:24
+#, php-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:26
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:27
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Footprint/Footprint/PluginInfo.php:28
+#, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] ""
+msgstr[1] ""

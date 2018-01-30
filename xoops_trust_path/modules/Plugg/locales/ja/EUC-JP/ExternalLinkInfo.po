@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ExternalLink/ExternalLink/PluginInfo.php:8
+msgid ""
+"Adds a small link icon to external links. Opens external links in a new "
+"window when clicked."
+msgstr ""
+"外部サイトへのリンクの横に小さなアイコンを追加し、リンクをクリックした時に外"
+"部サイトを別ウィンドウで開きます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ExternalLink/ExternalLink/PluginInfo.php:9
+msgid "ExternalLink"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ExternalLink/ExternalLink/PluginInfo.php:12
+msgid "URL will be considered local if contains the following text"
+msgstr "下記URLを含むリンクは外部リンクとみなさない"

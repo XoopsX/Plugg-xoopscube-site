@@ -1,0 +1,1 @@
+<?php $form->removeElements(array('source', 'source_title', 'teaser', '_filter[teaser]')); echo $form->display();?>

@@ -1,0 +1,183 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:9
+msgid ""
+"Xigg allows site administrators to maintain a community-based news article "
+"popularity website like digg.com."
+msgstr ""
+"Xiggはdigg.comのようなソーシャルニュースサイトを構築するためのアプリケーショ"
+"ンです。他サイトで掲載された興味深い記事を紹介し、その記事に対してみんなで投"
+"票したりコメントを付けたりすることができます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:10
+msgid "Xigg"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:16
+msgid "Number of articles to display on top page"
+msgstr "トップページに表示する記事の件数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:24
+msgid "The default period to display articles on top page"
+msgstr "トップページに表示する記事のデフォルトの並び順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:27
+msgid "Newest first (all period)"
+msgstr "投稿の新しい順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:28
+msgid "Top voted first (24 hours)"
+msgstr "投票の多い順（24時間以内）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:29
+msgid "Top voted first (1 week)"
+msgstr "投票の多い順（7日間）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:30
+msgid "Top voted first (1 month)"
+msgstr "投票の多い順（30日間）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:31
+msgid "Top voted first (all period)"
+msgstr "投票の多い順（全期間）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:32
+msgid "Newly commented first"
+msgstr "コメントの新しい順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:33
+msgid "Last active first"
+msgstr "投稿またはコメントの新しい順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:39
+msgid "Allow more than 1 article to quote the same source URL"
+msgstr "複数の記事が同じ参照元URLを持つことを許可する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:46
+msgid "Number of comments to display in one page"
+msgstr "1ページに表示するコメントの件数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:55
+msgid "Number of trackbacks to display in one page"
+msgstr "1ページに表示するトラックバックの件数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:64
+msgid "Number of votes to display in one page"
+msgstr "1ページに表示する投票者の件数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:72
+msgid "Guest users are allowed to vote on articles"
+msgstr "未登録ユーザによる記事への投票を許可する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:78
+msgid "Guest users are allowed to post comments"
+msgstr "未登録ユーザによるコメントの投稿を許可する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:85
+msgid "Length of time a user can edit own comment"
+msgstr "自分が投稿したコメントを編集できなくなるまでの時間"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:88
+msgid "Edit not allowed"
+msgstr "編集を許可しない"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:89
+msgid "1 hour"
+msgstr "1時間"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:90
+msgid "2 hours"
+msgstr "2時間"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:91
+msgid "1 day"
+msgstr "1日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:92
+msgid "2 days"
+msgstr "2日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:93
+msgid "1 week"
+msgstr "1週間"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:94
+msgid "10 days"
+msgstr "10日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:95
+msgid "30 days"
+msgstr "30日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:101
+msgid "Use the upcoming article feature"
+msgstr "公開待ち機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:107
+msgid "Use the comment feature"
+msgstr "コメント機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:113
+msgid "Use the trackback feature"
+msgstr "トラックバック機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:119
+msgid "Use the voting feature"
+msgstr "投票機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:126
+msgid "Number of votes required for an article to become popular"
+msgstr "公開待ち記事が自動的に公開されるのに必要な投票数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:134
+msgid "Display view count for each article"
+msgstr "記事の閲覧数を表示する"
+
+#~ msgid "Number of articles to display in recent articles widget"
+#~ msgstr "「最近の記事」ウィジェットに表示する記事の件数"
+
+#~ msgid "Number of articles to display in recent posts widget"
+#~ msgstr "「最近の投稿」ウィジェットに表示する記事の件数"
+
+#~ msgid "Articles sort order in recent articles widget"
+#~ msgstr "「最近の記事」ウィジェットに表示する記事の表示順"
+
+#~ msgid "View count"
+#~ msgstr "閲覧数"
+
+#~ msgid "Newly published first"
+#~ msgstr "公開日時の新しい順"
+
+#~ msgid "Active article first"
+#~ msgstr "投稿またはコメントの新しい順"
+
+#~ msgid "Higher priority first"
+#~ msgstr "優先度の高い順"
+
+#~ msgid "Number of comments to display in recent comments widget"
+#~ msgstr "「最近のコメント」ウィジェットに表示するコメントの件数"
+
+#~ msgid "Number of articles to display in recent votes widget"
+#~ msgstr "「最近の投票」ウィジェットに表示する投票の件数"
+
+#~ msgid "Number of trackbacks to display in recent trackbacks widget"
+#~ msgstr "「最近のトラックバック」ウィジェットに表示するトラックバックの件数"
+
+#~ msgid "Number of tags to display in tag cloud widget"
+#~ msgstr "「タグクラウド」ウィジェットに表示するタグの件数"

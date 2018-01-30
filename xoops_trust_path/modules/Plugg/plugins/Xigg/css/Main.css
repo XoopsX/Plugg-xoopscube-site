@@ -1,0 +1,134 @@
+#plugg div.comment,
+#plugg div.trackback {clear:both; margin:6px 0; padding:0; background-color:#fff;}
+#plugg div.commentByPoster div.commentTitle {background-color: #feb;}
+#plugg .tagsCaption,
+#plugg .votesCaption,
+#plugg .commentsCaption,
+#plugg .nodeFormCaption,
+#plugg .trackbacksCaption {padding:0; color:#F39F01; clear:both; border-bottom:1px dotted #ccc; padding-bottom:1px; margin-bottom:2px;}
+#plugg .trackbackLinkCaption,
+#plugg .commentFormCaption {font-size:1.1em; color:#F17400; clear:both; margin:0; padding-top:5px;}
+#plugg .commentReplyForm {margin:0 10px;}
+#plugg .commentBody,
+#plugg .trackbackBody {padding:10px; border:1px solid #ccc; border-bottom:none; margin-bottom:0;}
+#plugg .commentBody h3 {font-size:1.2em;}
+#plugg .commentPoster img {float:right; margin:7px; margin-right:10px; padding:2px; border:1px solid #ccc; background-color:#eee;}
+#plugg .commentCtrl,
+#plugg .trackbackCtrl {clear:both; margin:0; text-align:right; padding:2px 5px; border:1px solid #ccc; border-top:1px dotted #ccc; background-color:#ffe;}
+#plugg .commentFoot,
+#plugg .trackbackFoot {display:inline;}
+#plugg .commentTitle,
+#plugg .trackbackTitle {background-color:#ffd; border:1px solid #ccc; padding:2px 5px;}
+#plugg .commentTitleText,
+#plugg .trackbackTitleText {font-weight:bold;}
+#plugg .commentTitleToggle,
+#plugg .trackbackTitleToggle {float:right;}
+#plugg .commentContent,
+#plugg .trackbackContent {clear:both;}
+#plugg .commentContentFoot,
+#plugg .trackbackContentFoot {clear:both;}
+#plugg .commentData,
+#plugg .trackbackData {border:1px solid #ccc; border-top:none; border-bottom:none; background-color:#efefef; padding:2px 5px;}
+#plugg .commentData strong,
+#plugg .trackbackData strong {color:#F17400;}
+#plugg .node {padding:3px 2px; margin-bottom:2em;}
+#plugg .nodePreview {margin:5px 0; border:1px solid #ccc; background-color:#eee;}
+#plugg .nodeSource {clear:both; margin:0; padding:0; margin-bottom:-3px;}
+#plugg .nodeSource a {text-decoration:none; color:#F39F01; font-weight:bold;}
+#plugg .nodeTitle {clear:both; padding:0; padding-bottom:4px; border-bottom:1px dotted #ccc; margin-bottom:2px;}
+#plugg .nodeContent {clear:left;}
+#plugg .nodeBodyScreenshot {float:left; width:120px; height:120px; margin:3px 10px 3px 0;}
+#plugg .nodeInfo {margin:0; line-height:130%; padding:2px;}
+#plugg .nodeInfo strong {color:#F17400;}
+#plugg .nodeInfoPoster img {float:left; margin-right:5px; padding:2px; border:1px solid #ccc; background-color:#eee;}
+#plugg .nodeInfoTags { background:transparent url(./image.php?plugin=Xigg&file=tag_orange.gif) no-repeat center left; padding:2px 0; padding-left:20px; line-height:21px;}
+#plugg .nodeLastUpdate,
+#plugg .commentLastUpdate { clear:both; color:#ccc; font-size:smaller;}
+#plugg .nodeInnerLinks { clear:both; padding:5px 0; float:right; height:20px;}
+#plugg .nodeTrackbackLink { padding:5px 0;}
+#plugg div.nodeVote { width:55px; padding:0; float:right; margin:5px 0 5px 8px; text-align:center;}
+#plugg div.nodeVoteCount { padding:13px 0; background-color:#feb; font-size:1.9em; color:#333; text-align:center; border:1px solid #fb6;}
+#plugg div.nodeVoteText { margin-top:2px; border:1px solid #fda; text-align:center; font-size:0.8em; color:#aaa;}
+#plugg div.nodeVoteText span { display:block; background-color:#ffe; padding:2px 5px;}
+#plugg div.nodeVoteText a { display:block; background-color:#ffe; padding:2px 5px;}
+#plugg .nodeVoteText a:hover { background-color:#ffc;}
+#plugg div.nodeVoteError { font-size:0.9em; color:#f00; font-weight:bold; line-height:100%;}
+#plugg .nodeCommentsLink { background:transparent url(./image.php?plugin=Xigg&file=comment.gif) no-repeat; padding:2px 0 2px 17px;}
+#plugg .commentRepliesLink { background:transparent url(./image.php?plugin=Xigg&file=reply.gif) no-repeat; padding:2px 0 2px 18px;}
+#plugg .nodeTrackbacksLink { background:transparent url(./image.php?plugin=Xigg&file=trackback.gif) no-repeat; padding:2px 0 2px 17px;}
+#plugg .commentsSort,
+#plugg .trackbacksSort,
+#plugg .votesSort { clear:both; background-color:#ffe; padding:0 3px 2px 3px; font-size:0.9em; font-weight:bold;}
+#plugg .commentsSortToggle,
+#plugg .trackbacksSortToggle,
+#plugg .votesSortToggle { float:right;}
+#plugg .nodesSearch { text-align:left; margin:0; padding:2px; padding-left:5px; font-size:85%; background-color:#ffe;}
+#plugg .nodesSearch form { display:inline;}
+#plugg .nodesFeed {float:right; padding-top:5px; padding-right:5px;}
+#plugg .nodesNav { width:100%; font-size:85%; clear:both; margin:15px 2px 10px 2px;}
+#plugg .nodesNavBottom { margin-top:20px;}
+#plugg .nodesNavResults {float:left; width:45%;}
+#plugg .nodesNavPages {text-align:center;}
+#plugg .nodesNavPages ul { text-align:center;}
+#plugg .nodesNavSort { float:right;}
+#plugg .nodesHead { padding:0; margin:0; background-color:#fff;}
+#plugg .nodesHead ul { width:100%; margin:0; padding:0; list-style:none; margin-top:1px; border-bottom:1px solid #fa6; float:left;}
+#plugg .nodesHead li { list-style:none; float:left; border:1px solid #fa6; border-bottom:none; margin:0; margin-left:4px; font-weight:bold; padding:0; margin-bottom:-1px;}
+#plugg .nodesHead li.submit { float:right; margin-right:4px;}
+#plugg .nodesHead li a { padding:1px 1.2em; background-color:#feb; font-size:90%; float:left; text-decoration:none;}
+#plugg .nodesHead li a:hover { background-color:#ffc;}
+#plugg .nodesHead li.active { color:#000; padding:1px 1.2em; background-color:#ffe; font-weight:bold; border-bottom:1px solid #ffe; font-size:90%;}
+#plugg .nodesSortCurrent { font-weight:bold;}
+#plugg .nodesSelectCategory { float:right; margin-right:5px; font-size:0.9em;}
+#plugg .nodeVotes { margin-bottom:10px;}
+#plugg .nodesSort {font-size:0.9em; margin:0; padding:5px 0 0 5px;}
+
+#plugg ul.voteUsers { clear:both; list-style:none;}
+#plugg li.voteUser { list-style:none; width:150px; float:left; padding-bottom:0.1em;}
+#plugg li.voteUser img { margin-right:5px; vertical-align:text-bottom; padding:2px; border:1px solid #ccc; background-color:#eee;}
+
+#plugg .toggleButton { font-size:12px; font-weight:normal;}
+#plugg .toggleButton a { text-decoration:none;}
+#plugg .tagCloud a { text-decoration:none; padding:2px;}
+
+/*For Text_Wiki toc*/
+#plugg .tocList{ width:40%; border:1px solid #ccc; background-color:#eee; padding:0.8em 2em;}
+#plugg .tocList strong { margin-left:-1.3em;}
+#plugg .tocItem{ background:transparent url(./image.php?plugin=Xigg&file=bullet_black.gif) no-repeat top left; padding-left:18px;}
+
+/*tabber*/
+/*--------------------------------------------------
+ REQUIRED to hide the non-active tab content.
+ But do not hide them in the print stylesheet!
+ --------------------------------------------------*/
+#plugg .tabberlive .tabbertabhide { display:none;}
+
+/*--------------------------------------------------
+ .tabber = before the tabber interface is set up
+ .tabberlive = after the tabber interface is set up
+ --------------------------------------------------*/
+#plugg .tabber {}
+#plugg .tabberlive { margin-top:1em;}
+
+/*--------------------------------------------------
+ ul.tabbernav = the tab navigation list
+ li.tabberactive = the active tab
+ --------------------------------------------------*/
+#plugg ul.tabbernav { width:100%; float:left; margin:0; padding:0; border-bottom:1px solid #fb6; font-weight:bold;}
+#plugg ul.tabbernav li { list-style:none; margin:0; display:inline; padding:0; float:left;}
+#plugg ul.tabbernav li a{ float:left; display:block; margin:0 0 -1px 4px; padding:0.2em 0.5em; border:1px solid #fb6; border-bottom:none; background-color:#feb; font-size:0.9em;}
+#plugg ul.tabbernav li a:hover{ background-color:#ffc;}
+#plugg ul.tabbernav li.tabberactive a{ border-bottom:none; color:#000; background-color:#ffe; border-bottom:1px solid #ffe;}
+
+/*--------------------------------------------------
+ .tabbertab = the tab content
+ Add style only after the tabber interface is set up (.tabberlive)
+ --------------------------------------------------*/
+#plugg .tabberlive .tabbertab { padding:0;}
+#plugg .tabberlive .tabbertab .commentsCaption,
+#plugg .tabberlive .tabbertab .trackbacksCaption,
+#plugg .tabberlive .tabbertab .votesCaption{ display:none;}
+
+
+#plugg .user-widget-entry.xigg-user-widget-comment {background:transparent url(./image.php?plugin=Xigg&file=comment.gif) no-repeat left 3px; padding-left:22px;}
+#plugg .user-widget-entry.xigg-user-widget-node {background:transparent url(./image.php?plugin=Xigg&file=page.gif) no-repeat left 3px; padding-left:22px;}

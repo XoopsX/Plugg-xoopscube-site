@@ -1,0 +1,132 @@
+#plugg div.rss,
+#plugg div.sort {margin:0; min-height:25px; height:auto !important; height:25px; font-size:90%;}
+#plugg div.rss {float:right; padding:10px 0 5px 0;}
+#plugg div.sort {float:left; clear:both; padding:10px 0 5px 0; width:45%;}
+#plugg div.sort select,
+#plugg div.rss select {font-size:90%}
+#plugg div.rss img {vertical-align:text-bottom; margin-left:3px;}
+#plugg div.result,
+#plugg div.pagination {margin:5px 0; font-size:90%;}
+#plugg div.result {float:left;}
+#plugg div.pagination {float:right;}
+
+#plugg div.detailslist,
+#plugg div.developerslist,
+#plugg div.projectslist,
+#plugg div.commentslist,
+#plugg div.linkslist,
+#plugg div.releaseslist {clear:both; margin:0; padding-top:1px; min-height:100px;}
+#plugg div.detailslist dl dt {font-weight:bold;}
+#plugg div.detailslist dl dd {margin-bottom:5px;}
+#plugg div.add span a {float:right; margin-top:-20px;}
+#plugg div.project { position:relative; padding:7px 0;}
+#plugg div.project dl.project-meta {margin:0; padding:0; font-size:90%;}
+#plugg div.project dl.project-meta dt {display:inline; margin:0; padding:0; margin-right:2px; font-weight:bold;}
+#plugg div.project dl.project-meta dd {display:inline; margin:0; padding:0; margin-right:5px;}
+#plugg div.project dl.project-meta.rating img {vertical-align:top;}
+#plugg div.project .project-rating {margin-top:0; padding:0; margin-left:-2px;}
+#plugg div.project.summary {margin-top:10px; padding:7px 10px; position:relative; min-height:170px; background-color:#fbfbfb; border:0; border-top:1px solid #ccc; border-bottom:1px solid #ccc;}
+*#plugg div.project.summary {height:auto !important; height:170px;}
+#plugg div.project.summary.hidden {background-color:#aaa;}
+#plugg div.project.summary.pending {background-color:#d9d9d9;}
+#plugg div.project .project-summary {margin:5px 0;}
+#plugg div.project img.project-image {position:absolute; top:10px; left:0;}
+#plugg div.project.summary img.project-image {left:10px;}
+#plugg div.project.pad dl.project-meta,
+#plugg div.project.pad .project-title,
+#plugg div.project.pad .project-rating,
+#plugg div.project.pad .project-summary {padding-left:162px;}
+#plugg div.project ul.project-admin,
+#plugg div.release ul.release-admin {text-align:right; margin:0; padding:0;}
+#plugg div.project ul.project-admin li,
+#plugg div.release ul.release-admin li  {display:inline; margin:0; padding:0;}
+#plugg div.project .project-admin img,
+#plugg div.release .release-admin img {padding:2px; margin:0; border:1px solid #ccc; background-color:#fff;}
+#plugg div.project ul.project-admin {position:absolute; top:7px; right:7px;}
+#plugg div.project div.project-links {text-align:right;}
+
+#plugg div.section {clear:both; margin-top:30px; padding-top:10px; position:relative;}
+#plugg div.section .add-item span a {float:right;}
+#plugg div.section .add-item h4 {margin-top:10px;}
+#plugg div.section .section-title img {margin-left:3px; margin-top:-4px;}
+#plugg div.section .section-note {margin:0; padding:0; margin-bottom:5px; font-size:95%; }
+#plugg div.section  span.section-toggle {font-size:90%; margin-right:2px; margin-top:-4px;}
+#plugg div.section .section-sort ul {display:inline; margin:0;}
+#plugg div.section .section-sort ul li {display:inline; margin-left:2px;}
+#plugg div.section .section-sort ul li.current {font-weight:bold;}
+#plugg div.section.imageslist {margin-top:0; padding-top:5px;}
+#plugg #plugg-project-main-project-listimages-form {margin:0; padding:0; border:0; background-color:#fff;}
+
+#plugg tbody tr.role3 td {background-color:#efefff;}
+#plugg tbody tr.role6 td {background-color:#e9e9ff;}
+#plugg tbody tr.role8 td {background-color:#dfdfff;}
+#plugg tbody tr.role10 td {background-color:#d9d9ff;}
+
+#plugg tbody tr.stability10 td {background-color:#bfb;}
+#plugg tbody tr.stability8 td {background-color:#dfd;}
+#plugg tbody tr.stability5 td {background-color:#fda;}
+#plugg tbody tr.stability3 td {background-color:#fcc;}
+#plugg tbody tr.stability1 td {background-color:#fbb;}
+#plugg tbody tr.pending td {background-color:#d9d9d9;}
+
+#plugg .item {clear:both;}
+#plugg .item h4.item-title {font-size:130%; border:0; margin:5px 0;}
+#plugg .item .item-body {padding:10px 0 15px 0; }
+#plugg .item .item-date { font-size:90%; margin-top:-2px; border:0;}
+#plugg .item .item-extra {clear:both; margin:0; font-size:95%;}
+#plugg .item .item-report h4 {margin:10px 0 0 5px;}
+#plugg .item .item-admin {margin:0; text-align:right;}
+#plugg .item .item-admin ul {display:inline; margin:0; padding:0;}
+#plugg .item .item-admin li {display:inline; margin:0; padding:0;}
+#plugg .item .item-admin img,
+#plugg .item .item-user img {padding:2px; margin:0; border:1px solid #ccc; background-color:#fff;}
+
+#plugg .item.link {border:1px solid #ccc; background-color:#fbfbfb; padding:7px; margin:0; margin-top:10px; padding-left:0; position:relative; border-right:0; border-left:0;}
+#plugg .item.link .item-rating {width:75px; height:60px; position:absolute; top:10px; right:10px;}
+#plugg .item.link .item-rating-score {text-align:center; margin:0; padding:5px 10px; border:1px solid #ccc; background-color:#fff; line-height:110%; border-radius:6px; -webkit-border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px;}
+#plugg .item.link .item-rating-score-sum,
+#plugg .item.link .item-rating-score-count {font-size:18px;}
+#plugg .item.link .item-rating-error {font-size:small; color:#d00;}
+#plugg .item.link .item-rating-vote,
+#plugg .item.link .item-rating-vote ul {text-align:center; margin:0; padding:0;}
+#plugg .item.link .item-rating-vote ul li {display:inline; margin:0; padding:0;}
+#plugg .item.link .item-url {font-size:95%; margin:0; margin-bottom:-3px; padding:0; color:#999;}
+#plugg .item.link .item-url,
+#plugg .item.link .item-title,
+#plugg .item.link .item-date,
+#plugg .item.link .item-body,
+#plugg .item.link .item-extra,
+#plugg .item.link .item-report {padding-left:140px; padding-right:85px;}
+#plugg .item.link .item-report {padding-right:10px;}
+#plugg .item.link .item-image {position:absolute; top:10px; left:10px; margin:0; padding:0;}
+
+#plugg .item.comment {border:1px solid #ccc; padding:7px; margin-top:10px; padding-left:0; position:relative; border-left:0; border-right:0; background-color:#fbfbfb;}
+#plugg .item.comment .item-rating {margin:0; padding:0;}
+#plugg .item.comment .item-rating,
+#plugg .item.comment .item-title,
+#plugg .item.comment .item-date,
+#plugg .item.comment .item-body,
+#plugg .item.comment .item-extra,
+#plugg .item.comment .item-report {padding-left:73px;}
+#plugg .item.comment .item-report {padding-right:10px;}
+#plugg .item.comment .item-user {width:50px; height:50px; position:absolute; top:10px; left:10px; border:1px solid #d0d0d0; text-align:center; background-color:#ffffff;}
+#plugg .item.comment .item-user img {padding:0; margin-top:2px; border:0;}
+
+#plugg table.items tfoot td.pagination { text-align:right;}
+#plugg table.items tfoot td.pagination ul { text-align:right;}
+
+#plugg div.section.imageslist table.items {margin-bottom:10px;}
+#plugg div.section.imageslist table.items tfoot td {padding:0;}
+#plugg div.section.imageslist table.items tbody td {padding-left:4px;}
+
+#plugg div.release dl.release-data {margin:0; padding:5px;}
+#plugg div.release dl.release-data dt {font-weight:bold;}
+#plugg div.release dl.release-data dd {display:inline;}
+#plugg div.release .release-summary {padding:5px;}
+
+#plugg div.section.detailslist dl {padding-right:350px;}
+#plugg div.screenshots {width:350px; padding:0; margin:0; position:absolute; top:10px; right:5px;}
+#plugg div.screenshots h4 {font-size:100%;}
+#plugg div.screenshots ul li {list-style-type:none; display:inline; padding:0; margin:0;}
+#plugg div.screenshots ul li img {padding:2px; border:1px solid #ccc; margin:0 5px 8px 0; width:100px; height:70px;}
+#plugg div.screenshots div.add-link {padding-left:5px; margin-top:-5px;}

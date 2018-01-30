@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:8
+msgid "Uses the Swift Mailer php library to send emails"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:9
+msgid "SwiftMailer"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:15
+msgid "Use SMTP"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:15
+msgid ""
+"Use SMTP to send mail in addition to the default mail() function. The SMTP "
+"connection is the most consistent and portable connection. You need to have "
+"a SMTP server which is capable of relaying mail from the domain of your web "
+"server for this to work."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:21
+msgid "SMTP server host"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:21
+msgid "Hostname or IP address of the SMTP server."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:27
+msgid "SMTP server port"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:27
+msgid ""
+"Port number of SMTP server. Defaults to 25 for non secure and 465 for secure "
+"connection."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:41
+msgid "Enable SMTP authentication"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:41
+msgid ""
+"Enables SMTP authentication. You will need to provide a username and "
+"password to use for authentication."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:47
+msgid "SMTP authentication username"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:47
+msgid "Username to use for SMTP authentication."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:54
+msgid "SMTP authentication password"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:54
+msgid "Password to use for SMTP authentication."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:61
+msgid "Enable SMTP over SSL/TLS"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:61
+msgid "NOTE: PHP needs to be compiled with OpenSSL for this to work."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:67
+msgid "Use the sendmail binary"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:67
+msgid ""
+"Use the sendmail binary to send mail in addition to the default mail() "
+"function."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:73
+msgid "Path to the sendmail binary"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:73
+msgid ""
+"Enter path to the sendmail binary on the server. Leave it blank to enable "
+"auto detection."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:87
+msgid "AntiFlood - Threshold number of emails per-connection"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:87
+msgid ""
+"A threshold number of emails to allow through per-connection. A persistent "
+"connection will be kept open for the number of emails and restarts the "
+"connection each time the threshold is reached."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:94
+msgid "AntiFlood - Number of seconds before the next connection"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:94
+msgid "The number of seconds to wait until the next connection."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:101
+msgid "Throttle - Kilo-bytes per minute"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:101
+msgid ""
+"Set the size of data in kilo bytes that can be sent per minute to prevent "
+"hogging the server resources and/or bandwidth."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:108
+msgid "Throttle - Messages per minute"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/SwiftMailer/SwiftMailer/PluginInfo.php:108
+msgid ""
+"Set the number of mails that can be sent per minute to prevent hogging the "
+"server resources and/or bandwidth."
+msgstr ""

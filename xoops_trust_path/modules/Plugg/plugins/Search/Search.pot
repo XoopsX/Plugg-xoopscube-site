@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Admin/Searchable/Import.php:44
+#, php-format
+msgid "%d content(s) imported successfully."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Admin/Submit.php:47
+msgid "An error occurred while updating data."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Admin/Submit.php:49
+msgid "Data updated successfully."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/Index.php:10
+msgid "There is no searchable content."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/Index.php:67
+#, php-format
+msgid "Keywords must be more than %s characters"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/Index.php:72
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:455
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:459
+msgid "Please enter keywords to search for"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/ViewContent.php:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/ViewContent.php:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Main/ViewContent.php:32
+msgid "Selected content no longer exists"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:354
+msgid "Find contents that have..."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:359
+msgid "all of the above words"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:362
+msgid "one of the above words"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:373
+msgid "But don't show contents that have any of these unwanted words:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:378
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_main_index_results.tpl:4
+msgid "Keywords:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:389
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:415
+msgid "Only of the type(s):"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:425
+msgid "Score"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:434
+msgid "Order results by:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:441
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:501
+msgid "Search"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/Plugin.php:472
+msgid "Everything"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Order, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Order, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Active, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:2
+msgid "Active, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:9
+msgid "Plugin"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:10
+msgid "Search title"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:11
+msgid "Order"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:12
+msgid "Default"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_list.tpl:35
+msgid "View"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:1
+msgid ""
+"Select contents to import to the search engine. If you import contents that "
+"are already registered on the search engine, those contents will just be "
+"overwritten."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:7
+msgid "Title"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:8
+msgid "Body"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:9
+msgid "Author"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:11
+msgid "Modified"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:18
+msgid "Import"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_admin_searchable_view.tpl:20
+msgid "Import and go to next page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_main_index_results.tpl:2
+msgid "Search results"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/templates/plugg_search_main_index_results.tpl:7
+#, php-format
+msgid "(score: %d)"
+msgstr ""

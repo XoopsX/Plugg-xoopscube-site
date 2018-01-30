@@ -1,0 +1,1475 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-05 17:32+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Auth/Authdata/Delete.php:33
+msgid "Remove auth data"
+msgstr "認証情報の削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Auth/Authdata/Submit.php:26
+msgid "Could not remove selected authentication data"
+msgstr "選択された認証情報を削除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Auth/Authdata/Submit.php:31
+#, fuzzy, php-format
+msgid "%d authentication data removed successfully"
+msgstr "%件の認証情報を削除しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Auth/Submit.php:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Autologin/Submit.php:34
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Field/Submit.php:65
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Menu/Submit.php:48
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Queue/Submit.php:34
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Widget/Submit.php:63
+msgid "An error occurred while updating data."
+msgstr "データ更新に失敗しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Auth/Submit.php:52
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Field/Submit.php:67
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Menu/Submit.php:54
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Queue/Submit.php:36
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Widget/Submit.php:65
+msgid "Data updated successfully."
+msgstr "データを更新しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Autologin/Submit.php:37
+#, php-format
+msgid "%d auto-login session(s) deleted successfully."
+msgstr "%d件の自動ログインセッションを削除しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Queue/Send.php:53
+#, fuzzy
+msgid "Confirmation mail sent successfully."
+msgstr "マイフレンドをはずしました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Queue/Send.php:58
+#, fuzzy
+msgid "An error occurred while sending confirmation mail."
+msgstr "データ更新に失敗しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Create.php:40
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:46
+msgid "Add role"
+msgstr "ロールの追加"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Delete.php:26
+msgid "Delete role"
+msgstr "ロールの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Create.php:14
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_member_list.tpl:48
+msgid "Add member"
+msgstr "メンバーの追加"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Create.php:35
+msgid "User ID cannot be empty"
+msgstr "ユーザIDが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Create.php:41
+msgid "User with the specified id does not exist"
+msgstr "指定されたIDのユーザは存在しません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Create.php:47
+msgid "The user already belongs to the role"
+msgstr "そのロールは既に割り当て済みです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Delete.php:20
+msgid "You may not remove yourself from the system defined role"
+msgstr "システムロールから自分自身を外すことはできません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Delete.php:26
+msgid "Remove member"
+msgstr "メンバーの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Submit.php:26
+msgid "Could not remove selected members"
+msgstr "選択されたメンバーを削除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Member/Submit.php:31
+#, php-format
+msgid "%d members(s) removed successfully"
+msgstr "%d人のメンバーを削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role/Update.php:27
+msgid "Edit role"
+msgstr "ロールの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Role.php:55
+msgid "System defined roles may not be edited nor deleted"
+msgstr "システムロールを編集したり削除することはできません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Submit.php:37
+msgid "Invalid role"
+msgstr "不正なロールです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Submit.php:50
+msgid "Could not assign role to selected users"
+msgstr "ロールを割り当てることができませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Submit.php:55
+#, php-format
+msgid "%d users(s) assigned role successfully"
+msgstr "%d人のユーザへとロールを割り当てました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Submit.php:63
+msgid "Could not remove role from selected users"
+msgstr "選択されたユーザからロールを外せませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin/Submit.php:68
+#, php-format
+msgid "%d users(s) removed role successfully"
+msgstr "%d人のユーザからロールを外しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:20
+msgid "Autologins"
+msgstr "自動ログイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:26
+msgid "Queues"
+msgstr "キュー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:32
+msgid "Menu"
+msgstr "メニュー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:38
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:44
+msgid "Fields"
+msgstr "追加項目"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:50
+msgid "Authentications"
+msgstr "認証情報"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:56
+msgid "Roles"
+msgstr "ロール"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Admin.php:65
+msgid "Users"
+msgstr "ユーザ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/AssociateAuth.php:45
+#, php-format
+msgid ""
+"Login using the form below to associate your user account with the submitted "
+"authentication or <a href=\"%s\">create a new user account and associate it "
+"with the authenticaton</a>."
+msgstr ""
+"既にユーザ登録がお済みの場合は、下記フォームよりログインしてユーザアカウント"
+"を認証情報と結びつけることができます。ユーザ登録がまだの場合は、<a href=\"%s"
+"\">新規ユーザ登録</a>を行い、作成されたアカウントへと認証情報を結びつけます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/AssociateAuth.php:53
+msgid ""
+"Authentication associated with your user account successfully. You can log "
+"in as the user account using the authentication from now on."
+msgstr ""
+"認証情報をユーザアカウントへと関連付けました。今後はこの認証情報を使用してロ"
+"グインできます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/AssociateAuth.php:58
+msgid ""
+"Failed creating association between your user account and the external "
+"authentication used. Try logging in again using the external authentication."
+msgstr "認証情報をユーザアカウントへと関連付けることができませんでした。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/AssociateAuth.php:70
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Login.php:41
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Login.php:164
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:131
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:484
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_login.tpl:3
+msgid "Login"
+msgstr "ログイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:38
+msgid ""
+"An error occurred. Please click on the email link again to complete the "
+"process."
+msgstr "エラーが発生しました。メール文中のリンクを再度クリックしてください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:75
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:135
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Register.php:55
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:71
+msgid ""
+"You have been registered successfully. Please login using the username/"
+"password pair submitted during registration."
+msgstr ""
+"ユーザ登録が完了しました。ユーザ登録時のユーザ名およびパスワードを使用してロ"
+"グインしてください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:82
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:166
+msgid ""
+"An error occurred. Please fill in the registration form again to register."
+msgstr "エラーが発生しました。ユーザ登録フォームを再送信してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:95
+msgid "Your new password has been sent to your registered email address."
+msgstr "新しいパスワードを登録メールアドレス宛に送りました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:102
+msgid "An error occurred. Please submit the password request form again."
+msgstr "エラーが発生しました。パスワード再発行フォームを再送信してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:114
+msgid "Your email address has been updated successfully."
+msgstr "メールアドレスを更新しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:121
+msgid ""
+"An error occurred. Please submit the form again to change your email address."
+msgstr "エラーが発生しました。メールアドレス変更フォームを再送信してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:142
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:80
+#, php-format
+msgid ""
+"Additionally, your external authentication data using %s has been associated "
+"with the created account. You can also use that authentication data to login."
+msgstr ""
+"また、%sを使用した認証情報をユーザアカウントへと関連付けました。この認証情報"
+"を使用してログインすることも可能です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:155
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:93
+#, php-format
+msgid ""
+"An error has occurred while associating your external authentication data "
+"with the created account. Please <a href=\"%s\">login again using %s</a> if "
+"you need to associate the authentication data."
+msgstr ""
+"外部認証情報をユーザアカウントへと関連付けることができませんでした。認証情報"
+"の関連付けを行うには<a href=\"%s\">%sを使用して再度ログイン</a>してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Confirm.php:182
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:979
+#, php-format
+msgid "New password request at %s"
+msgstr "再発行パスワード＠%s"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Delete.php:16
+msgid "You are not allowed to delete other user profile."
+msgstr "他ユーザのアカウントを削除する権限がありません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Delete.php:23
+msgid "You are not allowed to delete your own profile."
+msgstr "自分のユーザアカウントを削除する権限がありません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Delete.php:32
+msgid "User data removed successfully"
+msgstr "ユーザアカウントを削除しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Delete.php:39
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Delete.php:55
+msgid "Delete account"
+msgstr "アカウント削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/DeleteAutologin.php:36
+msgid "Failed removing active autologin session."
+msgstr "自動ログインのセッションを削除できませんでした。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/DeleteAutologin.php:38
+msgid "Autologin session removed successfully."
+msgstr "自動ログインのセッションを削除しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Edit.php:60
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditImage.php:31
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:26
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditStatus.php:45
+msgid "User data updated successfully"
+msgstr "ユーザ情報を更新しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Edit.php:68
+msgid "Edit profile"
+msgstr "プロフィール編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:55
+msgid ""
+"Email modification request has been submitted successfully. Please check "
+"your email for further instruction."
+msgstr ""
+"メールアドレス変更のリクエストを受け付けました。新しいメールアドレス宛へと確"
+"認のメールを送りましたので、メール内容の指示に従ってください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:67
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_account.tpl:7
+msgid "Edit email address"
+msgstr "メールアドレス変更"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:86
+msgid "New email address"
+msgstr "新しいメールアドレス"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:87
+msgid "Enter your new email address"
+msgstr "新しいメールアドレスを入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:94
+msgid "Confirm email address"
+msgstr "メールアドレス再入力"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:94
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:63
+msgid "Enter again for confirmation"
+msgstr "確認のためもう一度入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:101
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:80
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:103
+msgid ""
+"Please enter a valid email address for yourself. We will send you an email "
+"shortly that you must confirm to complete the process."
+msgstr ""
+"下記フォームに新しいメールアドレスを入力してください。フォーム送信後、入力さ"
+"れたメールアドレス宛にメールアドレス確認のためのメールを送ります。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:110
+msgid "Email is required"
+msgstr "メールアドレスが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:111
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:115
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:86
+msgid "Invalid email address"
+msgstr "不正なメールアドレスです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:114
+msgid "Please enter email address two times"
+msgstr "メールアドレスを２回入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditEmail.php:138
+msgid "The email addresses do not match"
+msgstr "メールアドレスが一致しません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditImage.php:39
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_view_default.tpl:8
+msgid "Edit image"
+msgstr "画像の変更"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:34
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:71
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_account.tpl:11
+msgid "Edit password"
+msgstr "パスワード変更"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:53
+msgid "New password"
+msgstr "新しいパスワード"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:54
+msgid "Enter your new password"
+msgstr "新しいパスワードを入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:62
+msgid "Confirm password"
+msgstr "パスワード再入力"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:73
+msgid "Enter passwords two times to change your password."
+msgstr "下記フォームに新しいパスワードを入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:80
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:170
+msgid "Password is required"
+msgstr "パスワードが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:83
+msgid "Please enter password two times"
+msgstr "パスワードを２回入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditPassword.php:99
+msgid "The passwords do not match"
+msgstr "パスワードが一致しません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/EditStatus.php:69
+msgid "Edit status message"
+msgstr "ステータスメッセージの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:42
+msgid "Friend relationship updated successfully."
+msgstr "マイフレンドとの関係を更新しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:47
+msgid "You must select at least one relationship."
+msgstr "マイフレンドとの関係が選択されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:51
+msgid "Edit friend relationship"
+msgstr "マイフレンドとの関係を編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:60
+msgid "Select personal relationships between you and your friend."
+msgstr "あなたとマイフレンドとの適切な関係を選択してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:64
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Remove.php:38
+msgid "Friend"
+msgstr "マイフレンド"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:76
+msgid "No selection"
+msgstr "該当なし"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:78
+msgid "Friendship"
+msgstr "友達としての関係"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:81
+msgid "Physical"
+msgstr "物理的な関係"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:85
+msgid "Professional"
+msgstr "プロフェッショナルな関係"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:89
+msgid "Geographical"
+msgstr "地理的な関係"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:92
+msgid "Family"
+msgstr "家族"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:95
+msgid "Romantic"
+msgstr "特別な友達としての関係"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Edit.php:99
+msgid "Relationships"
+msgstr "マイフレンドとの関係"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Remove.php:20
+msgid "Friend removed successfully."
+msgstr "マイフレンドをはずしました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Remove.php:26
+msgid "Remove a friend"
+msgstr "マイフレンドをはずす"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Remove.php:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_index.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_user_widget_friends.tpl:8
+msgid "Remove friend"
+msgstr "マイフレンドをはずす"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Accept.php:29
+msgid "Friend request accepted successfully."
+msgstr "マイフレンド申請を承諾しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Accept.php:37
+msgid "Accept a friend request"
+msgstr "マイフレンド申請を承諾する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Accept.php:48
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Reject.php:36
+msgid "Request sent from"
+msgstr "送信者"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Accept.php:62
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Cancel.php:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Confirm.php:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Reject.php:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/FriendrequestHTMLQuickForm.php:11
+msgid "Message"
+msgstr "メッセージ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Accept.php:66
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:24
+msgid "Accept"
+msgstr "承諾"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Cancel.php:17
+msgid "Friend request canceled successfully."
+msgstr "マイフレンド申請をキャンセルしました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Cancel.php:24
+msgid "Cancel a friend request"
+msgstr "マイフレンド申請のキャンセル"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Cancel.php:36
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Confirm.php:36
+msgid "Request sent to"
+msgstr "送信先"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Cancel.php:54
+msgid "Cancel request"
+msgstr "マイフレンド申請のキャンセル"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Confirm.php:18
+msgid "Friend request confirmed successfully."
+msgstr "マイフレンド申請の結果を確認しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Confirm.php:24
+msgid "Confirm a friend request"
+msgstr "マイフレンド申請の結果を確認する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Confirm.php:53
+msgid "Accepted"
+msgstr "承諾"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Confirm.php:53
+msgid "Rejected"
+msgstr "拒否"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Confirm.php:54
+msgid "Result"
+msgstr "結果"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Reject.php:17
+msgid "Friend request rejected successfully."
+msgstr "マイフレンド申請を拒否しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Reject.php:25
+msgid "Reject a friend request"
+msgstr "マイフレンド申請を拒否する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend/Request/Reject.php:54
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:24
+msgid "Reject"
+msgstr "拒否"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend.php:55
+#, fuzzy
+msgid "Friend requests"
+msgstr "マイフレンド申請"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity/Friend.php:77
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity.php:47
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:654
+msgid "Friends"
+msgstr "フレンドリスト"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Identity.php:78
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:14
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_view_default.tpl:44
+#, fuzzy
+msgid "Profile"
+msgstr "プロフィール編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Login.php:124
+msgid ""
+"You have been authenticated successfully. However, we were unable to find a "
+"user account that is associated with the authentication."
+msgstr ""
+"ユーザ認証に成功しましたが、認証情報に関連づけられているユーザアカウントが見"
+"つかりませんでした。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Login.php:126
+#, php-format
+msgid ""
+"Create a new account using the registration form below or <a href=\"%s"
+"\">associate the authentication with an existing user account</a>."
+msgstr ""
+"既にユーザ登録がお済みの場合は、<a href=\"%s\">ログイン</a>してユーザアカウン"
+"トを認証情報と結びつけることができます。ユーザ登録がまだの場合は、下記フォー"
+"ムより新規ユーザ登録を行い、作成されたアカウントへと認証情報を結びつけます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Login.php:155
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:127
+msgid "Remember me"
+msgstr "自動ログイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Login.php:157
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:128
+#, php-format
+msgid "Remember me on this computer for 1 day"
+msgid_plural "Remember me on this computer for %d days"
+msgstr[0] "次回からは入力を省略して自動でログインする（24時間有効）"
+msgstr[1] "次回からは入力を省略して自動でログインする（%d日間有効）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Logout.php:29
+msgid "You have logged out successfully."
+msgstr "ログアウトしました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Register.php:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:48
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:213
+msgid "Register"
+msgstr "送信"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Register.php:74
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:119
+msgid ""
+"Registration data has been submitted successfully. Your account will be "
+"activated after confirmation by the administrator."
+msgstr ""
+"ユーザ登録情報を送信しました。管理者が登録内容を確認するまでお待ちください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Register.php:76
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:121
+msgid ""
+"Registration data has been submitted successfully. Please check your email "
+"for further instruction."
+msgstr ""
+"ユーザ登録情報を送信しました。確認のメールを登録メールアドレス宛に送りました"
+"のでメール内容の指示に従ってユーザ登録を完了してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/Register.php:91
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:34
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_login.tpl:9
+msgid "Create account"
+msgstr "新規ユーザ登録"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RegisterAuth.php:40
+#, php-format
+msgid ""
+"If you already have a user account, you can <a href=\"%s\">associate the "
+"submitted authentication with that account</a>."
+msgstr ""
+"既にユーザ登録がお済みの場合は、<a href=\"%s\">ログインしてユーザアカウントを"
+"認証情報と結びつける</a>ことができます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestFriend.php:34
+msgid "You are already friends."
+msgstr "選択されたユーザは既にマイフレンドとして登録されています。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestFriend.php:46
+msgid "There is a pending friend request sent to you from this user."
+msgstr "選択されたユーザからあなた宛に既にマイフレンド申請が届いています。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestFriend.php:59
+msgid "You have recently sent a friend request to this user."
+msgstr "現在このユーザへとマイフレンド申請を送ることはできません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestFriend.php:72
+msgid "Send request to"
+msgstr "送信先"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestFriend.php:90
+#, php-format
+msgid "Your friend request to %s submitted successfully."
+msgstr "%sさんへマイフレンド申請を送信しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestFriend.php:98
+msgid "Submit request"
+msgstr "マイフレンド申請を送信"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestFriend.php:106
+msgid "Submit a friend request"
+msgstr "マイフレンド申請を送信"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:48
+msgid ""
+"Password request has been submitted successfully. Please check your email "
+"for further instruction."
+msgstr ""
+"パスワード再発行の依頼を受け付けました。確認のメールを登録メールアドレス宛に"
+"送りましたので、メール内容の指示に従ってください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:64
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:89
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Queue.php:42
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_login.tpl:6
+msgid "Request password"
+msgstr "パスワード再発行"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:74
+msgid ""
+"If you have forgotten your username or password, you can request to have "
+"your username emailed to you and to reset your password. When you fill in "
+"your registered email address, you will be sent instructions on how to reset "
+"your password."
+msgstr ""
+"パスワードを紛失した場合は、下記フォームを送信してパスワードの再発行を依頼で"
+"きます。フォーム送信後、登録メールアドレス宛に確認のメールを送りますので、"
+"メール内容の指示に従って新規パスワードを再発行してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:81
+msgid "Enter your registered email address"
+msgstr "登録メールアドレスを入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main/RequestPassword.php:85
+msgid "Email address is required"
+msgstr "メールアドレスを入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:159
+#, php-format
+msgid ""
+"Please enter your details below to login. Or <a href=\"%s\">create a new "
+"account</a> if you are still not registered."
+msgstr ""
+"ユーザ登録時の情報を入力してログインを行います。ユーザアカウントをお持ちでな"
+"い場合は<a href=\"%s\">新規ユーザ登録</a>を行ってください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:164
+#, php-format
+msgid ""
+"If you have forgotten your password, you can <a href=\"%s\">request a new "
+"password</a> to be sent to you registered email address."
+msgstr ""
+"パスワードを紛失した場合は<a href=\"%s\">パスワードの再発行</a>が行えます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:167
+msgid "Password"
+msgstr "パスワード"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:169
+msgid "Username is required"
+msgstr "ユーザ名が入力されていません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:193
+msgid "You have logged in successfully."
+msgstr "ログインに成功しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:238
+msgid "nobody"
+msgstr "非表示にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:239
+msgid "everybody"
+msgstr "全てのユーザに表示する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:240
+msgid "registered users"
+msgstr "登録ユーザに表示する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:244
+#, php-format
+msgid "friends with \"%s\" relationship"
+msgstr "「%s」の関係をもつマイフレンドに表示する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:246
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:13
+msgid "Visibility"
+msgstr "表示設定"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Main.php:312
+#, php-format
+msgid "%s - Visibility"
+msgstr "%s - 表示設定"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/ActivewidgetHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelwidgetHTMLQuickForm.php:12
+#, fuzzy
+msgid "widget"
+msgstr "ウィジェット"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/AuthdataHTMLQuickForm.php:11
+msgid "auth"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/MemberHTMLQuickForm.php:11
+msgid "role"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelHTMLQuickForm.php:11
+#, fuzzy
+msgid "Title"
+msgstr "表示名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelHTMLQuickForm.php:12
+#, fuzzy
+msgid "Title is required"
+msgstr "メールアドレスが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelHTMLQuickForm.php:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:14
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:12
+msgid "Order"
+msgstr "表示順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelHTMLQuickForm.php:14
+#, fuzzy
+msgid "Order is required"
+msgstr "ロール名が入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelHTMLQuickForm.php:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:11
+msgid "Active"
+msgstr "有効"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelHTMLQuickForm.php:19
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:39
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:68
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:104
+msgid "Private"
+msgstr "プライベート"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/PanelwidgetHTMLQuickForm.php:11
+msgid "panel"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/RoleHTMLQuickForm.php:12
+msgid "Name is required"
+msgstr "ロール名が入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/StatusHTMLQuickForm.php:11
+msgid "Text"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Base/StatusHTMLQuickForm.php:12
+msgid "Text filtered"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Queue.php:39
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Queue.php:40
+msgid "User registration"
+msgstr "ユーザ新規登録"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/Queue.php:41
+msgid "Edit email"
+msgstr "メールアドレス変更"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/RoleHTMLQuickForm.php:8
+msgid "You must enter the name"
+msgstr "ロール名を入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Model/RoleHTMLQuickForm.php:19
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_details.tpl:24
+msgid "Permissions"
+msgstr "パーミッション"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:450
+msgid "View other user's profile"
+msgstr "他ユーザのプロフィールの閲覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:451
+msgid "Edit other user's profile"
+msgstr "他ユーザのプロフィールの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:452
+msgid "Delete own user profile"
+msgstr "自分のプロフィールの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:453
+msgid "Delete other user's profile"
+msgstr "他ユーザのプロフィールの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:454
+msgid "Edit own user email"
+msgstr "自分のメールアドレスの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:455
+msgid "Edit other user's email"
+msgstr "他ユーザのメールアドレスの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:456
+msgid "Edit own user image"
+msgstr "自分のプロフィール画像の編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:457
+msgid "Edit other user's image"
+msgstr "他ユーザのプロフィール画像の編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:458
+msgid "View other user's private widget contents"
+msgstr "他ユーザのプライベートウィジェットのコンテンツ閲覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:459
+msgid "Manage other user's friends data"
+msgstr "他ユーザのフレンド情報の編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:482
+msgid "Your Account"
+msgstr "ユーザメニュー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:492
+msgid "Displays user account menu."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:494
+msgid "Displays user login form."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:579
+#, php-format
+msgid "New user registration at %s"
+msgstr "新規ユーザ登録@%s"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:652
+msgid "AutoLogin"
+msgstr "自動ログイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:662
+msgid "Displays a list of autologin sessions activated by the user."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:664
+#, fuzzy
+msgid "Displays a list of the user's friends."
+msgstr "他ユーザのフレンド情報の編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:677
+msgid "Number of friends to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:802
+msgid "Add as friend"
+msgstr "マイフレンドに追加"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:822
+msgid "New friend requests"
+msgstr "マイフレンド申請"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:839
+#, fuzzy, php-format
+msgid "Friend requests (<strong>%d</strong>)"
+msgstr "マイフレンド申請 (<strong>%d</strong>)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:861
+msgid "contact"
+msgstr "連絡したことがある"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:862
+msgid "acquaintance"
+msgstr "知り合い"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:863
+msgid "friend"
+msgstr "友人"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:865
+msgid "met"
+msgstr "会ったことがある"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:867
+msgid "co-worker"
+msgstr "同僚"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:868
+msgid "colleague"
+msgstr "仲間"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:871
+msgid "co-resident"
+msgstr "同居人"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:872
+msgid "neighbor"
+msgstr "ご近所"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:875
+msgid "child"
+msgstr "子供"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:876
+msgid "parent"
+msgstr "親"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:877
+msgid "sibling"
+msgstr "兄弟・親族"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:878
+msgid "spouse"
+msgstr "配偶者"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:879
+msgid "kin"
+msgstr "親戚"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:882
+msgid "muse"
+msgstr "気になる人"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:883
+msgid "crush"
+msgstr "片思い"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:884
+msgid "date"
+msgstr "デートしたことがある"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:885
+msgid "sweetheart"
+msgstr "恋人"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:887
+msgid "me"
+msgstr "自分自身"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:917
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/Plugin.php:955
+#, php-format
+msgid "User activation key for %s"
+msgstr "%sさんのユーザ登録承認キー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:1
+msgid "Listing auth data"
+msgstr "登録されているユーザ認証情報"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:14
+msgid "Last used"
+msgstr "最終使用日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_member_list.tpl:3
+msgid "User ID, ascending"
+msgstr "ユーザID（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_member_list.tpl:3
+msgid "User ID, descending"
+msgstr "ユーザID（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:3
+msgid "Date created, descending"
+msgstr "作成日時の新しいものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:3
+msgid "Date created, ascending"
+msgstr "作成日時の古いものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_authdata_list.tpl:12
+msgid "Auth ID"
+msgstr "認証ID"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_details.tpl:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:9
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_details.tpl:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:2
+msgid "Data count"
+msgstr "データ数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:2
+msgid "Order, ascending"
+msgstr "表示順（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:2
+msgid "Order, descending"
+msgstr "表示順（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:2
+msgid "Active, ascending"
+msgstr "有効でないものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:2
+msgid "Active, descending"
+msgstr "有効なものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:10
+msgid "Auth title"
+msgstr "表示名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_auth_list.tpl:13
+msgid "Data"
+msgstr "データ数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:2
+msgid ""
+"Expired autologin sessions will be removed automatically if cron job is set "
+"properly. Otherwise, you must delete manually or run cron using the Cron "
+"plugin."
+msgstr ""
+"Cronジョブが正しく設定されている場合、古い自動ログインのセッションは自動的に"
+"削除されます。Cronジョブが設定されていない場合は手動で削除する必要がありま"
+"す。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:5
+msgid "Expires, ascending"
+msgstr "有効期限の古いものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:5
+msgid "Expires, descending"
+msgstr "有効期限の新しいものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:5
+msgid "Created, ascending"
+msgstr "作成日時の古いものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:5
+msgid "Created, descending"
+msgstr "作成日時の新しいものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:5
+msgid "Updated, ascending"
+msgstr "更新日時の古いものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:5
+msgid "Updated, descending"
+msgstr "更新日時の新しいものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_autologin_list.tpl:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_user_widget_autologin.tpl:5
+msgid "Expires"
+msgstr "有効期限"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:11
+msgid "Field title"
+msgstr "表示名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:11
+msgid "Type"
+msgstr "種類"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:36
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:38
+msgid "Registerable"
+msgstr "登録"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:41
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:43
+msgid "Editable"
+msgstr "編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:46
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:48
+msgid "Viewable"
+msgstr "表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_field_list.tpl:53
+msgid "Configurable"
+msgstr "設定可"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:2
+msgid "User name, ascending"
+msgstr "ユーザ名（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:2
+msgid "User name, descending"
+msgstr "ユーザ名（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:2
+msgid "Email, ascending"
+msgstr "メールアドレス（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:2
+msgid "Email, descending"
+msgstr "メールアドレス（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:13
+msgid "Role"
+msgstr "ロール"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:21
+msgid "For each selected user: "
+msgstr "選択したユーザに対して:"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:22
+msgid "Assign a role"
+msgstr "ロールを割り当てる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_index.tpl:27
+msgid "Remove a role"
+msgstr "ロールを外す"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_menu_list.tpl:10
+msgid "Menu title"
+msgstr "表示名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:2
+msgid ""
+"Older queues will be removed automatically if cron job is set properly. "
+"Otherwise, you must delete manually or run cron using the Cron plugin."
+msgstr ""
+"Cronジョブが正しく設定されている場合、古いキュー情報は自動的に削除されます。"
+"Cronジョブが設定されていない場合は手動で削除する必要があります。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:12
+msgid "Created at"
+msgstr "作成日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:14
+msgid "User/Email"
+msgstr "ユーザ／E-mail"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:42
+msgid "Process this queue"
+msgstr "キューを処理する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_queue_list.tpl:43
+msgid "Resend confirmation mail"
+msgstr "確認メールを再送する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_details.tpl:20
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:12
+msgid "Members"
+msgstr "メンバー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_details.tpl:45
+msgid "Hide list"
+msgstr "一覧を隠す"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_details.tpl:45
+msgid "Show list"
+msgstr "一覧を表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:2
+msgid "Role name, ascending"
+msgstr "ロール名（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:2
+msgid "Role name, descending"
+msgstr "ロール名（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:2
+msgid "Member count"
+msgstr "メンバー数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:31
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:36
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:66
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:96
+#, fuzzy
+msgid "User"
+msgstr "ユーザ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_list.tpl:31
+msgid "Custom"
+msgstr "ユーザ定義"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_member_list.tpl:1
+msgid "Listing members"
+msgstr "メンバー一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_member_list.tpl:3
+msgid "Date assigned role, descending"
+msgstr "ロール割り当て日の新しいものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_member_list.tpl:3
+msgid "Date assigned role, ascending"
+msgstr "ロール割り当て日の古いものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_role_member_list.tpl:14
+msgid "Date assigned role"
+msgstr "ロール割り当て日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:2
+msgid ""
+"Choose the features you want to add to the profile page by dragging them "
+"from the Widget list on the right to the area on the left and position them "
+"in the order you would like them to appear."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:16
+#, fuzzy
+msgid "Displays the default user profile box"
+msgstr "自分のプロフィールの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:33
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:62
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:98
+#, fuzzy
+msgid "Custom title"
+msgstr "表示名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:82
+msgid "Save"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_admin_widget_list.tpl:87
+#, fuzzy
+msgid "Widget list"
+msgstr "一覧を隠す"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_user_widget_friends.tpl:7
+msgid "Edit relationship"
+msgstr "マイフレンドとの関係を編集する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_index.tpl:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_user_widget_friends.tpl:12
+msgid "Send message"
+msgstr "メッセージを送る"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:2
+msgid "Received friend requests"
+msgstr "受信済みのマイフレンド申請"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:7
+msgid "Received on"
+msgstr "受信日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:8
+msgid "Request message"
+msgstr "メッセージ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:32
+msgid "Pending friend requests"
+msgstr "承認待ちのマイフレンド申請"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:67
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:97
+msgid "Sent on"
+msgstr "送信日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:38
+msgid "Sent message"
+msgstr "メッセージ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:62
+msgid "Accepted friend requests"
+msgstr "承諾済みのマイフレンド申請"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:68
+msgid "Accepted on"
+msgstr "承諾日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:92
+msgid "Rejected friend requests"
+msgstr "拒否済みのマイフレンド申請"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_friend_viewrequests.tpl:98
+msgid "Rejected on"
+msgstr "拒否した日"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_view_default.tpl:11
+msgid "User since: "
+msgstr "ユーザ登録: "
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_view_default.tpl:12
+msgid "Last login: "
+msgstr "最終ログイン: "
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_identity_view_default.tpl:22
+msgid "Enter your message here"
+msgstr "メッセージを入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_main_login.tpl:4
+msgid "Default"
+msgstr "通常ログイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_user_widget_autologin.tpl:6
+#, fuzzy
+msgid "Last login"
+msgstr "最終ログイン: "
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_user_widget_friends.tpl:18
+#, php-format
+msgid "Show all (%d)"
+msgstr "全て表示 (%d)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_account.tpl:3
+#, php-format
+msgid "<a href=\"%1$s\">Your profile</a> (<a href=\"%2$s\">Edit</a>)"
+msgstr "<a href=\"%1$s\">プロフィール</a>（<a href=\"%2$s\">編集</a>）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_account.tpl:14
+msgid "Logout"
+msgstr "ログアウト"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_account.tpl:18
+msgid "Administration"
+msgstr "管理メニュー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_login.tpl:3
+msgid "Login here if you already have an account."
+msgstr "ログイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_login.tpl:6
+msgid "Forgotten password? Request new password here."
+msgstr "パスワード再発行"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/templates/plugg_user_widget_login.tpl:9
+msgid "New to this website? Register here now!"
+msgstr "新規ユーザ登録"
+
+#~ msgid "View public profile"
+#~ msgstr "公開プロフィール"
+
+#~ msgid "No active auto-login sessions"
+#~ msgstr "有効な自動ログインのセッションはありません。"
+
+#, fuzzy
+#~ msgid "Panel created successfully."
+#~ msgstr "データを更新しました"
+
+#, fuzzy
+#~ msgid "View other user's private panel contents"
+#~ msgstr "他ユーザのプライベートタブのコンテンツ閲覧"
+
+#~ msgid "\"Add as friend\" button"
+#~ msgstr "「マイフレンドに追加」ボタン"
+
+#~ msgid "Friends list"
+#~ msgstr "フレンドリスト"
+
+#~ msgid "\"View public profile\" button"
+#~ msgstr "「公開プロフィール」ボタン"
+
+#, fuzzy
+#~ msgid "Panel title"
+#~ msgstr "表示名"
+
+#~ msgid "Tab title"
+#~ msgstr "表示名"
+
+#, fuzzy
+#~ msgid "Widget title"
+#~ msgstr "表示名"
+
+#~ msgid "Mini"
+#~ msgstr "ミニ"
+
+#~ msgid "Active auto-login sessions"
+#~ msgstr "自動ログインのセッション一覧"
+
+#~ msgid ""
+#~ "Listing active auto-login sessions with its creation time, updated time, "
+#~ "expiration time, last auto-logged in IP address, and last auto-logged in "
+#~ "user agent."
+#~ msgstr ""
+#~ "自動ログインのセッション作成日時、更新日時、有効期限、最終ログイン元のIPア"
+#~ "ドレス、および最終ログイン元のユーザエージェント（UA）の一覧を表示していま"
+#~ "す。"
+
+#~ msgid "Last IP"
+#~ msgstr "最終ログインIP"
+
+#~ msgid "Last UA"
+#~ msgstr "最終ログインUA"
+
+#~ msgid "My friends"
+#~ msgstr "フレンドリスト"
+
+#~ msgid "%s's friends"
+#~ msgstr "%sさんのフレンドリスト"
+
+#~ msgid "Tabs"
+#~ msgstr "タブ"
+
+#~ msgid "User profile"
+#~ msgstr "プロフィール"
+
+#~ msgid "Top"
+#~ msgstr "トップ"

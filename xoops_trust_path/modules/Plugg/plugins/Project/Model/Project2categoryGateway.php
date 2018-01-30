@@ -1,0 +1,4 @@
+<?php
+class Plugg_Project_Model_Project2categoryGateway extends Plugg_Project_Model_Base_Project2categoryGateway
+{
+}

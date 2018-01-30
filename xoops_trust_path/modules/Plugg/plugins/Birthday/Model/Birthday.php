@@ -1,0 +1,8 @@
+<?php
+class Plugg_Birthday_Model_Birthday extends Plugg_Birthday_Model_Base_Birthday
+{
+}
+
+class Plugg_Birthday_Model_BirthdayRepository extends Plugg_Birthday_Model_Base_BirthdayRepository
+{
+}

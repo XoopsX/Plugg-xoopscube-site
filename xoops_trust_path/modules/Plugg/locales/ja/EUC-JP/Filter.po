@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Admin/Submit.php:56
+msgid "An error occurred while updating data."
+msgstr "データの更新に失敗しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Admin/Submit.php:58
+msgid "Data updated successfully."
+msgstr "データを更新しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:17
+#, php-format
+msgid "Use the \"%s (%s %s)\" filter"
+msgstr "「%s (%s %s)」フィルタを使用できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:71
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:101
+#, php-format
+msgid "%s - Input filters"
+msgstr "%s - 入力フィルタ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:103
+msgid "Input filters"
+msgstr "入力フィルタ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:406
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:414
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:422
+msgid "Default filter"
+msgstr "デフォルトの入力フィルタ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/Plugin.php:422
+msgid ""
+"When you submit various contents, they are filtered to display the data "
+"desired. Here you can select the default filter to be applied when you did "
+"not specify any filter during form submission."
+msgstr ""
+"サイト内でコンテンツを送信する際、それらの中には入力フィルタを通して表示用に"
+"コンテンツを整形されるものがあります。下記よりデフォルトの入力フィルタを選択"
+"することにより、コンテンツ送信の際に入力フィルタを毎回選択する必要がなくなり"
+"ます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:2
+msgid "Order, ascending"
+msgstr "表示順（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:2
+msgid "Order, descending"
+msgstr "表示順（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:2
+msgid "Active, ascending"
+msgstr "有効なものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:2
+msgid "Active, descending"
+msgstr "無効なものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:8
+msgid "Default"
+msgstr "デフォルト"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:10
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:11
+msgid "Filter title"
+msgstr "表示名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:12
+msgid "Active"
+msgstr "有効"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:13
+msgid "Order"
+msgstr "表示順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Filter/Filter/templates/plugg_filter_admin_index.tpl:37
+msgid "Configure"
+msgstr "設定"
+
+#~ msgid "Filters"
+#~ msgstr "フィルタ"

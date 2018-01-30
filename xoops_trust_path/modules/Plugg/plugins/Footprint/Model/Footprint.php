@@ -1,0 +1,7 @@
+<?php
+class Plugg_Footprint_Model_Footprint extends Plugg_Footprint_Model_Base_Footprint{
+}
+
+class Plugg_Footprint_Model_FootprintRepository extends Plugg_Footprint_Model_Base_FootprintRepository
+{
+}

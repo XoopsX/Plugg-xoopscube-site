@@ -1,0 +1,45 @@
+#plugg .user-summary {margin-top:10px;}
+
+#plugg ul.user-stat {margin:0; margin-top:3px; text-align:center;}
+#plugg ul.user-stat li {list-style:none; font-size:0.9em; margin:0; padding:0;}
+#plugg ul.user-stat li span.user-stat-label {color:#888;}
+
+#plugg .user-images {float:left; width:170px; text-align:center; margin:0;}
+#plugg .user-image {border:2px solid #ccc; padding:7px; background-color:#f5f5f5;}
+#plugg .user-status {padding:5px; background-color:#ddf; margin:0; 1margin-bottom:10px; text-align:left; font-size:0.87em; border-radius:15px; -webkit-border-radius:15px; -moz-border-radius:15px; -khtml-border-radius:15px;}
+#plugg .user-status-point {background:#ddf url('./image.php?plugin=User&file=point.png') no-repeat scroll 0 0; width:24px; height:12px; margin:0 auto; margin-top:5px;}
+#plugg #plugg-user-status {padding:5px; background-color:#fff; border:1px solid #eee; border-radius:13px; -webkit-border-radius:13px; -moz-border-radius:13px; -khtml-border-radius:13px;}
+#plugg #plugg-user-statusform form {width:100%}
+#plugg #plugg-user-statusform form .form-content {border:0; margin:0; padding:5px; background-color:#fff;}
+#plugg #plugg-user-statusform form fieldset {padding:0; border:0; background-color:#fff;}
+#plugg .user-image img {width:140px; 1border:3px solid #ccc;}
+
+#plugg .user-status-edit {text-align:right; font-size:0.87em;}
+#plugg span.user-image-edit {display:block; font-size:0.87em; margin-top:3px;}
+
+#plugg .user-profile {margin-left:186px; background-color:#f5f5f5; padding:0; border:2px solid #ccc; border-radius:8px; -webkit-border-radius:8px; -moz-border-radius:8px; -khtml-border-radius:8px;}
+#plugg .user-profile-content {padding:10px; background-color:#fff; border-top:1px solid #ddd; border-bottom-right-radius:8px; border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px; -webkit-border-bottom-left-radius:8px; -moz-border-radius-bottomright:8px; -moz-border-radius-bottomleft:8px; -khtml-border-bottom-right-radius:8px; -khtml-border-bottom-left-radius:8px;}
+#plugg .user-profile-title {padding:10px; margin:0; border-top-right-radius:8px; border-top-left-radius:8px; -webkit-border-top-right-radius:8px; -webkit-border-top-left-radius:8px; -moz-border-radius-topright:8px; -moz-border-radius-topleft:8px; -khtml-border-top-right-radius:8px; -khtml-border-top-left-radius:8px;}
+
+#plugg .user-widgets {padding:0; margin-top:16px;}
+#plugg .user-widgets-left {padding-right:8px; width:50%;}
+#plugg .user-widgets-right {padding-left:8px; width:50%;}
+#plugg .user-widget {margin-bottom:16px; padding:0;}
+#plugg .user-widget-content {padding:10px; background-color:#fff; border:2px solid #ccc; border-top:1px solid #ddd; border-bottom-right-radius:8px; border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px; -webkit-border-bottom-left-radius:8px; -moz-border-radius-bottomright:8px; -moz-border-radius-bottomleft:8px; -khtml-border-bottom-right-radius:8px; -khtml-border-bottom-left-radius:8px;}
+#plugg h3.user-widget-title {padding:10px; margin:0; background-color:#f5f5f5; border:2px solid #ccc; border-bottom:0; border-top-right-radius:8px; border-top-left-radius:8px; -webkit-border-top-right-radius:8px; -webkit-border-top-left-radius:8px; -moz-border-radius-topright:8px; -moz-border-radius-topleft:8px; -khtml-border-top-right-radius:8px; -khtml-border-top-left-radius:8px;}
+
+#plugg .user-widget-entry {margin:5px 0;}
+#plugg .user-widget-entry h4 {margin:0; font-size:1.1em;}
+#plugg .user-widget-entry ul {margin:0; padding:0;}
+#plugg .user-widget-entry ul li {list-style:none; display:inline; margin:0; padding-left:3px; margin-left:1px; font-size:0.9em; border-left:1px solid #ccc;}
+#plugg .user-widget-entry ul li:first-child {padding-left:0; border-left:0; margin-left:0;}
+#plugg .user-widget-entry p {padding:5px 0;}
+
+#plugg .user-button a {display:block; background-repeat:no-repeat; background-position:5px center; font-size:0.85em; padding:5px; text-decoration:none; display:block; margin-bottom:5px; background-color:#fff; border:2px solid #ccc; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; -khtml-border-radius:4px; text-align:center; }
+#plugg .user-button a:hover {background-color:#ffffd9;}
+#plugg .user-button {margin-top:5px;}
+#plugg #plugg-user-main-identity-view {position:relative; zoom:1}
+#plugg .user-thumbnail {position:absolute; top:-10px; right:5px;}
+#plugg .user-thumbnail img {border:0;}
+
+#plugg .user-friends-friend {float:left; text-align:center; margin:5px;}

@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:8
+msgid ""
+"Enables user authentication using the user data on another XOOPSCube website."
+msgstr "外部のXOOPS Cubeサイトのユーザ情報を使用したユーザ認証を可能にします。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:9
+msgid "XOOPSCubeUserAuth"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:15
+msgid "XOOPSCube website URL"
+msgstr "XOOPS CubeサイトののURL"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:15
+msgid "Enter the value of XOOPS_URL defined in the target XOOPSCube system."
+msgstr "外部のXOOPS CubeサイトのXOOPS_URLの値を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:22
+msgid "XOOPSCube website name"
+msgstr "XOOPS Cubeサイトのウェブサイト名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:22
+msgid "Enter the name of the target XOOPSCube website."
+msgstr "外部のXOOPS Cubeサイトのウェブサイト名を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:29
+msgid "Database hostname"
+msgstr "データベースのホスト名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:29
+msgid ""
+"Enter the value of XOOPS_DB_HOST defined in the target XOOPSCube system."
+msgstr "外部のXOOPS CubeサイトのXOOPS_DB_HOSTの値を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:37
+msgid "Use SSL encryption"
+msgstr "SSLを使用する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:37
+msgid "Use SSL encryption during connection."
+msgstr ""
+"「はい」を選択すると外部のXOOPS Cubeサイトへの接続時にSSLを使用します。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:44
+msgid "Database scheme"
+msgstr "データベースの種類"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:44
+msgid ""
+"Enter the value of XOOPS_DB_SCHEME defined in the target XOOPSCube system."
+msgstr "外部のXOOPS CubeサイトのXOOPS_DB_SCHEMEの値を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:53
+msgid "Database name"
+msgstr "データベース名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:53
+msgid ""
+"Enter the value of XOOPS_DB_NAME defined in the target XOOPSCube system."
+msgstr "外部のXOOPS CubeサイトのXOOPS_DB_NAMEの値を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:61
+msgid "Database user name"
+msgstr "データベースのユーザ名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:61
+msgid ""
+"Enter the value of XOOPS_DB_USER defined in the target XOOPSCube system."
+msgstr "外部のXOOPS CubeサイトのXOOPS_DB_USERの値を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:69
+msgid "Database user password"
+msgstr "データベースのユーザパスワード"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:69
+msgid ""
+"Enter the value of XOOPS_DB_PASS defined in the target XOOPSCube system."
+msgstr "外部のXOOPS CubeサイトのXOOPS_DB_PASSの値を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:77
+msgid "Database table prefix"
+msgstr "データベースのテーブル接頭語"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:77
+msgid ""
+"Enter the value of XOOPS_DB_PREFIX defined in the target XOOPSCube system."
+msgstr "外部のXOOPS CubeサイトのXOOPS_DB_PREFIXの値を入力してください。"

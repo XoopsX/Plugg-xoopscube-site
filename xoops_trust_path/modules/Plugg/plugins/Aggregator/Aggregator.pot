@@ -1,0 +1,712 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-06 18:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Add.php:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Feed/Edit.php:18
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/NewFeed.php:51
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:72
+msgid "Invalid site URL."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Add.php:23
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Feed/Edit.php:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/NewFeed.php:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:79
+msgid ""
+"Failed fetching feed data. Make sure that the feed URL is dicoverable or "
+"manually enter the feed URL."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Add.php:28
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Feed/Edit.php:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/NewFeed.php:63
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:84
+msgid "Failed fetching feed data from the supplied URL."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Add.php:62
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/NewFeed.php:95
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:91
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_main_listfeeds.tpl:3
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_user_listfeeds.tpl:4
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:129
+msgid "Add feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Feed/Edit.php:57
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/EditFeed.php:23
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/EditFeed.php:23
+msgid "Edit feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:43
+msgid "Could not approve selected feeds"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:45
+msgid "Selected feeds approved successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:50
+msgid "Could not delete selected feeds"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:52
+msgid "Selected feeds deleted successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:57
+msgid "Could not update items for selected feeds"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:59
+#, php-format
+msgid "%d out of %d feed(s) updated successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:64
+msgid "Could not remove feed items for selected feeds"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Feed/Submit.php:66
+msgid "Selected feeds have been emptied successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Item/Edit.php:34
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/Item/Edit.php:23
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/Item/Edit.php:23
+msgid "Edit feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Submit.php:43
+msgid "Could not hide selected items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Submit.php:45
+#, php-format
+msgid "%d items hidden successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Submit.php:50
+msgid "Could not unhide selected items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Submit.php:52
+#, php-format
+msgid "%d items unhidden successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Submit.php:57
+msgid "Could not delete selected items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin/Submit.php:59
+#, php-format
+msgid "%d items deleted successfully"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin.php:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main.php:18
+msgid "Feeds"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Admin.php:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main.php:67
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User.php:65
+msgid "Articles"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/Item/Delete.php:23
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/Item/Delete.php:23
+msgid "Delete feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/Item/Delete.php:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/RemoveFeed.php:20
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:75
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:85
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:36
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:17
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:31
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/Item/Delete.php:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/RemoveFeed.php:20
+msgid "Title"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/NewFeed.php:78
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/NewFeed.php:84
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:105
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:118
+msgid "Feed data submitted successfully."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/NewFeed.php:86
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:120
+msgid ""
+"Feed data submitted successfully. The submitted feed will be listed on the "
+"feed list page once approved by the administrators."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/RemoveFeed.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Main/RemoveFeed.php:38
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/RemoveFeed.php:21
+msgid "Remove feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:11
+msgid "Site url"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:17
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:19
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:13
+msgid "Invalid URI"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:15
+msgid "Language"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:16
+msgid "Feed url"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:18
+msgid "Favicon url"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:20
+msgid "Favicon hide"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:24
+msgid "Author pref"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:25
+msgid "Allow image"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:29
+msgid "Allow external resources"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/FeedHTMLQuickForm.php:33
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:93
+msgid "Host"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:12
+msgid "Url"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:14
+msgid "Body"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:15
+msgid "Author"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:16
+msgid "Author link"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:17
+msgid "Hidden"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/Base/ItemHTMLQuickForm.php:21
+msgid "feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:12
+msgid "Feed URL is required"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:18
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User/NewFeed.php:54
+msgid "Feed owner"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:19
+msgid ""
+"Enter the username of feed owner. Leave it blank to add a system owned feed."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:26
+msgid "User with the specified username does not exist"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:31
+msgid "Favicon URL"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:32
+msgid ""
+"Enter the URL of website favicon image. Leave it blank to let the system "
+"discover the URL automatically."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:35
+msgid "Hide favicon"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:37
+msgid "Select yes to prevent the feed favicon image from being displayed."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:46
+msgid "Favicon"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:52
+msgid "Invalid favicon URL."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:57
+msgid "Feed URL"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:58
+msgid ""
+"Enter the URL of feed. Leave it blank to let the system discover the URL "
+"automatically."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:61
+msgid "URL"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:62
+msgid "Enter the URL of website providing the feed."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:65
+msgid "Display preference of feed item author"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:67
+msgid "Select how the author of each feed item should be displayed."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:72
+msgid ""
+"Display the author name of each feed item if available. Otherwise, display "
+"the feed owner username."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:76
+msgid "Always display the feed owner username as the author."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:81
+msgid "Allow image tags in feed items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:83
+msgid ""
+"Select whether or not to enable image tags in feed items. For security "
+"reasons, it is highly recommended that you select no if the feed website can "
+"not be fully trusted."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:87
+msgid "Allow external resources in feed items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:89
+msgid ""
+"Select whether or not to allow resources hosted outside the feed website to "
+"be displayed in feed items, for example external website images. For "
+"security reasons, it is highly recommended that you select no if the feed "
+"website can not be fully trusted."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:95
+msgid ""
+"Enter the domain name of the feed website. Any URI that does not contain the "
+"domain name below in the host part will be considered as an external URI. "
+"Note that setting this value to example.com will include all subdomains of "
+"example.com. However, setting this value to sub.example.com will not include "
+"example.com."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:98
+msgid "Options"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Model/FeedHTMLQuickForm.php:146
+msgid "The URL is already registered."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:27
+msgid "Blog"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:37
+msgid "Add own feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:38
+msgid "Add own feed approved by default"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:39
+msgid "Add feed for any user"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:40
+msgid "Add feed for any user, approved by default"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:41
+msgid "Edit own feed data"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:42
+msgid "Edit any feed data"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:43
+msgid "Allow images in own feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:44
+msgid "Allow images in any feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:45
+msgid "Allow external resources in own feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:46
+msgid "Allow external resources in any feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:47
+msgid "Edit host name of own feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:48
+msgid "Edit host name of any feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:49
+msgid "Delete own feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:50
+msgid "Delete any feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:53
+msgid "Edit own feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:54
+msgid "Edit any feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:55
+msgid "Edit body of own feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:56
+msgid "Edit body of any feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:57
+msgid "Edit author name of own feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:58
+msgid "Edit author name of any feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:59
+msgid "Edit author link of own feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:60
+msgid "Edit author link of any feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:61
+msgid "Hide own feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:62
+msgid "Hide any feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:63
+msgid "Delete own feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:64
+msgid "Delete any feed item"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:129
+msgid "Active feeds"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:131
+msgid "New feeds"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:133
+msgid "Recent articles"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:141
+msgid "Displays recently updated feeds."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:143
+msgid "Displays newly added feeds."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:145
+msgid "Displays recently published feed articles."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:156
+msgid "Number of active feeds to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:166
+msgid "Number of newly added feeds to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:176
+msgid "Number of recently published articles to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:276
+msgid "My blogs"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:284
+msgid "Displays rencent feed articles published by the user."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:295
+msgid "Number of recent feed items to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/Plugin.php:339
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/User.php:21
+msgid "Blogs"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:37
+msgid "Date added"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:7
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:38
+msgid "Last fetched"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:8
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:39
+msgid "Last pinged"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:40
+msgid "Items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:19
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:51
+msgid "Fetch articles"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:53
+msgid "Empty"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:41
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:116
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:68
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:63
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:70
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:49
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:124
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:76
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:72
+msgid "View"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:60
+msgid "Listing items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:62
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:2
+msgid "List all"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:62
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:2
+msgid "List hidden"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:75
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:19
+msgid "Published date, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:75
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:20
+msgid "Published date, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:94
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:41
+msgid "Hide"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:96
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:43
+msgid "Unhide"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_feed_details.tpl:119
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:66
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_item.inc.tpl:26
+#, php-format
+msgid " in %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:2
+msgid "List approved"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:2
+msgid "List pending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:16
+msgid "Feed title, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:17
+msgid "Feed title, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:18
+msgid "Date of last published article, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:19
+msgid "Date of last published article, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:20
+msgid "Date last fetched, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:21
+msgid "Date last fetched, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:22
+msgid "Date last pinged, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:23
+msgid "Date last pinged, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:24
+msgid "Date added, ascending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_feed_list.tpl:25
+msgid "Date added, descending"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:18
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_admin_index.tpl:33
+msgid "Feed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_feed.inc.tpl:41
+#, php-format
+msgid "%d items"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_feed.inc.tpl:44
+msgid "Visit website"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_item.inc.tpl:58
+msgid "Original article"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_main_item_delete.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_user_item_delete.tpl:2
+msgid "Are you sure you want to delete this feed item?"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_main_removefeed.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_user_removefeed.tpl:2
+msgid "Are you sure you want to delete this feed and all its articles?"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_main_viewrss.tpl:11
+#, php-format
+msgid "Aggregation of blogs submitted by users at %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_user_viewrss.tpl:9
+#, php-format
+msgid "%s's blog articles"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_user_viewrss.tpl:11
+#, php-format
+msgid "%s's recent published blog articles"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_user_widget_new_items.tpl:18
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_widget_new_feeds.tpl:8
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_widget_new_items.tpl:18
+#, php-format
+msgid "%s by %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Aggregator/Aggregator/templates/plugg_aggregator_widget_active_feeds.tpl:6
+#, php-format
+msgid "Last update: %s"
+msgstr ""

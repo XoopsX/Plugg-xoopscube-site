@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/PluginInfo.php:8
+msgid "Enables the OpenID user authentication"
+msgstr "OpenIDを利用したユーザ認証を有効にします"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/PluginInfo.php:9
+msgid "OpenID"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/PluginInfo.php:15
+msgid "Path to random number generator"
+msgstr "乱数ジェネレータへのパス"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/PluginInfo.php:15
+msgid ""
+"Enter the path to a random number generator such as /dev/urandom or leave it "
+"blank to continue with an insecure random number generator."
+msgstr ""
+"乱数ジェネレータへの絶対パスを入力してください。乱数ジェネレータを使用しない"
+"場合は空欄にしてください（非推奨）。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/PluginInfo.php:19
+msgid "Path to PEM encoded cert file"
+msgstr "秘密鍵ファイルへのパス"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/PluginInfo.php:19
+#, php-format
+msgid "Enter a relative path from %s/ or an absolute path starting with a %s"
+msgstr "%s/からの相対パスまたは%sから始まる絶対パスを入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/OpenID/OpenID/PluginInfo.php:19
+msgid ""
+"Enter the path to a PEM encoded certificate file which is required by some "
+"OpenID providers such as mixi.jp. Leave it as-is if you are unsure about "
+"this option."
+msgstr ""
+"一部のOpenIDプロバイダ（mixi.jp等）は秘密鍵ファイルを必要とします。これらの"
+"OpenIDプロバイダを利用可能にするには秘密鍵ファイルへのパスを入力してくださ"
+"い。"

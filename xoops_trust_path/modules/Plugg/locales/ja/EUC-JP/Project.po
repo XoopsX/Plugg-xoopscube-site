@@ -1,0 +1,1616 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-20 11:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugins/Project/Admin/Category/Create.php:13
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:42
+msgid "Add category"
+msgstr "カテゴリーの追加"
+
+#: plugins/Project/Admin/Category/Delete.php:15
+msgid "Delete category"
+msgstr "カテゴリーの削除"
+
+#: plugins/Project/Admin/Category/Update.php:13
+msgid "Edit category"
+msgstr "カテゴリーの編集"
+
+#: plugins/Project/Admin/Category.php:12
+msgid "Category administration"
+msgstr "カテゴリー管理"
+
+#: plugins/Project/Main/Comment/DeleteForm.php:33
+msgid "Comment deleted successfully"
+msgstr "コメントを削除しました"
+
+#: plugins/Project/Main/Comment/DeleteForm.php:42
+#: plugins/Project/Main/Comment/SubmitReportForm.php:36
+msgid "Delete comment"
+msgstr "コメントの削除"
+
+#: plugins/Project/Main/Comment/EditForm.php:47
+msgid "Comment edited successfully"
+msgstr "コメントを更新しました"
+
+#: plugins/Project/Main/Comment/EditForm.php:56
+msgid "Edit comment"
+msgstr "コメントの編集"
+
+#: plugins/Project/Main/Comment/ShowReportForm.php:20
+msgid "Report this comment"
+msgstr "このコメントを報告する"
+
+#: plugins/Project/Main/Comment/SubmitReportForm.php:27
+#: plugins/Project/Main/Link/SubmitReportForm.php:27
+msgid "Report posted successfully"
+msgstr "報告を送信しました"
+
+#: plugins/Project/Main/Developer/ApproveForm.php:26
+msgid "Developer approved successfully"
+msgstr "開発者を承認しました"
+
+#: plugins/Project/Main/Developer/ApproveForm.php:34
+msgid "Approve developer"
+msgstr "開発者の登録承認"
+
+#: plugins/Project/Main/Developer/DeleteForm.php:25
+msgid "Developer deleted successfully"
+msgstr "開発者を削除しました"
+
+#: plugins/Project/Main/Developer/DeleteForm.php:34
+msgid "Delete developer"
+msgstr "開発者の削除"
+
+#: plugins/Project/Main/Developer/DeleteForm.php:43
+#: plugins/Project/Model/Base/DeveloperForm.php:12
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:6
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:29
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:34
+#: plugins/Project/templates/user/widget/default.php:8
+#: plugins/Project/templates/user/widget/default.php:115
+msgid "Role"
+msgstr "ロール"
+
+#: plugins/Project/Main/Developer/DeleteForm.php:44
+#: plugins/Project/Model/Base/DeveloperForm.php:16
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:35
+#: plugins/Project/templates/user/widget/default.php:9
+msgid "Tasks"
+msgstr "プロジェクトでの作業内容"
+
+#: plugins/Project/Main/Developer/EditForm.php:27
+msgid "Developer edited successfully"
+msgstr "開発者を更新しました"
+
+#: plugins/Project/Main/Developer/EditForm.php:35
+msgid "Edit developer"
+msgstr "開発者の編集"
+
+#: plugins/Project/Main/Developer.php:30
+#, php-format
+msgid "Developer #%d"
+msgstr "開発者#%d"
+
+#: plugins/Project/Main/Link/DeleteForm.php:28
+msgid "Link deleted successfully"
+msgstr "リンクを削除しました"
+
+#: plugins/Project/Main/Link/DeleteForm.php:37
+msgid "Delete link"
+msgstr "リンクの削除"
+
+#: plugins/Project/Main/Link/EditForm.php:41
+msgid "Link edited successfully"
+msgstr "リンクを更新しました"
+
+#: plugins/Project/Main/Link/EditForm.php:50
+msgid "Edit link"
+msgstr "リンクの編集"
+
+#: plugins/Project/Main/Link/ShowReportForm.php:20
+#: plugins/Project/Main/Link/SubmitReportForm.php:36
+msgid "Report this link"
+msgstr "このリンクを報告する"
+
+#: plugins/Project/Main/Link/Vote.php:7
+msgid "Invalid request method"
+msgstr "不正なリクエストメソッドです"
+
+#: plugins/Project/Main/Link/Vote.php:28
+msgid "Invalid IP address. Guest votes require a valid IP address."
+msgstr "不正なIPアドレスです。ゲストによる投票には正しいIPアドレスが必要です。"
+
+#: plugins/Project/Main/Link/Vote.php:36
+msgid "Already voted"
+msgstr "投票済み"
+
+#: plugins/Project/Main/Link/Vote.php:51 plugins/Project/Main/Link/Vote.php:57
+#: plugins/Project/Main/Link/Vote.php:62
+msgid "An error occurred"
+msgstr ""
+
+#: plugins/Project/Main/Link/Vote.php:66
+msgid "Voted successfully"
+msgstr "投票しました"
+
+#: plugins/Project/Main/Project/ApproveForm.php:23
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:41
+#: plugins/Project/Main/Release/ApproveForm.php:28
+#: plugins/Project/Main/Release/DeleteForm.php:30
+#: plugins/Project/Main/Release/EditForm.php:44
+msgid "Project latest release updated"
+msgstr "プロジェクトの最新バージョンを更新しました"
+
+#: plugins/Project/Main/Project/ApproveForm.php:25
+msgid "Project approved successfully"
+msgstr "プロジェクトを承認しました"
+
+#: plugins/Project/Main/Project/ApproveForm.php:32
+msgid "Approve project"
+msgstr "プロジェクトの承認"
+
+#: plugins/Project/Main/Project/ApproveForm.php:40
+#: plugins/Project/Model/Base/LinkForm.php:18
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:13
+#: plugins/Project/Model/Base/ProjectForm.php:14
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:8
+#: plugins/Project/Model/Base/ReleaseForm.php:22
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:23
+#: plugins/Project/Model/LinkHTMLQuickForm.php:12
+msgid "Summary"
+msgstr "概要"
+
+#: plugins/Project/Main/Project/ApproveForm.php:42
+#: plugins/Project/Main/Release/ApproveForm.php:50
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:47
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:20
+msgid "Submitter"
+msgstr "投稿者"
+
+#: plugins/Project/Main/Project/DeleteForm.php:17
+msgid "Project deleted successfully"
+msgstr "プロジェクトを削除しました"
+
+#: plugins/Project/Main/Project/DeleteForm.php:22
+msgid "Delete project"
+msgstr "プロジェクトの削除"
+
+#: plugins/Project/Main/Project/EditForm.php:33
+msgid "Project submitted successfully"
+msgstr "プロジェクトを投稿しました。"
+
+#: plugins/Project/Main/Project/EditForm.php:39
+msgid "Edit project"
+msgstr "プロジェクトの編集"
+
+#: plugins/Project/Main/Project/ListImages.php:55
+#: plugins/Project/Main/Project/SubmitImageForm.php:64
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:30
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:31
+msgid "Screenshots"
+msgstr "スクリーンショット"
+
+#: plugins/Project/Main/Project/ShowCommentForm.php:11
+msgid "Comments not allowed for this project"
+msgstr "コメントの投稿は許可されていません"
+
+#: plugins/Project/Main/Project/ShowCommentForm.php:24
+#: plugins/Project/Main/Project/SubmitCommentForm.php:51
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:28
+msgid "Add comment"
+msgstr "コメントを投稿する"
+
+#: plugins/Project/Main/Project/ShowDeveloperForm.php:11
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:11
+msgid "You are already listed as a developer or have submitted a request"
+msgstr "既に開発者として登録されているか、リクエストを送信済みです"
+
+#: plugins/Project/Main/Project/ShowDeveloperForm.php:20
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:40
+msgid "Submit developer request"
+msgstr "開発者として登録"
+
+#: plugins/Project/Main/Project/ShowImageForm.php:15
+msgid "Images not allowed for this project"
+msgstr "スクリーンショットの投稿は許可されていません"
+
+#: plugins/Project/Main/Project/ShowImageForm.php:19
+#: plugins/Project/Main/Project/SubmitImageForm.php:15
+msgid "There are already 9 screenshot images uploaded."
+msgstr "既に９つのスクリーンショット画像がアップロードされています"
+
+#: plugins/Project/Main/Project/ShowLinkForm.php:11
+msgid "Links not allowed for this project"
+msgstr "リンクの投稿は許可されていません"
+
+#: plugins/Project/Main/Project/ShowLinkForm.php:25
+#: plugins/Project/Main/Project/SubmitLinkForm.php:47
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:30
+msgid "Add link"
+msgstr "リンクを投稿する"
+
+#: plugins/Project/Main/Project/ShowReleaseForm.php:11
+msgid "Releases not allowed for this project"
+msgstr "リリース情報の投稿は許可されていません"
+
+#: plugins/Project/Main/Project/ShowReleaseForm.php:32
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:56
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:27
+msgid "Add release"
+msgstr "リリース情報を投稿する"
+
+#: plugins/Project/Main/Project/SubmitCommentForm.php:42
+msgid "Comment posted successfully"
+msgstr "コメントを投稿しました"
+
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:28
+msgid "Developer request posted successfully."
+msgstr "開発者リクエストを送信しました。"
+
+#: plugins/Project/Main/Project/SubmitDeveloperForm.php:30
+msgid ""
+"You will be listed on the project page once approved by the site "
+"administrators or the developers."
+msgstr ""
+"サイト管理者または既存の開発者からリクエストが承認され次第、開発者として登録"
+"されます。"
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:44
+msgid "Featured image updated"
+msgstr "ピックアップ画像を更新しました"
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:46
+msgid "Image uploaded successfully"
+msgstr "スクリーンショット画像をアップロードしました"
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:50
+msgid "Screenshot images must be at least 100 x 70 pixels in size."
+msgstr "スクリーンショット画像は100 x 70ピクセル以上である必要があります"
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:53
+msgid "Failed fetching image size."
+msgstr "画像サイズの取得に失敗しました"
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:57
+msgid "Failed uploading image to the media directory"
+msgstr "スクリーンショット画像をmediaフォルダに移動できませんでした"
+
+#: plugins/Project/Main/Project/SubmitImageForm.php:65
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:5
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:41
+msgid "Add screenshot"
+msgstr "スクリーンショットを追加"
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:34
+msgid "An error occurred while generating thumbmail images"
+msgstr "サムネイル画像の生成中にエラーが発生しました"
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:36
+msgid "Thumbnails generated successfully"
+msgstr "サムネイル画像を生成しました"
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:41
+msgid "Could not update selected images"
+msgstr "選択された画像を更新できませんでした"
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:43
+msgid "Selected images updated successfully"
+msgstr "選択された画像を更新しました"
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:48
+msgid "Could not delete selected images"
+msgstr "選択された画像を削除できませんでした"
+
+#: plugins/Project/Main/Project/SubmitImagesForm.php:50
+msgid "Selected images deleted successfully"
+msgstr "選択された画像を削除しました"
+
+#: plugins/Project/Main/Project/SubmitLinkForm.php:38
+msgid "Link posted successfully"
+msgstr "リンクを投稿しました"
+
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:43
+msgid "Release data posted successfully."
+msgstr "リリース情報を投稿しました"
+
+#: plugins/Project/Main/Project/SubmitReleaseForm.php:45
+msgid ""
+"Release data submitted successfully. It will be listed on the project page "
+"once approved by the developers"
+msgstr ""
+"リリース情報を投稿しました。開発者またはサイト管理者により承認され次第、プロ"
+"ジェクトのページに表示されます。"
+
+#: plugins/Project/Main/Project/View.php:67
+#: plugins/Project/Main/Project/ViewComments.php:42
+#: plugins/Project/Main/ViewComments.php:44
+msgid "Higher rating first"
+msgstr "評価の高いものから"
+
+#: plugins/Project/Main/Project/View.php:136
+#: plugins/Project/Main/Project/ViewReleases.php:53
+#: plugins/Project/Main/ViewReleases.php:69
+msgid "More stable first"
+msgstr "安定度の高いものから"
+
+#: plugins/Project/Main/Project/View.php:137
+#: plugins/Project/Main/Project/ViewReleases.php:54
+msgid "Recently reported"
+msgstr "動作報告の新しいものから"
+
+#: plugins/Project/Main/Project/View.php:195
+#: plugins/Project/Main/Project/ViewLinks.php:67
+#: plugins/Project/Main/ViewLinks.php:65
+#: plugins/Project/Model/Base/CommentForm.php:12
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/LinkvoteForm.php:12
+#: plugins/Project/Model/Base/LinkvoteHTMLQuickForm.php:9
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:49
+msgid "Rating"
+msgstr "評価"
+
+#: plugins/Project/Main/Release/ApproveForm.php:30
+msgid "Release approved successfully"
+msgstr "リリース情報を承認しました"
+
+#: plugins/Project/Main/Release/ApproveForm.php:38
+msgid "Approve release data"
+msgstr "リリース情報の承認"
+
+#: plugins/Project/Main/Release/ApproveForm.php:46
+#: plugins/Project/Main/Release/DeleteForm.php:48
+#: plugins/Project/Model/Base/ReleaseForm.php:12
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:6
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:40
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:19
+#: plugins/Project/templates/user/widget/default.php:72
+msgid "Version"
+msgstr "バージョン"
+
+#: plugins/Project/Main/Release/ApproveForm.php:47
+msgid "Release Date"
+msgstr "リリース日"
+
+#: plugins/Project/Main/Release/ApproveForm.php:48
+#: plugins/Project/Model/Base/ReleaseForm.php:14
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:43
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:6
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:34
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:21
+msgid "Stability"
+msgstr "安定度"
+
+#: plugins/Project/Main/Release/DeleteForm.php:32
+msgid "Release deleted successfully"
+msgstr "リリース情報を削除しました"
+
+#: plugins/Project/Main/Release/DeleteForm.php:41
+msgid "Delete release data"
+msgstr "リリース情報の削除"
+
+#: plugins/Project/Main/Release/EditForm.php:46
+msgid "Release posted successfully"
+msgstr "リリース情報を投稿しました"
+
+#: plugins/Project/Main/Release/EditForm.php:55
+msgid "Edit release data"
+msgstr "リリース情報の編集"
+
+#: plugins/Project/Main/Release/ShowReportForm.php:36
+#: plugins/Project/Main/Release/SubmitReportForm.php:54
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:36
+msgid "Submit report"
+msgstr "動作報告を投稿する"
+
+#: plugins/Project/Main/Release/SubmitReportForm.php:44
+msgid "Report submitted successfully"
+msgstr "動作報告を送信しました"
+
+#: plugins/Project/Main/Report/DeleteForm.php:30
+msgid "Report deleted successfully"
+msgstr "動作報告を削除しました"
+
+#: plugins/Project/Main/Report/DeleteForm.php:40
+msgid "Delete report"
+msgstr "動作報告の削除"
+
+#: plugins/Project/Main/Report/DeleteForm.php:48
+msgid "Report ID"
+msgstr "動作報告ID"
+
+#: plugins/Project/Main/Report/EditForm.php:39
+msgid "Report edited successfully"
+msgstr "動作報告を更新しました"
+
+#: plugins/Project/Main/Report/EditForm.php:49
+msgid "Edit report"
+msgstr "動作報告の編集"
+
+#: plugins/Project/Main/Report.php:29
+#, php-format
+msgid "Report #%d"
+msgstr "動作報告#%d"
+
+#: plugins/Project/Main/ShowProjectForm.php:15
+#: plugins/Project/Main/SubmitProjectForm.php:51
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:4
+#: plugins/Project/templates/user/widget/default.php:48
+msgid "Submit project"
+msgstr "プロジェクトを登録する"
+
+#: plugins/Project/Main/SubmitProjectForm.php:39
+msgid "Project submitted successfully."
+msgstr "プロジェクトを投稿しました"
+
+#: plugins/Project/Main/SubmitProjectForm.php:43
+msgid ""
+"It will be listed on the project page once approved by the site "
+"administrators."
+msgstr "サイト管理者により承認され次第、プロジェクトのページに表示されます。"
+
+#: plugins/Project/Main/ViewProjects.php:74
+msgid "All Projects"
+msgstr "全てのプロジェクト"
+
+#: plugins/Project/Main/ViewProjects.php:79
+#, php-format
+msgid "%s(%d)"
+msgstr "%s（%d）"
+
+#: plugins/Project/Main/ViewProjects.php:112
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:18
+msgid "Project name"
+msgstr "プロジェクト名"
+
+#: plugins/Project/Main/ViewProjects.php:113
+msgid "Date added"
+msgstr "登録日の新しいものから"
+
+#: plugins/Project/Main/ViewProjects.php:114
+msgid "Recently updated"
+msgstr "リリースまたは登録日の新しいものから"
+
+#: plugins/Project/Main/ViewProjects.php:115
+msgid "Project rating"
+msgstr "コメント評価の高いものから"
+
+#: plugins/Project/Main/ViewProjects.php:116
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+msgid "View count"
+msgstr "閲覧回数の多いものから"
+
+#: plugins/Project/Main/ViewProjects.php:117
+msgid "Recently commented"
+msgstr "コメントの新しいものから"
+
+#: plugins/Project/Main/ViewProjects.php:118
+msgid "Recently linked"
+msgstr "リンクの新しいものから"
+
+#: plugins/Project/Main/ViewReleases.php:70
+msgid "Newly reported first"
+msgstr "動作報告の新しいものから"
+
+#: plugins/Project/Model/Abuse.php:39
+msgid "Advertisement"
+msgstr "広告目的の投稿である"
+
+#: plugins/Project/Model/Abuse.php:40
+msgid "Inappropriate content"
+msgstr "不適切なコンテンツが含まれている"
+
+#: plugins/Project/Model/Abuse.php:41
+msgid "Multiple entries"
+msgstr "複数回投稿されている（マルチポスト）"
+
+#: plugins/Project/Model/Abuse.php:42
+msgid "Adult content"
+msgstr "成人向けコンテンツが含まれている"
+
+#: plugins/Project/Model/Abuse.php:43
+msgid "Invalid link"
+msgstr "不正なリンク（リンク切れ含む）"
+
+#: plugins/Project/Model/Abuse.php:44
+msgid "Privacy information"
+msgstr "個人情報が含まれている"
+
+#: plugins/Project/Model/AbuseHTMLQuickForm.php:14
+msgid "Please select the reason for this report"
+msgstr "この報告の理由を選択してください"
+
+#: plugins/Project/Model/Base/AbuseForm.php:12
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:6
+msgid "Entity"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:14
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:7
+msgid "Entity id"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:16
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:8
+msgid "Reason"
+msgstr "理由"
+
+#: plugins/Project/Model/Base/AbuseForm.php:18
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:9
+#: plugins/Project/Model/Base/ReportForm.php:18
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:10
+#: plugins/Project/Model/ReportHTMLQuickForm.php:17
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreports.tpl:45
+msgid "Comment"
+msgstr "コメント"
+
+#: plugins/Project/Model/Base/AbuseForm.php:22
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:11
+#: plugins/Project/Model/Base/CommentForm.php:24
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:18
+#: plugins/Project/Model/Base/DeveloperForm.php:14
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:7
+#: plugins/Project/Model/Base/LinkForm.php:28
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:22
+#: plugins/Project/Model/Base/ProjectForm.php:26
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:15
+#: plugins/Project/Model/Base/ReleaseForm.php:26
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:25
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+msgid "Status"
+msgstr ""
+
+#: plugins/Project/Model/Base/AbuseForm.php:25
+#: plugins/Project/Model/Base/AbuseHTMLQuickForm.php:12
+#: plugins/Project/Model/Base/CommentForm.php:27
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:19
+#: plugins/Project/Model/Base/DeveloperForm.php:19
+#: plugins/Project/Model/Base/DeveloperHTMLQuickForm.php:9
+#: plugins/Project/Model/Base/ImageForm.php:27
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:14
+#: plugins/Project/Model/Base/LinkForm.php:31
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:23
+#: plugins/Project/Model/Base/Project2categoryForm.php:13
+#: plugins/Project/Model/Base/Project2categoryHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/ReleaseForm.php:33
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:34
+msgid "project"
+msgstr ""
+
+#: plugins/Project/Model/Base/CategoryForm.php:16
+#: plugins/Project/Model/Base/CategoryHTMLQuickForm.php:9
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:13
+msgid "Order"
+msgstr "順番"
+
+#: plugins/Project/Model/Base/CategoryHTMLQuickForm.php:7
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:7
+msgid "Name is required"
+msgstr "プロジェクト名を入力してください"
+
+#: plugins/Project/Model/Base/CommentForm.php:14
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:8
+#: plugins/Project/Model/Base/ImageForm.php:12
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/LinkForm.php:16
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:11
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:46
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:19
+msgid "Title"
+msgstr "タイトル"
+
+#: plugins/Project/Model/Base/CommentForm.php:16
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:10
+#: plugins/Project/Model/CommentHTMLQuickForm.php:13
+msgid "Body"
+msgstr "本文"
+
+#: plugins/Project/Model/Base/CommentForm.php:18
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:12
+msgid "Body html"
+msgstr "本文の出力HTML"
+
+#: plugins/Project/Model/Base/CommentForm.php:20
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:16
+#: plugins/Project/Model/Base/LinkForm.php:22
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:19
+msgid "Allow edit"
+msgstr "編集を許可する"
+
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:7
+msgid "Rating is required"
+msgstr "評価を選択してください"
+
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:9
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:12
+msgid "Title is required"
+msgstr "タイトルを入力してください"
+
+#: plugins/Project/Model/Base/CommentHTMLQuickForm.php:11
+msgid "Body is required"
+msgstr "本文を入力してください"
+
+#: plugins/Project/Model/Base/ImageForm.php:14
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:7
+msgid "Original"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageForm.php:16
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:8
+msgid "Medium"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageForm.php:18
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:9
+msgid "Thumbnail"
+msgstr ""
+
+#: plugins/Project/Model/Base/ImageForm.php:24
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:13
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:22
+msgid "Priority"
+msgstr "優先度"
+
+#: plugins/Project/Model/Base/ImageHTMLQuickForm.php:11
+msgid "Invalid file"
+msgstr "不正なファイルです"
+
+#: plugins/Project/Model/Base/LinkForm.php:12
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:6
+#: plugins/Project/Model/Base/ReportForm.php:16
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:8
+msgid "Type"
+msgstr "種類"
+
+#: plugins/Project/Model/Base/LinkForm.php:14
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:8
+msgid "Url"
+msgstr "URL"
+
+#: plugins/Project/Model/Base/LinkForm.php:20
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:15
+#: plugins/Project/Model/Base/ProjectForm.php:16
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:10
+#: plugins/Project/Model/Base/ReleaseForm.php:24
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:24
+msgid "Summary html"
+msgstr "概要の出力HTML"
+
+#: plugins/Project/Model/Base/LinkForm.php:24
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:20
+msgid "Score"
+msgstr ""
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:7
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:9
+msgid "Type is required"
+msgstr "リンクの種類を選択してください"
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:9
+msgid "Url is required"
+msgstr "URLを入力してください"
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:10
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:20
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:22
+msgid "Invalid URI"
+msgstr "不正なURLです"
+
+#: plugins/Project/Model/Base/LinkHTMLQuickForm.php:14
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:9
+msgid "Summary is required"
+msgstr "概要を入力してください"
+
+#: plugins/Project/Model/Base/LinkvoteForm.php:17
+#: plugins/Project/Model/Base/LinkvoteHTMLQuickForm.php:11
+msgid "link"
+msgstr ""
+
+#: plugins/Project/Model/Base/Project2categoryForm.php:16
+#: plugins/Project/Model/Base/Project2categoryHTMLQuickForm.php:7
+msgid "category"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:18
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:11
+#: plugins/Project/Model/Base/ReportForm.php:12
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:6
+msgid "Data"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:20
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:12
+msgid "Release latest"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:22
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:13
+msgid "Lastupdate"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:24
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:14
+msgid "Image featured"
+msgstr "ピックアップ画像"
+
+#: plugins/Project/Model/Base/ProjectForm.php:28
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:19
+msgid "Hidden"
+msgstr "非表示にする"
+
+#: plugins/Project/Model/Base/ProjectForm.php:30
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:23
+msgid "Allow comments"
+msgstr "コメント投稿を許可する"
+
+#: plugins/Project/Model/Base/ProjectForm.php:32
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:27
+msgid "Allow links"
+msgstr "リンク投稿を許可する"
+
+#: plugins/Project/Model/Base/ProjectForm.php:34
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:31
+msgid "Allow images"
+msgstr "スクリーンショット画像の投稿を許可する"
+
+#: plugins/Project/Model/Base/ProjectForm.php:36
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:35
+msgid "Allow releases"
+msgstr "リリース情報の投稿を許可する"
+
+#: plugins/Project/Model/Base/ProjectForm.php:38
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:36
+msgid "Comment rating"
+msgstr ""
+
+#: plugins/Project/Model/Base/ProjectForm.php:40
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:37
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:50
+msgid "Views"
+msgstr "閲覧数"
+
+#: plugins/Project/Model/Base/ProjectForm.php:43
+#: plugins/Project/Model/Base/ProjectHTMLQuickForm.php:38
+msgid "Category"
+msgstr "カテゴリー"
+
+#: plugins/Project/Model/Base/ReleaseForm.php:16
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:17
+msgid "Date"
+msgstr "リリース日"
+
+#: plugins/Project/Model/Base/ReleaseForm.php:18
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:18
+msgid "Download url"
+msgstr "ダウンロードURL"
+
+#: plugins/Project/Model/Base/ReleaseForm.php:20
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:21
+msgid "Note url"
+msgstr "リリースノート掲載URL"
+
+#: plugins/Project/Model/Base/ReleaseForm.php:28
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:29
+msgid "Allow reports"
+msgstr "動作報告の投稿を許可する"
+
+#: plugins/Project/Model/Base/ReleaseForm.php:30
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:33
+msgid "Allow download"
+msgstr "ダウンロードURLからのダウンロードを許可する"
+
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:7
+msgid "Version is required"
+msgstr "バージョンを入力してください"
+
+#: plugins/Project/Model/Base/ReleaseHTMLQuickForm.php:19
+msgid "Download url is required"
+msgstr "ダウンロードURLを入力してください"
+
+#: plugins/Project/Model/Base/ReportForm.php:20
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:11
+msgid "Comment html"
+msgstr "コメントの出力HTML"
+
+#: plugins/Project/Model/Base/ReportForm.php:23
+#: plugins/Project/Model/Base/ReportHTMLQuickForm.php:12
+msgid "release"
+msgstr ""
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "5 stars"
+msgstr "星5つ"
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "4 stars"
+msgstr "星4つ"
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "3 stars"
+msgstr "星3つ"
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "2 stars"
+msgstr "星2つ"
+
+#: plugins/Project/Model/CommentHTMLQuickForm.php:10
+msgid "1 star"
+msgstr "星1つ"
+
+#: plugins/Project/Model/Developer.php:36
+msgid "Lead"
+msgstr "リード開発者"
+
+#: plugins/Project/Model/Developer.php:37
+msgid "Developer"
+msgstr "デベロッパー"
+
+#: plugins/Project/Model/Developer.php:38
+msgid "Contributor"
+msgstr "コントリビューター"
+
+#: plugins/Project/Model/Developer.php:39
+msgid "Helper"
+msgstr "ヘルパー"
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:42
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:22
+msgid ""
+"If you are a developer of this project, claim yourself as a developer using "
+"the request form below. Project developers can manage the contents of this "
+"page basend on the assigned role."
+msgstr ""
+"あなたがこのプロジェクトの開発者である場合は、下記フォームより開発者として登"
+"録しましょう。開発者として登録されると、ロールに応じてこのページのコンテンツ"
+"を管理できるようになります。"
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:42
+msgid ""
+"You will be listed as a developer once the request is approved by the site "
+"administrator or other developers."
+msgstr ""
+"サイト管理者または既存の開発者からリクエストが承認され次第、開発者として登録"
+"されます。"
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:46
+msgid ""
+"Developers with the lead role can edit project data, approve/edit/delete any "
+"developers and releases, and edit/delete any comments, links, and reports "
+"for this project."
+msgstr ""
+"プロジェクト情報の編集、開発者情報およびリリース情報の承認／編集／削除、そし"
+"てコメント、リンク、動作報告の編集／削除が行えます。"
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:49
+msgid ""
+"Developers with the developer role can approve/edit/delete developers with "
+"roles other than the lead role, approve/edit/delete any releases, and edit/"
+"delete any comments, links, and reports for this project."
+msgstr ""
+"「リード開発者」以外の開発者情報およびリリース情報の承認／編集／削除、そして"
+"コメント、リンク、動作報告の編集／削除が行えます。"
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:52
+msgid ""
+"Developers with the contributor role can approve/edit/delete developers with "
+"either the contributor or the helper role, approve/edit any releases, edit/"
+"delete any comments, links, and reports for this project."
+msgstr ""
+"「コントリビューター」または「ヘルパー」の開発者情報の承認／編集／削除、リ"
+"リース情報の承認／編集、そしてコメント、リンク、動作報告の編集／削除が行えま"
+"す。"
+
+#: plugins/Project/Model/DeveloperHTMLQuickForm.php:55
+msgid ""
+"Developers with the helper role can approve/edit/delete developers with the "
+"helper role, and edit/delete any comments, links, reports for this project."
+msgstr ""
+"「ヘルパー」の開発者情報の承認／編集／削除、そしてコメント、リンク、動作報告"
+"の編集／削除が行えます。"
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:15
+msgid "Please select a file to upload"
+msgstr "アップロードするファイルを選択してください"
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:16
+msgid "Invalid file type"
+msgstr "不正なファイルです"
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:17
+#, php-format
+msgid "File size must be smaller than %d kilo bytes"
+msgstr "最大ファイルサイズは%dキロバイトです"
+
+#: plugins/Project/Model/ImageHTMLQuickForm.php:20
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+#: plugins/Project/Model/Link.php:18
+msgid "Blogs"
+msgstr "ブログ・開発日記"
+
+#: plugins/Project/Model/Link.php:19
+msgid "News/Announcement"
+msgstr "ニュース・告知"
+
+#: plugins/Project/Model/Link.php:20
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:44
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:31
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:35
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:22
+msgid "Reports"
+msgstr "動作報告"
+
+#: plugins/Project/Model/Link.php:21
+msgid "Reviews"
+msgstr "レビュー"
+
+#: plugins/Project/Model/Link.php:22
+msgid "Tips"
+msgstr "利用ガイド・マニュアル"
+
+#: plugins/Project/Model/Link.php:23
+msgid "Downloadable contents"
+msgstr "ダウンロード可能なコンテンツ"
+
+#: plugins/Project/Model/Link.php:24
+msgid "Images/Videos"
+msgstr "画像・ビデオ"
+
+#: plugins/Project/Model/Link.php:25
+msgid "I'm using it!"
+msgstr "使ってます！"
+
+#: plugins/Project/Model/Link.php:26
+msgid "Support sites"
+msgstr "サポートサイト"
+
+#: plugins/Project/Model/Link.php:27
+msgid "Demo"
+msgstr "デモ・サンプル"
+
+#: plugins/Project/Model/Link.php:28
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:11
+msgid "Project summary"
+msgstr "プロジェクト概要"
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:28
+msgid "Invalid URL"
+msgstr "不正なURLです"
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:32
+msgid "Invalid mail address"
+msgstr "不正なメールアドレスです"
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:47
+#: plugins/Project/Model/ReportHTMLQuickForm.php:39
+#, php-format
+msgid "%s is required"
+msgstr "%sを入力してください"
+
+#: plugins/Project/Model/ProjectHTMLQuickForm.php:52
+msgid "Project details"
+msgstr "プロジェクト詳細"
+
+#: plugins/Project/Model/Release.php:23
+msgid "Stable"
+msgstr "正式版"
+
+#: plugins/Project/Model/Release.php:24
+msgid "RC"
+msgstr "RC版"
+
+#: plugins/Project/Model/Release.php:25
+msgid "Beta"
+msgstr "ベータ版"
+
+#: plugins/Project/Model/Release.php:26
+msgid "Alpha"
+msgstr "アルファ版"
+
+#: plugins/Project/Model/Release.php:27
+msgid "Snapshot"
+msgstr "開発版"
+
+#: plugins/Project/Model/Release.php:41
+msgid "F jS, Y"
+msgstr "Y年n月j日"
+
+#: plugins/Project/Model/Release.php:46
+msgid "M jS, Y"
+msgstr "Y年n月j日"
+
+#: plugins/Project/Model/Release.php:46
+msgid "N/A"
+msgstr "不明"
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:13
+msgid "Stability must be selected"
+msgstr "リリースの安定度を選択してください"
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:14
+msgid ""
+"Version number must start with a number followed by zero or more digit/"
+"alphanumerical values. A digit may not be used after using an alphabet and "
+"must always be followed by a number."
+msgstr ""
+"バージョンは半角数字で始まり、0文字以上の半角英数字またはドット（.）が続くよ"
+"うに記入してください。なお、ドットの後には半角数字を入力してください"
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:15
+msgid "Release summary"
+msgstr "リリース概要"
+
+#: plugins/Project/Model/ReleaseHTMLQuickForm.php:16
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:41
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:4
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:32
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleaseslist.tpl:20
+msgid "Release date"
+msgstr "リリース日"
+
+#: plugins/Project/Model/Report.php:16
+msgid "OK"
+msgstr "動作OK"
+
+#: plugins/Project/Model/Report.php:17
+msgid "NG"
+msgstr "動作NG"
+
+#: plugins/Project/Plugin.php:18
+msgid "Edit any project data"
+msgstr "プロジェクトを編集できる"
+
+#: plugins/Project/Plugin.php:19
+msgid "Delete any project data"
+msgstr "プロジェクトを削除できる"
+
+#: plugins/Project/Plugin.php:20
+msgid "Approve project data submitted"
+msgstr "プロジェクトを承認できる"
+
+#: plugins/Project/Plugin.php:21
+msgid "Hide project data"
+msgstr "プロジェクトを非表示にできる"
+
+#: plugins/Project/Plugin.php:22
+msgid "Allow or disallow project data comments"
+msgstr "プロジェクトへのコメント投稿を許可できる"
+
+#: plugins/Project/Plugin.php:23
+msgid "Allow or disallow project data links"
+msgstr "プロジェクトへのリンク投稿を許可できる"
+
+#: plugins/Project/Plugin.php:24
+msgid "Allow or disallow project releases"
+msgstr "プロジェクトへのリリース情報の投稿を許可できる"
+
+#: plugins/Project/Plugin.php:25
+msgid "Allow or disallow project data videos"
+msgstr "プロジェクトへのビデオ投稿を許可できる"
+
+#: plugins/Project/Plugin.php:26
+msgid "Edit raw HTML in project data"
+msgstr "プロジェクトの出力HTMLを編集できる"
+
+#: plugins/Project/Plugin.php:27
+msgid "Edit project view count"
+msgstr "プロジェクトの閲覧数を編集できる"
+
+#: plugins/Project/Plugin.php:30
+msgid "Edit own comment"
+msgstr "自分のコメントを編集できる"
+
+#: plugins/Project/Plugin.php:31
+msgid "Edit any comment"
+msgstr "全てのコメントを編集できる"
+
+#: plugins/Project/Plugin.php:32
+msgid "Delete own comment"
+msgstr "自分のコメントを削除できる"
+
+#: plugins/Project/Plugin.php:33
+msgid "Delete any comment"
+msgstr "全てのコメントを削除できる"
+
+#: plugins/Project/Plugin.php:34
+msgid "Edit comment raw HTML"
+msgstr "コメントの出力HTMLを編集できる"
+
+#: plugins/Project/Plugin.php:35
+msgid "Allow or disallow editing comment data"
+msgstr "コメントの編集を許可できる"
+
+#: plugins/Project/Plugin.php:38
+msgid "Edit any release data"
+msgstr "全てのリリース情報を編集できる"
+
+#: plugins/Project/Plugin.php:39
+msgid "Delete any release data"
+msgstr "全てのリリース情報を削除できる"
+
+#: plugins/Project/Plugin.php:40
+msgid "Approve submitted release data"
+msgstr "リリース情報を承認できる"
+
+#: plugins/Project/Plugin.php:41
+msgid "Edit raw HTML in release data"
+msgstr "リリース情報の出力HTMLを編集できる"
+
+#: plugins/Project/Plugin.php:44
+msgid "Edit link submitted"
+msgstr "自分のリンクを編集できる"
+
+#: plugins/Project/Plugin.php:45
+msgid "Edit any link"
+msgstr "全てのリンクを編集できる"
+
+#: plugins/Project/Plugin.php:46
+msgid "Delete link submitted"
+msgstr "自分のリンクを削除できる"
+
+#: plugins/Project/Plugin.php:47
+msgid "Delete any link"
+msgstr "全てのリンクを削除できる"
+
+#: plugins/Project/Plugin.php:48
+msgid "Edit raw HTML in link data"
+msgstr "リンクの出力HTMLを編集できる"
+
+#: plugins/Project/Plugin.php:49
+msgid "Vote links"
+msgstr "リンクに投票できる"
+
+#: plugins/Project/Plugin.php:50
+msgid "Allow or disallow editing link data"
+msgstr "リンクの編集を許可できる"
+
+#: plugins/Project/Plugin.php:53
+msgid "Edit any developer data"
+msgstr "開発者情報を編集できる"
+
+#: plugins/Project/Plugin.php:54
+msgid "Delete any developer data"
+msgstr "開発者情報を削除できる"
+
+#: plugins/Project/Plugin.php:55
+msgid "Approve submitted developer data"
+msgstr "開発者情報を承認できる"
+
+#: plugins/Project/Plugin.php:58
+msgid "Add and edit own screenshot images"
+msgstr "自分のスクリーンショット画像を編集できる"
+
+#: plugins/Project/Plugin.php:59
+msgid "Edit image priority"
+msgstr "スクリーンショット画像の優先度を編集できる"
+
+#: plugins/Project/Plugin.php:60
+msgid "Edit any screenshot images"
+msgstr "全てのスクリーンショット画像を編集できる"
+
+#: plugins/Project/Plugin.php:157
+msgid "Recent projects"
+msgstr "新規追加プロジェクト"
+
+#: plugins/Project/Plugin.php:159
+msgid "Recent releases"
+msgstr "最新リリース"
+
+#: plugins/Project/Plugin.php:161
+msgid "Project categories"
+msgstr "カテゴリー"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:7
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:48
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:12
+#, fuzzy
+msgid "Created"
+msgstr "投票済み"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:14
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:10
+msgid "Projects"
+msgstr "プロジェクト"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:9
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:55
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:15
+msgid "Action"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:28
+msgid "Listing projects"
+msgstr "プロジェクト一覧"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List all"
+msgstr "全て表示"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List approved"
+msgstr "承認済み"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List pending"
+msgstr "承認待ち"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:30
+msgid "List hidden"
+msgstr "非表示"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+msgid "User rating"
+msgstr "ユーザー評価"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:51
+msgid "Developers"
+msgstr "開発者"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:52
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:13
+msgid "Releases"
+msgstr "リリース"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:53
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:16
+msgid "Comments"
+msgstr "コメント"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:38
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:54
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_main_viewcomments.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinks.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojects.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleases.tpl:19
+msgid "Links"
+msgstr "リンク"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:65
+msgid "Hide"
+msgstr "非表示"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_details.tpl:67
+msgid "Unhide"
+msgstr "非表示を解除"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:2
+msgid "Listing categories"
+msgstr "カテゴリー一覧"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:4
+msgid "Category order"
+msgstr "表示順"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:4
+msgid "Category name, ascending"
+msgstr "カテゴリー名（昇順）"
+
+#: plugins/Project/templates/plugn_plugin_project_admin_category_list.tpl:4
+msgid "Category name, descending"
+msgstr "カテゴリー名（降順）"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:3
+msgid "There can be up to 9 screenshot images for each project."
+msgstr "最大で９つのスクリーンショット画像を追加できます"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:21
+#: plugins/Project/templates/user/widget/default.php:42
+#: plugins/Project/templates/user/widget/default.php:74
+#: plugins/Project/templates/user/widget/default.php:117
+msgid "Submitted"
+msgstr "投稿日時"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:27
+msgid "Delete selected"
+msgstr "削除"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:27
+msgid "Regenerate thumbnails"
+msgstr "サムネイル再生成"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_listimages.tpl:28
+#, fuzzy
+msgid "Update"
+msgstr "リリース日"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:12
+msgid "Rating:"
+msgstr "評価:"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:18
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:14
+msgid "Category:"
+msgstr "カテゴリー:"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:23
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:23
+msgid "Views:"
+msgstr "閲覧:"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_view.tpl:24
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:24
+#, php-format
+msgid "%d time"
+msgid_plural "%d times"
+msgstr[0] "%d回"
+msgstr[1] "%d回"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:12
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:8
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:10
+#, php-format
+msgid "Developers (%d)"
+msgstr "開発者（%d）"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:15
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:16
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:13
+#, php-format
+msgid "Releases (%d)"
+msgstr "リリース（%d）"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:18
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:14
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:14
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:19
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:16
+#, php-format
+msgid "Comments (%d)"
+msgstr "コメント（%d）"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:21
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:17
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:17
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:22
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:19
+#, php-format
+msgid "Links (%d)"
+msgstr "リンク（%d）"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:25
+msgid "Please help other users by giving your opinion."
+msgstr "このプロジェクトに関してコメントをお寄せください"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:60
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:69
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:40
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:46
+msgid "Permalink"
+msgstr "ブックマーク"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcomments.tpl:60
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:69
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:40
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:46
+msgid "Report this"
+msgstr "報告する"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcommentsrss.tpl:10
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewcommentsrss.tpl:12
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentsrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentsrss.tpl:13
+msgid "Recently posted comments"
+msgstr "最近投稿されたコメント"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdetails.tpl:40
+msgid "Edit screenshots"
+msgstr "スクリーンショットの編集"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:24
+msgid "I am a developer"
+msgstr "開発者として登録する"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewdevelopers.tpl:41
+#, php-format
+msgid "Showing %d developers"
+msgstr "%d人の開発者を表示しています"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:27
+msgid "We are not responsible for the content of external websites."
+msgstr "当サイトは外部サイトのコンテンツ内容に一切の責任を負いません"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:36
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:3
+msgid "Link Type: "
+msgstr "リンクの種類: "
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:36
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:3
+msgid "All"
+msgstr "全て"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:50
+#, php-format
+msgid "Posted %2$s by %1$s in %3$s"
+msgstr "投稿日時: %2$s | 投稿者: %1$s | 種類: %3$s"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinks.tpl:52
+#, php-format
+msgid "Posted %1$s in %2$s"
+msgstr "投稿日時: %1$s | 種類: %2$s"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinksrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewlinksrss.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinksrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinksrss.tpl:13
+msgid "Recently submitted links"
+msgstr "最近投稿されたリンク"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:42
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:33
+msgid "Related links"
+msgstr "関連リンク"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:59
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:9
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:50
+msgid "Download"
+msgstr "ダウンロード"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleases.tpl:59
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:9
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:50
+msgid "Release note"
+msgstr "リリースノート"
+
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleasesrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_project_viewreleasesrss.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreportsrss.tpl:13
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleasesrss.tpl:11
+#: plugins/Project/templates/plugn_plugin_project_main_viewreleasesrss.tpl:13
+msgid "Recent project releases"
+msgstr "最新リリース情報"
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:31
+msgid "[-]"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:31
+msgid "[+]"
+msgstr ""
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_view.tpl:33
+msgid "Please submit a report if you are using this version."
+msgstr "このリリースを使用しているユーザによる動作報告の一覧です"
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreports.tpl:35
+msgid "Report type"
+msgstr "動作報告の種類"
+
+#: plugins/Project/templates/plugn_plugin_project_main_release_viewreportsrss.tpl:11
+msgid "Recent reports"
+msgstr "最近登録された動作報告"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:33
+#, php-format
+msgid "Posted %2$s by %1$s in <a href=\"%3$s\">%4$s</a>"
+msgstr "投稿日時: %2$s | 投稿者: %1$s | 投稿先: <a href=\"%3$s\">%4$s</a>"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewcommentslist.tpl:36
+#, php-format
+msgid "Posted %1$s in <a href=\"%2$s\">%3$s</a>"
+msgstr "投稿日時: %1$s | 投稿先: <a href=\"%2$s\">%3$s</a>"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:27
+#, php-format
+msgid "Posted %2$s by %1$s in <a href=\"%3$s\">%4$s</a> - %5$s"
+msgstr ""
+"投稿日時: %2$s | 投稿者: %1$s | 投稿先: <a href=\"%3$s\">%4$s</a>（%5$s）"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewlinkslist.tpl:29
+#, php-format
+msgid "Posted %1$s in <a href=\"%2$s\">%3$s</a> - %4$s"
+msgstr "投稿日時: %1$s | 投稿先: <a href=\"%2$s\">%3$s</a>（%4$s）"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectslist.tpl:7
+msgid "Category: "
+msgstr "カテゴリー: "
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsrss.tpl:13
+msgid "Recently updated projects"
+msgstr "最近更新されたプロジェクト"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:19
+msgid "Comments:"
+msgstr "コメント:"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:21
+msgid "Links:"
+msgstr "リンク:"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:31
+msgid "Latest version"
+msgstr "最新バージョン"
+
+#: plugins/Project/templates/plugn_plugin_project_main_viewprojectsummary.tpl:91
+msgid "Find out more"
+msgstr "詳細を見る"
+
+#: plugins/Project/templates/user/widget/default.php:2
+msgid "My projects"
+msgstr "マイプロジェクト"
+
+#: plugins/Project/templates/user/widget/default.php:2
+#, php-format
+msgid "%s's projects"
+msgstr "%sさんのプロジェクト"
+
+#: plugins/Project/templates/user/widget/default.php:7
+msgid "Registered"
+msgstr "登録日時"
+
+#: plugins/Project/templates/user/widget/default.php:30
+msgid "No projects"
+msgstr "開発者として参加しているプロジェクトはありません"
+
+#: plugins/Project/templates/user/widget/default.php:36
+msgid "Pending projects"
+msgstr "承認待ちプロジェクト"
+
+#: plugins/Project/templates/user/widget/default.php:62
+msgid "No pending projects"
+msgstr "承認待ちプロジェクトはありません"
+
+#: plugins/Project/templates/user/widget/default.php:67
+msgid "Pending releases"
+msgstr "承認待ちリリース"
+
+#: plugins/Project/templates/user/widget/default.php:105
+msgid "No pending releases"
+msgstr "承認待ちリリースはありません"
+
+#: plugins/Project/templates/user/widget/default.php:110
+msgid "Pending developer requests"
+msgstr "承認待ち開発者リクエスト"
+
+#: plugins/Project/templates/user/widget/default.php:147
+msgid "No pending developer requests"
+msgstr "承認待ち開発者リクエストはありません"
+
+msgid "Project"
+msgstr "プロジェクト"

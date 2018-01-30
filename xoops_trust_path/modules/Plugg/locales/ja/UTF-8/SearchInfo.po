@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:8
+msgid "Search plugin"
+msgstr "各種コンテンツの検索を可能にします"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:9
+msgid "Search"
+msgstr "検索"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:13
+msgid "Search engine plugin"
+msgstr "検索エンジンプラグイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:13
+msgid ""
+"IMPORTANT! If you switch to another search engine plugin, searchable "
+"contents must be imported manually to the new search engine data source."
+msgstr ""
+"【重要】検索エンジンプラグインを変更した場合、新しい検索エンジンプラグインへ"
+"と検索コンテンツをインポートする必要があります。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:19
+msgid "Minimum length of search keyword allowed"
+msgstr "検索キーワードの最小文字数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:28
+msgid "Number of search results to display on each page"
+msgstr "1ページに表示する検索結果の件数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:37
+msgid "Rebuild search engine contents"
+msgstr "検索エンジンのコンテンツを再構築する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Search/Search/PluginInfo.php:37
+msgid ""
+"Select yes to rebuild search engine contents upon next cron update. "
+"IMPORTANT! Turning on this option could impose a very large load on the "
+"server."
+msgstr ""
+"次回のCron実行時に検索エンジンのコンテンツを再構築します。【重要】有効にした"
+"場合、サーバへと大きな負荷がかかる場合があります。"

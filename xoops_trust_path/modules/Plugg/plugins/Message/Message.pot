@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-06 18:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/Model/Base/MessageHTMLQuickForm.php:11
+msgid "Title"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/Model/Base/MessageHTMLQuickForm.php:12
+msgid "Body"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/Model/Base/MessageHTMLQuickForm.php:13
+msgid "Body html"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/Plugin.php:48
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Reply.php:91
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:76
+msgid "Send message"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/Plugin.php:68
+msgid "New messages"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/Plugin.php:78
+#, php-format
+msgid "Inbox (<strong>%d</strong>)"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/Plugin.php:80
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index.tpl:6
+msgid "Inbox"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index.tpl:2
+msgid "Compose message"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index.tpl:6
+msgid "Sent messages"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:2
+#, php-format
+msgid ""
+"Messages without a star and older than %d days will be automatically deleted."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:5
+msgid "Read"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:5
+msgid "Unread"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:5
+msgid "Starred"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:5
+msgid "Unstarred"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:16
+msgid "Refresh"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:24
+msgid "Sent to"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:24
+msgid "Sender"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:26
+msgid "Message"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:27
+msgid "Sent at"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:27
+msgid "Received at"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:36
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:29
+msgid "Mark as read"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:31
+msgid "Mark as unread"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:38
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:34
+msgid "Add star"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:39
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:36
+msgid "Remove star"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_index_messages.tpl:66
+msgid "No messages"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:2
+msgid "&laquo; Back to Sent messages"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:2
+msgid "&laquo; Back to Inbox"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:7
+msgid "Sent to:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:7
+msgid "Sender:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:8
+msgid "Sent at:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:8
+msgid "Received at:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/templates/plugg_message_user_message_view.tpl:23
+msgid "Reply"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Reply.php:30
+msgid "Send message to"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Reply.php:40
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:28
+msgid "Message title is required"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Reply.php:41
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:29
+msgid "Message body is required"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Reply.php:75
+msgid "Message sent successfully."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Reply.php:94
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:79
+msgid "Send a message"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Submit.php:57
+msgid "Message could not be updated."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Message/Submit.php:63
+msgid "Message updated successfully."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:22
+msgid "To"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:26
+msgid "User does not exist"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:27
+msgid "To is required"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/NewMessage.php:60
+#, php-format
+msgid "Message sent to %s successfully."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Submit.php:83
+msgid "An error occurred while updating messages."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Message/Message/User/Submit.php:89
+#, php-format
+msgid "%d message(s) updated successfully."
+msgstr ""

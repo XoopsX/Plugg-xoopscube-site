@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:9
+msgid "Submits news articles when a project release is made"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:10
+msgid "ProjectNews"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:15
+msgid "Select project plugin for which news articles will be submitted:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:22
+msgid "Select xigg plugin to which news articles will be submitted:"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:29
+msgid "Required release stability"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:29
+msgid ""
+"Select the minimum level of release stability required to be published as "
+"news."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:32
+msgid "Stable"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:33
+msgid "RC"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:34
+msgid "Beta"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:35
+msgid "Alpha"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:36
+msgid "Snapshot"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:40
+msgid "News article title"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:46
+msgid "News article summary"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:58
+msgid "News article details"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:68
+msgid "News article category"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:68
+msgid "Enter the ID of category to which news articles will be submitted."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:74
+msgid "News article tags"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ProjectNews/ProjectNews/PluginInfo.php:74
+msgid "Enter tags for news articles, each separated with a comma."
+msgstr ""

@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:11
+msgid "XOOPS Code"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:16
+msgid "Allows editing text using the XOOPS syntax."
+msgstr "XOOPSで使用されている入力方式を有効にします"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:35
+msgid "XOOPS Code is <strong>On</strong>"
+msgstr "XOOPS Codeが使用できます"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:36
+msgid "Smilies are <strong>On</strong>"
+msgstr "スマイル画像が使用できます"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:36
+msgid "Smilies are <strong>Off</strong>"
+msgstr "スマイル画像は使用できません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:37
+msgid "[img] code is <strong>On</strong>"
+msgstr "[img]タグが使用できます"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:37
+msgid "[img] code is <strong>Off</strong>"
+msgstr "[img]タグは使用できません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:38
+msgid "HTML tags are <strong>On</strong>"
+msgstr "HTMLタグが使用できます"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCodeFilter/XOOPSCodeFilter/Plugin.php:38
+msgid "HTML tags are <strong>Off</strong>"
+msgstr "HTMLタグは使用できません"

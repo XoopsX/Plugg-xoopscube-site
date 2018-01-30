@@ -1,0 +1,1 @@
+<?php include $this->getTemplatePath('plugg_locale_admin_editmessagesform.tpl');?>

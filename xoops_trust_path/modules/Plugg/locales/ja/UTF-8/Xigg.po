@@ -1,0 +1,1523 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Category/Category/Delete.php:34
+msgid "Delete category"
+msgstr "カテゴリーの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Category/Category/Update.php:25
+msgid "Edit category"
+msgstr "カテゴリーの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Category/Create.php:29
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_list.tpl:61
+msgid "Add category"
+msgstr "カテゴリー追加"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Comment/Submit.php:32
+msgid "Could not delete selected comments"
+msgstr "選択されたコメントを削除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Comment/Submit.php:34
+#, php-format
+msgid "%d comment(s) deleted successfully"
+msgstr "%d件のコメントを削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Comment/Update.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/EditForm.php:58
+msgid "Edit comment"
+msgstr "コメントの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Delete.php:22
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/CommentHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/TrackbackHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:66
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:18
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_comment_list.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_details.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_trackback_list.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:43
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:47
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showarticles.tpl:5
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showcomments.tpl:4
+msgid "Title"
+msgstr "タイトル"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Trackback/Submit.php:32
+msgid "Could not delete selected trackbacks"
+msgstr "選択されたトラックバックを削除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Trackback/Submit.php:34
+#, php-format
+msgid "%d trackback(s) deleted successfully"
+msgstr "%d件のトラックバックを削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Trackback/Update.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Trackback.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Trackback/EditForm.php:42
+msgid "Edit trackback"
+msgstr "トラックバックの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Vote/Submit.php:32
+msgid "Could not delete selected votes"
+msgstr "選択された投票を削除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Vote/Submit.php:34
+#, php-format
+msgid "%d vote(s) deleted successfully"
+msgstr "%d件の投票を削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Vote/Update.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Node/Vote.php:21
+msgid "Edit vote"
+msgstr "投票の編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:38
+msgid "Could not publish selected nodes"
+msgstr "選択された記事を公開できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:40
+#, php-format
+msgid "%d node(s) published successfully"
+msgstr "%d件の記事を公開しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:45
+msgid "Could not hide selected nodes"
+msgstr "選択された記事を非表示に設定できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:47
+#, php-format
+msgid "%d node(s) hidden successfully"
+msgstr "%d件の記事を非表示に設定しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:52
+msgid "Could not unhide selected nodes"
+msgstr "選択された記事の非表示設定を解除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:54
+#, php-format
+msgid "%d node(s) unhidden successfully"
+msgstr "%d件の記事の非表示設定を解除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:59
+msgid "Could not delete selected nodes"
+msgstr "選択された投票を削除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Submit.php:61
+#, php-format
+msgid "%d node(s) deleted successfully"
+msgstr "%d件の記事を削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/Create.php:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:45
+msgid "Add tag"
+msgstr "タグの追加"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/DeleteEmptyTags.php:20
+msgid "An error occurred while deleting empty tags"
+msgstr "空のタグを削除するのに失敗しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/DeleteEmptyTags.php:22
+#, fuzzy, php-format
+msgid "Deleted %s empty tag(s)"
+msgstr "%d件の空のタグを削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/Submit.php:41
+msgid "Could not empty selected tags"
+msgstr "タグを空にできませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/Submit.php:45
+msgid "Selected tags emptied successfully"
+msgstr "選択されたタグを空にしました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/Submit.php:52
+msgid "Could not delete selected tags"
+msgstr "選択されたタグを削除できませんでした"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/Submit.php:56
+msgid "Selected tags deleted successfully"
+msgstr "選択されたタグを削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/Tag/Delete.php:24
+msgid "Delete tag"
+msgstr "タグの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin/Tag/Tag/Update.php:21
+msgid "Edit tag"
+msgstr "タグの編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin.php:29
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:17
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:103
+msgid "Tags"
+msgstr "タグ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin.php:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:101
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Admin.php:42
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:7
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_list.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/User/ShowArticles.php:27
+msgid "Articles"
+msgstr "記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:42
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:42
+#, php-format
+msgid "%s submitted %s, published <strong>%s</strong>"
+msgstr "投稿者: %s | 投稿日時: %s | 公開日時: <strong>%s</strong>"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:27
+#, php-format
+msgid "%s submitted <strong>%s</strong>"
+msgstr "投稿者: %s | 投稿日時: <strong>%s</strong>"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:47
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:50
+#, php-format
+msgid "%d views"
+msgstr "閲覧: %d回"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:48
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:53
+msgid "Tags: "
+msgstr "タグ: "
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:56
+#, php-format
+msgid "%1$s of %2$s user(s) found this topic helpful: "
+msgstr "%2$s人中%1$s人のユーザがこのトピックに投票しています: "
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:60
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:65
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:29
+msgid "Vote!"
+msgstr "投票"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:60
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:62
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:27
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:26
+msgid "Voted"
+msgstr "投票済"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:73
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_comment_showreplies.tpl:41
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:76
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:75
+msgid "Reply"
+msgstr "返信する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:79
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:86
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:98
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:105
+msgid "Edit this article"
+msgstr "トピックを編集する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:82
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:89
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:101
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:108
+msgid "Delete this article"
+msgstr "トピックを削除する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:92
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:111
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:82
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:60
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:95
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:114
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:101
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:120
+msgid "Publish"
+msgstr "公開"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:92
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:111
+msgid "Publish this article"
+msgstr "トピックを公開する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:122
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:124
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:76
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_widget_nodes.tpl:7
+#, php-format
+msgid "Comments (%d)"
+msgstr "コメント(%d)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:128
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:130
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:79
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_widget_nodes.tpl:8
+#, php-format
+msgid "Trackbacks (%d)"
+msgstr "トラックバック(%d)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_node_show.tpl:134
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:136
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:82
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_widget_nodes.tpl:9
+#, php-format
+msgid "Votes (%d)"
+msgstr "投票(%d)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:7
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:8
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodes.tpl:7
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_showupcomingnodes.tpl:8
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_shownodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:4
+msgid "Popular news"
+msgstr "公開記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_showupcomingnodes.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_shownodes.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:6
+msgid "Upcoming news"
+msgstr "公開待ち"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_shownodes.tpl:11
+#, php-format
+msgid "Upcoming news (%d)"
+msgstr "公開待ち(%d)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:14
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_shownodes.tpl:14
+msgid "News list"
+msgstr "記事一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:17
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:13
+msgid "Submit news"
+msgstr "記事を投稿"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodes.tpl:26
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_showupcomingnodes.tpl:21
+msgid "Search: "
+msgstr "検索: "
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:53
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:31
+msgid "Topic"
+msgstr "トピック"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:54
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:51
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:36
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:32
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:34
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:70
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:23
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_details.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:48
+msgid "Views"
+msgstr "閲覧数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:56
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:52
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:33
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:73
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:26
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_details.tpl:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:51
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showarticles.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/User/ShowVotes.php:15
+msgid "Votes"
+msgstr "投票"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:53
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:38
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:34
+msgid "Replies"
+msgstr "返信数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:59
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:54
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:39
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:35
+msgid "Last reply"
+msgstr "最終の返信"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:79
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_shownodes.tpl:98
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:74
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:87
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:63
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_shownodes.tpl:82
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:55
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:68
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_show.tpl:44
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:42
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:44
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:47
+#, php-format
+msgid "%s posted <strong>%s</strong>"
+msgstr "投稿者: %s | 投稿日時: <strong>%s</strong>"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:8
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_showupcomingnodes.tpl:8
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:4
+#, php-format
+msgid "Popular news (%d)"
+msgstr "公開記事(%d)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/bbs/templates/plugg_xigg_main_showupcomingnodes.tpl:34
+msgid "Search"
+msgstr "検索"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/DeleteForm.php:29
+#, php-format
+msgid "Comment #%d deleted successfully"
+msgstr "コメント#%dを削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/DeleteForm.php:34
+#, php-format
+msgid ""
+"Comment #%d could not be deleted. There was either an error while commit or "
+"the comment has one or more child comments."
+msgstr ""
+"コメント#%dを削除できませんでした。削除中にエラーが発生したか、このコメントに"
+"は返信があるため削除できません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/DeleteForm.php:49
+msgid "Delete comment"
+msgstr "コメントの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/EditForm.php:10
+msgid "This comment has been frozen by the administration"
+msgstr "このコメントの編集は許可されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/EditForm.php:20
+msgid "Time allowed to edit your comment has expired"
+msgstr "コメントを編集できる制限時間が既に経過したため編集できません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/EditForm.php:43
+msgid "Comment updated successfully"
+msgstr "コメントを更新しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/MoveForm.php:28
+msgid "Comment moved successfully"
+msgstr "コメントを移動しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/MoveForm.php:43
+msgid "New parent comment ID"
+msgstr "新しい親コメントID"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/MoveForm.php:43
+msgid ""
+"Enter the new parent comment ID, or 0 to move the comment to the top level."
+msgstr ""
+"新しい親コメントのIDを入力するか、コメントをツリー最上部に移動するには「0」を"
+"入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/MoveForm.php:49
+msgid "Move comment"
+msgstr "コメントの移動"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/ShowReplyForm.php:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/SubmitReplyForm.php:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/ShowCommentForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/SubmitCommentForm.php:11
+msgid "Comments not allowed for this news article"
+msgstr "この記事へのコメントは許可されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/ShowReplyForm.php:27
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/SubmitReplyForm.php:56
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/ShowCommentForm.php:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/SubmitCommentForm.php:50
+msgid "Submit comment"
+msgstr "コメントを投稿する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Comment/SubmitReplyForm.php:41
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/SubmitCommentForm.php:35
+#, php-format
+msgid "Reply to comment #%d posted successfully"
+msgstr "コメント#%dへの返信を投稿しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/DeleteForm.php:49
+msgid "News article deleted successfully"
+msgstr "記事を削除しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/DeleteForm.php:66
+msgid "Delete article"
+msgstr "記事を削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:22
+msgid "This news article has been frozen by the administration"
+msgstr "この記事の編集は許可されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:54
+msgid "News article submitted successfully"
+msgstr "記事を投稿しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:66
+msgid "Edit article"
+msgstr "記事の編集"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:99
+msgid "Published date"
+msgstr "公開日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:100
+msgid "Set current date"
+msgstr "現在の日付を設定する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:101
+msgid "Do not change"
+msgstr "変更しない"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:109
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+msgid "Source"
+msgstr "参照元"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:112
+msgid "Invalid source URL"
+msgstr "参照元のURLが正しくありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/EditForm.php:143
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/SubmitNodeForm.php:78
+msgid "The source has been quoted already"
+msgstr "参照元のURLは既に登録済みです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/PostTrackback.php:24
+msgid "Failed posting trackback"
+msgstr "トラックバックの送信に失敗しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/PublishForm.php:30
+msgid "News article published successfully"
+msgstr "記事を公開しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/PublishForm.php:41
+msgid "Publish article"
+msgstr "記事を公開する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/ShowComments.php:38
+msgid "Listing comments"
+msgstr "コメント一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/ShowTrackbacks.php:20
+msgid "Listing trackbacks"
+msgstr "トラックバック一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/ShowVoteForm.php:29
+msgid "Submit vote"
+msgstr "記事に投票する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/ShowVotes.php:23
+msgid "Listing votes"
+msgstr "投票一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/SubmitVote.php:37
+msgid "Invalid IP address. Guest votes require a valid IP address"
+msgstr "不正なIPアドレスです。ゲスト投票には有効なIPアドレスが必要です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/SubmitVote.php:46
+msgid "Already voted"
+msgstr "投票済み"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/SubmitVote.php:59
+msgid "Failed operation"
+msgstr "投票に失敗しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Node/SubmitVote.php:80
+msgid "Voted successfully"
+msgstr "投票しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:8
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowUpcomingNodes.php:8
+msgid "All News"
+msgstr "全ての記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:76
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:100
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowUpcomingNodes.php:72
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowUpcomingNodes.php:96
+#, php-format
+msgid "Search: %s"
+msgstr "検索: %s"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:144
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:80
+msgid "Newly popular"
+msgstr "投稿の新しい順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:145
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:81
+msgid "Newly commented"
+msgstr "コメントの新しい順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:146
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:155
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:82
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:91
+msgid "Last active"
+msgstr "投稿またはコメントの新しい順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:147
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:83
+msgid "Top in 24 hours"
+msgstr "投票の多い順(24時間内)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:148
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:84
+msgid "Top in 7 days"
+msgstr "投票の多い順(7日間)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:149
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:85
+msgid "Top in 30 days"
+msgstr "投票の多い順(30日間)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:150
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:86
+msgid "Top in all period"
+msgstr "投票の多い順(全期間)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:153
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:89
+msgid "Date posted"
+msgstr "投稿日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowNodes.php:154
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowNodes.php:90
+msgid "Date commented"
+msgstr "コメント投稿日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowUpcomingNodes.php:139
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowUpcomingNodes.php:71
+msgid "Most voted"
+msgstr "投票の多い順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowUpcomingNodes.php:140
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowUpcomingNodes.php:72
+msgid "Least voted"
+msgstr "投票の少ない順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowUpcomingNodes.php:141
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/ShowUpcomingNodes.php:145
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowUpcomingNodes.php:73
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Tag/ShowUpcomingNodes.php:78
+msgid "Most commented"
+msgstr "コメントの多い順"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/SubmitNodeForm.php:37
+msgid "Node submitted successfully"
+msgstr "記事を投稿しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/SubmitNodeForm.php:48
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:571
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:578
+msgid "Submit article"
+msgstr "記事を投稿する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Trackback/DeleteForm.php:22
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Trackback/EditForm.php:27
+msgid "Trackback updated successfully"
+msgstr "トラックバックを更新しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Main/Trackback/DeleteForm.php:35
+msgid "Delete trackback"
+msgstr "トラックバックの削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/CategoryHTMLQuickForm.php:13
+msgid "Parent category"
+msgstr "親カテゴリー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/CommentHTMLQuickForm.php:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:15
+msgid "Body"
+msgstr "本文"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/CommentHTMLQuickForm.php:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:25
+msgid "Allow edit"
+msgstr "編集を許可"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/CommentHTMLQuickForm.php:17
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/Node2tagHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/TrackbackHTMLQuickForm.php:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/ViewHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/VoteHTMLQuickForm.php:12
+msgid "node"
+msgstr "記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/CommentHTMLQuickForm.php:18
+msgid "Parent comment"
+msgstr "親コメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/Node2tagHTMLQuickForm.php:12
+msgid "tag"
+msgstr "タグ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/TrackbackHTMLQuickForm.php:14
+msgid "Invalid URI"
+msgstr "不正なURLです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:14
+msgid "Source title"
+msgstr "参照元のタイトル"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:16
+msgid "Teaser"
+msgstr "概要"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:17
+msgid "Allow comments"
+msgstr "コメントを許可"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:21
+msgid "Allow trackbacks"
+msgstr "トラックバックを許可"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:29
+msgid "Hidden"
+msgstr "非表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:35
+msgid "category"
+msgstr "カテゴリー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/NodeHTMLQuickForm.php:36
+msgid "Tag"
+msgstr "タグ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/TagHTMLQuickForm.php:12
+msgid "Node"
+msgstr "記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/TrackbackHTMLQuickForm.php:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_trackback_list.tpl:13
+msgid "Excerpt"
+msgstr "内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/TrackbackHTMLQuickForm.php:13
+msgid "Url"
+msgstr "URL"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/TrackbackHTMLQuickForm.php:15
+msgid "Blog name"
+msgstr "ブログ名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/Base/VoteHTMLQuickForm.php:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_vote_list.tpl:12
+msgid "Score"
+msgstr "スコア"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/CategoryHTMLQuickForm.php:7
+msgid "You must enter a name for the category"
+msgstr "カテゴリー名が入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/CommentHTMLQuickForm.php:11
+msgid "You must enter title for the comment"
+msgstr "コメントのタイトルが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/CommentHTMLQuickForm.php:12
+msgid "You must enter something to comment"
+msgstr "コメントの本文が入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:17
+msgid "Separate tags with a comma"
+msgstr "各タグを「,」で離して入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:20
+msgid "You must enter the title"
+msgstr "記事のタイトルが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:21
+msgid "You must enter the content"
+msgstr "記事の本文が入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:25
+msgid "Post settings"
+msgstr "投稿設定"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:26
+msgid "Display settings"
+msgstr "表示設定"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:32
+msgid "Source URL"
+msgstr "参照元のURL"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:33
+msgid "Enter the URL of original source if any, starting from http://"
+msgstr "参照元の記事がある場合はその記事のURLを「http://」から入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:89
+#, php-format
+msgid "Unable to retrieve data from the source URL. HTTP Response code: %d"
+msgstr "指定の参照元URLから情報を取得できませんでした。HTTPコード: %d"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/NodeHTMLQuickForm.php:92
+#, fuzzy, php-format
+msgid "An error occurred while connecting to the source URL. Error: %s"
+msgstr "空のタグを削除するのに失敗しました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Model/TagHTMLQuickForm.php:8
+msgid "You must enter a tag name"
+msgstr "タグ名が入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:26
+msgid "Post article"
+msgstr "記事を投稿できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:27
+msgid "Publish own article"
+msgstr "自分の記事を公開できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:28
+msgid "Publish any article"
+msgstr "全ての記事を公開できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:29
+msgid "Edit own unpublished article"
+msgstr "自分の公開待ち記事を編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:30
+msgid "Edit any unpublished article"
+msgstr "全ての公開待ち記事を編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:31
+msgid "Edit own published article"
+msgstr "自分の公開記事を編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:32
+msgid "Edit any published article"
+msgstr "全ての公開記事を編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:33
+msgid "Delete own unpublished article"
+msgstr "自分の公開待ち記事を削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:34
+msgid "Delete any unpublished article"
+msgstr "全ての公開待ち記事を削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:35
+msgid "Delete own published article"
+msgstr "自分の公開記事を削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:36
+msgid "Delete any published article"
+msgstr "全ての公開記事を削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:37
+msgid "Edit article source title"
+msgstr "記事の参照元のタイトルを編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:38
+msgid "Edit article priority"
+msgstr "記事の優先度を編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:39
+msgid "Edit article view count"
+msgstr "記事の閲覧数を編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:40
+msgid "Edit article published date"
+msgstr "公開日時を更新できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:41
+msgid "Allow or disallow edit article"
+msgstr "編集の可否を設定できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:42
+msgid "Allow or disallow article comments"
+msgstr "記事のコメントの可否を設定できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:43
+msgid "Allow or disallow article trackbacks"
+msgstr "記事のトラックバックの可否を設定できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:45
+msgid "Hide article"
+msgstr "記事を非表示にできる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:46
+msgid "View hidden article"
+msgstr "非表示の記事を閲覧できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:49
+msgid "Post comment"
+msgstr "コメントを投稿できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:50
+msgid "Move own comment"
+msgstr "自分のコメントを移動できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:51
+msgid "Move any comment"
+msgstr "全てのコメントを移動できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:52
+msgid "Edit own comment"
+msgstr "自分のコメントを編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:53
+msgid "Edit any comment"
+msgstr "全てのコメントを編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:54
+msgid "Delete own comment"
+msgstr "自分のコメントを削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:55
+msgid "Delete any comment"
+msgstr "全てのコメントを削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:56
+msgid "Allow or disallow edit"
+msgstr "編集の可否を設定できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:60
+msgid "Edit any trackback"
+msgstr "トラックバックを編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:61
+msgid "Delete any trackback"
+msgstr "トラックバックを削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:64
+msgid "Subumit vote"
+msgstr "記事に投票できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:91
+msgid "Recent articles"
+msgstr "最近の記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:93
+msgid "Recent posts"
+msgstr "最近の投稿"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:95
+msgid "Recent comments"
+msgstr "最近のコメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:97
+msgid "Recent trackbacks"
+msgstr "最近のトラックバック"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:99
+msgid "Recent votes"
+msgstr "最近の投票"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:111
+#, fuzzy
+msgid "Displays published articles."
+msgstr "全ての公開記事を削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:113
+#, fuzzy
+msgid "Displays active articles."
+msgstr "%sさんの投票記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:115
+#, fuzzy
+msgid "Displays recently posted comments."
+msgstr "最近のコメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:117
+#, fuzzy
+msgid "Displays recently received trackbacks."
+msgstr "最近のトラックバック"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:119
+#, fuzzy
+msgid "Displays recently voted articles."
+msgstr "%sさんの投票記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:121
+msgid "Displays article categories."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:123
+msgid "Displays a tag cloud."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:134
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:475
+msgid "Number of articles to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:141
+#, fuzzy
+msgid "Articles sort order"
+msgstr "記事作者"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:145
+#, fuzzy
+msgid "Newly published first"
+msgstr "全ての公開記事を削除できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:146
+#, fuzzy
+msgid "Active article first"
+msgstr "記事の優先度を編集できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:147
+msgid "Higher priority first"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:155
+msgid "Number of recent active articles to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:165
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:485
+msgid "Number of comments to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:175
+msgid "Number of trackbacks to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:185
+msgid "Number of recently voted articles to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:197
+msgid "Number of tags to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:448
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:2
+msgid "My articles"
+msgstr "投稿済み記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:450
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:43
+msgid "My comments"
+msgstr "投稿済みのコメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:452
+#, fuzzy
+msgid "My favorite articles"
+msgstr "投票済みの記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:460
+msgid "Shows recent articles posted by the user."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:462
+msgid "Shows recent comments posted by the user."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:464
+msgid "Shows recent articles voted by the user."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:495
+msgid "Number of voted articles to display"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:598
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:606
+#, php-format
+msgid "%s - Articles"
+msgstr "%s - 記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:599
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/Plugin.php:607
+#, php-format
+msgid "%s - Comments"
+msgstr "%s - コメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_delete.tpl:2
+msgid "Are you sure you want to delete this category?"
+msgstr "このカテゴリーを本当に削除しても良いですか？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_delete.tpl:3
+msgid "This will not delete articles associated with the category."
+msgstr ""
+"カテゴリーを削除してもカテゴリーに関連付けられている記事は削除されません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:43
+msgid "Add subcategory"
+msgstr "サブカテゴリー追加"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:48
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:25
+msgid "Listing articles"
+msgstr "記事一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:27
+msgid "List all"
+msgstr "全て表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:27
+msgid "List published"
+msgstr "公開記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:27
+msgid "List upcoming"
+msgstr "公開待ち記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:27
+msgid "List hidden"
+msgstr "非表示の記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+msgid "Published date, descending"
+msgstr "公開日時の新しいものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+msgid "Published date, ascending"
+msgstr "公開日時の古いものから"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:71
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:24
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_details.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:49
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showarticles.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/User/ShowComments.php:15
+msgid "Comments"
+msgstr "コメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:58
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:72
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:25
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_details.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showarticles.tpl:11
+msgid "Trackbacks"
+msgstr "トラックバック"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:69
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:22
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_details.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:47
+msgid "Published"
+msgstr "公開日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:85
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:38
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:63
+msgid "Hide"
+msgstr "非表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_category_details.tpl:87
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:40
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:65
+msgid "Unhide"
+msgstr "非表示を解除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_list.tpl:2
+msgid "Category name, ascending"
+msgstr "カテゴリー名（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_category_list.tpl:2
+msgid "Category name, descending"
+msgstr "カテゴリー名（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:2
+msgid "List non-categorized"
+msgstr "カテゴリー無しの記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_index.tpl:19
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_details.tpl:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_details.tpl:44
+msgid "Category"
+msgstr "カテゴリー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_comment_list.tpl:1
+#, php-format
+msgid "Listing comments for \"%s\""
+msgstr "「%s」のコメント一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_comment_list.tpl:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_trackback_list.tpl:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_vote_list.tpl:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:49
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:81
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showcomments.tpl:6
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showvotes.tpl:5
+msgid "Article"
+msgstr "記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_comment_list.tpl:52
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_comment_list.tpl:70
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_trackback_list.tpl:38
+msgid "View"
+msgstr "表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_comment_list.tpl:83
+msgid "No comments found for this entry"
+msgstr "コメントはありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_delete.tpl:2
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_deleteform.tpl:2
+msgid "Are you sure you want to delete this news article?"
+msgstr "この記事を本当に削除しても良いですか？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_trackback_list.tpl:1
+#, php-format
+msgid "Listing trackbacks for \"%s\""
+msgstr "「%s」のトラックバック一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_trackback_list.tpl:12
+msgid "Weblog"
+msgstr "ブログ名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_trackback_list.tpl:48
+msgid "No trackbacks found for this entry"
+msgstr "トラックバックはありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_vote_list.tpl:1
+#, php-format
+msgid "Listing votes for \"%s\""
+msgstr "「%s」の投票一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_vote_list.tpl:11
+msgid "Voter"
+msgstr "投票者"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_node_vote_list.tpl:45
+msgid "No votes found for this entry"
+msgstr "投票はありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:2
+msgid "Tag name, ascending"
+msgstr "タグ名（昇順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:2
+msgid "Tag name, descending"
+msgstr "タグ名（降順）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:18
+msgid "Empty"
+msgstr "空にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:53
+msgid "Delete empty tags"
+msgstr "空のタグを削除"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_list.tpl:51
+msgid ""
+"Press the button below to delete all tags that do not have any nodes "
+"assciated with."
+msgstr ""
+"下記ボタンを押して記事と関連づけられていないタグ（空のタグ）を全て削除します"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_delete.tpl:2
+msgid "Are you sure you want to delete this tag?"
+msgstr "このタグを本当に削除しても良いですか？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_admin_tag_tag_delete.tpl:3
+msgid "This will not delete articles associated with the tag."
+msgstr "タグを削除してもタグに関連付けられている記事は削除されません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_comment_deleteform.tpl:2
+msgid "Are you sure you want to delete this comment?"
+msgstr "このコメントを本当に削除しても良いですか？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_comment_showreplies.tpl:18
+#, php-format
+msgid ""
+"%s posted <strong>%s</strong> in reply to <a href=\"#comment%d\">#%d</a>"
+msgstr ""
+"投稿者: %s | 投稿日時: <strong>%s</strong> | 親コメント: <a href=\"#comment%d"
+"\">#%d</a>"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_comment_showreplies.tpl:20
+#, php-format
+msgid "%1$s posted <strong>%2$s</strong>"
+msgstr "投稿者: %1$s | 投稿日時: <strong>%2$s</strong>"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_comment_showreplies.tpl:54
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_comment_showreplies.tpl:64
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:87
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:97
+msgid "Move"
+msgstr "移動"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_comment_showreplies.tpl:76
+msgid "No comments for this entry yet"
+msgstr "コメントはありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_publishform.tpl:2
+msgid "Are you sure you want to publish this news article?"
+msgstr "この記事を本当に公開しても良いですか？"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:7
+msgid "Nested view"
+msgstr "ネスト表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:39
+#, php-format
+msgid "%s posted <strong>%s</strong> in reply to <a href=\"%s\">#%d</a>"
+msgstr ""
+"投稿者: %s | 投稿日時: <strong>%s</strong> | 親コメント: <a href=\"%s\">#%d</"
+"a>"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:65
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showcomments.tpl:68
+#, php-format
+msgid "Replies (%d)"
+msgstr "%d件の返信"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showtrackbacks.tpl:28
+#, php-format
+msgid "Blog: %s"
+msgstr "ブログ名：%s"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showtrackbacks.tpl:28
+#, php-format
+msgid "Posted: <strong>%s</strong>"
+msgstr "投稿日時: <strong>%s</strong>"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showtrackbacks.tpl:56
+msgid "Trackback URL"
+msgstr "トラックバックURL"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_node_showtrackbacks.tpl:61
+msgid "No additional trackbacks allowed for this entry"
+msgstr "この記事に対するトラックバックは認められていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showcomments.tpl:11
+#, php-format
+msgid "%s (comments)"
+msgstr "%s (コメント)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showcomments.tpl:13
+msgid "Recently posted comments"
+msgstr "最近のコメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_shownodes.tpl:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_shownodesbytag.tpl:13
+msgid "Recent news entries marked as popular"
+msgstr "最新公開記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_shownodes.tpl:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_shownodesbytag.tpl:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showupcomingnodes.tpl:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showupcomingnodesbytag.tpl:30
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodesummary.tpl:68
+msgid "Read full story"
+msgstr "記事の詳細ページを表示"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_shownodesbytag.tpl:11
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showupcomingnodesbytag.tpl:11
+#, php-format
+msgid "tag: %s"
+msgstr "タグ: %s"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showtrackbacks.tpl:11
+#, php-format
+msgid "%s (trackbacks)"
+msgstr "%s (トラックバック)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showtrackbacks.tpl:13
+msgid "Recently posted trackbacks"
+msgstr "最近のトラックバック"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showupcomingnodes.tpl:13
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showupcomingnodesbytag.tpl:13
+msgid "Recent upcoming news entries"
+msgstr "最新の公開待ち記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showvotes.tpl:11
+#, php-format
+msgid "%s (votes)"
+msgstr "%s (投票)"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_rss_showvotes.tpl:13
+msgid "Recently posted votes"
+msgstr "最近の投票"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodes.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_shownodes.tpl:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_showupcomingnodes.tpl:12
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_shownodes.tpl:17
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_main_tag_showupcomingnodes.tpl:8
+msgid "Submit Article"
+msgstr "記事を投稿"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:2
+#, php-format
+msgid "%s's articles"
+msgstr "%sさんの投稿記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:9
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showarticles.tpl:8
+msgid "Publish date"
+msgstr "公開日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:38
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showarticles.tpl:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_widget_nodes.tpl:15
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_widget_votes.tpl:14
+msgid "No articles"
+msgstr "投稿した記事はありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:43
+#, php-format
+msgid "%s's comments"
+msgstr "%sさんのコメント"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:50
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:82
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showcomments.tpl:7
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showvotes.tpl:6
+msgid "Article poster"
+msgstr "記事作者"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:71
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showcomments.tpl:28
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_widget_comments.tpl:14
+msgid "No comments"
+msgstr "投稿したコメントはありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:76
+msgid "My voted articles"
+msgstr "投票済みの記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:76
+#, php-format
+msgid "%s's voted articles"
+msgstr "%sさんの投票記事"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:80
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showvotes.tpl:4
+msgid "Vote date"
+msgstr "投票日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_index.tpl:100
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_user_showvotes.tpl:24
+msgid "No votes"
+msgstr "投票した記事はありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_widget_nodes.tpl:9
+#, php-format
+msgid "%1$s submitted %2$s"
+msgstr "投稿者: %1$s | 投稿日時: %2$s"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_widget_posts.tpl:10
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/templates/plugg_xigg_widget_posts.tpl:18
+#, php-format
+msgid "%1$s last posted %2$s"
+msgstr "最終投稿者: %1$s - %2$s"
+
+#~ msgid "Tag: %s"
+#~ msgstr "タグ: %s"
+
+#, fuzzy
+#~ msgid "My votes"
+#~ msgstr "投票した記事はありません"
+
+#~ msgid "Edit node"
+#~ msgstr "記事の編集"
+
+#~ msgid "Delete node"
+#~ msgstr "記事を削除"
+
+#~ msgid "Article administration"
+#~ msgstr "記事管理"
+
+#~ msgid "Tag administration"
+#~ msgstr "タグ管理"
+
+#~ msgid "Category administration"
+#~ msgstr "カテゴリー管理"
+
+#~ msgid ""
+#~ "Unable to connect to the source URL. No internet connection present. "
+#~ "Error: %s"
+#~ msgstr ""
+#~ "参照元URLへと接続できませんでした。インターネットに接続されていません。エ"
+#~ "ラー: %s"
+
+#~ msgid "Edit article raw HTML"
+#~ msgstr "出力HTMLを編集できる"
+
+#~ msgid "Edit comment raw HTML"
+#~ msgstr "コメントの出力HTMLを編集できる"

@@ -1,0 +1,8 @@
+<?php
+class Plugg_Project_Model_Project2category extends Plugg_Project_Model_Base_Project2category
+{
+}
+
+class Plugg_Project_Model_Project2categoryRepository extends Plugg_Project_Model_Base_Project2categoryRepository
+{
+}

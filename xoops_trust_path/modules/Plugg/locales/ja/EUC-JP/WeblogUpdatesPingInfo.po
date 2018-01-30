@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/WeblogUpdatesPing/WeblogUpdatesPing/PluginInfo.php:8
+msgid "Sends update notification ping to ping service servers"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/WeblogUpdatesPing/WeblogUpdatesPing/PluginInfo.php:12
+msgid "Blog name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/WeblogUpdatesPing/WeblogUpdatesPing/PluginInfo.php:17
+msgid "Blog URL"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/WeblogUpdatesPing/WeblogUpdatesPing/PluginInfo.php:24
+msgid "weblogUpdates.ping servers"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/WeblogUpdatesPing/WeblogUpdatesPing/PluginInfo.php:25
+msgid "Enter the URL of weblogUpdates.ping servers, one each line."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/WeblogUpdatesPing/WeblogUpdatesPing/PluginInfo.php:37
+msgid "weblogUpdates.extendedPing servers"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/WeblogUpdatesPing/WeblogUpdatesPing/PluginInfo.php:38
+msgid "Enter the URL of weblogUpdates.extenededPing servers, one each line."
+msgstr ""

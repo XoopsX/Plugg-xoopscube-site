@@ -1,0 +1,5 @@
+#plugg .footprint-footprints ul {margin:0; padding:0;}
+#plugg .footprint-footprints li {margin:5px; list-style:none; text-align:center; display:inline; float:left;}
+#plugg .footprint-footprints li span {display:block;}
+#plugg .footprint-footprints span.footprint-image {}
+#plugg .footprint-footprints span.footprint-date {font-size:0.8em;}

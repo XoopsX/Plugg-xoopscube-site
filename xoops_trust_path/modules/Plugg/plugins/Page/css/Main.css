@@ -1,0 +1,128 @@
+.lekHomeHeader,
+.lekHomeFooter {
+  padding: 0 5px;
+}
+.lekHomeContent {
+  padding: 0 5px;
+}
+.lekHomeContentPage h2 {
+  border-bottom: 1px solid #999;
+  margin: 0;
+}
+.lekHomeContentPage p {
+  padding: 0;
+  margin: 0;
+}
+ul.lekAdminPage {
+  float: right;
+  margin: 0;
+  padding: 3px 5px 3px 3px;
+  border: 1px dashed #999;
+  background-color: #eee;
+}
+ul.lekAdminPage li {
+  list-style: none;
+  display: inline;
+  margin-left: 1px;
+}
+ul.lekAdminPage li a {
+  padding: 2px 0px 2px 19px;
+}
+li.lekAdminPageAdd span {
+  background: url(../images/page_white_add.png) no-repeat left center;
+  padding: 2px 0px 2px 19px;
+}
+ul.lekAdminPage li.lekAdminPageAdd a {
+  padding-left: 0;
+}
+li.lekAdminPageEdit a {
+  background: url(../images/page_white_edit.png) no-repeat left center;
+}
+li.lekAdminPageDelete a {
+  background: url(../images/page_white_delete.png) no-repeat left center;
+}
+li.lekAdminPageMove a {
+  background: url(../images/page_white_move.png) no-repeat left center;
+}
+.lekPage {
+  margin: 0 5px;
+  border-bottom: 1px solid #999;
+}
+.lekPageTitle {
+  border-bottom: 1px solid #999;
+  padding: 0;
+  padding-bottom: 3px;
+}
+.lekPageTitleLocked {
+  padding-left: 19px;
+  background: url(../images/lock.png) no-repeat left center;
+}
+.lekPageContent {
+  padding: 0;
+  margin: 5px 0;
+}
+.lekPageChildren {
+  list-style: none;
+  border-top: 1px dotted #ccc;
+  margin: 0;
+  padding: 5px 0px;
+}
+.lekHomeContentPage .lekPageChildren {
+  border-top: none;
+}
+.lekPageChildren li {
+  margin-left: 0;
+  list-style: none;
+}
+.lekPageChildren li a {
+  background: url(./image.php?plugin=Page&file=bullet_black.gif) no-repeat left center;
+  padding: 2px 0px 2px 20px;
+}
+.lekPageChildren li.lekPageChildrenDir a {
+  background: url(./image.php?plugin=Page&file=bullet_arrow_right.gif) no-repeat left center;
+}
+table.lekNavigation {
+  padding: 5px;
+}
+td.lekNavigationPrev {text-align:left; width:40%;}
+td.lekNavigationPrev a {
+  background: url(./image.php?plugin=Page&file=bullet_arrow_left.gif) no-repeat left center;
+  padding-left:20px;
+}
+td.lekNavigationUp {
+  text-align: center;
+}
+td.lekNavigationNext {text-align:right; width:40%;}
+td.lekNavigationNext a {
+  background: url(./image.php?plugin=Page&file=bullet_arrow_right.gif) no-repeat right center;
+  padding-right:20px;
+}
+table.lekNavigation td.nopage {background-image:none;}
+
+.lekPageForm h2,
+.lekPageFormPreviewCaption {
+  padding: 0;
+  border-bottom: 1px solid #999;
+  padding-bottom: 1px;
+  margin-bottom: 2px;
+  border-left: 5px solid #999;
+  padding-left: 7px;
+}
+
+.lekPagePreview {
+  padding: 5px 10px;
+  margin-top: 10px;
+  border: 1px dotted #999;
+}
+.lekPagePreviewHTML {
+  padding: 5px 6px;
+  margin-top: 5px;
+}
+.lekPagePreviewHTML span {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.lekPageForm label {
+  font-weight: bold;
+  display: block;
+}

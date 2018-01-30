@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:8
+msgid "Enables the HTMLPurifier php library"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:9
+msgid "HTMLPurifier"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:15
+msgid "Cache directory"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:15
+msgid "Enter fullpath without a trailing slash"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:15
+#, php-format
+msgid ""
+"Path to a directory where HTMLPurifier cache files are stored. This path "
+"must be writable by the webserver. Leave it blank to use the default "
+"directory: %s"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:21
+msgid "Disable external resources"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:21
+msgid ""
+"Disables the embedding of external resources, preventing users from "
+"embedding things like images from other hosts."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:27
+msgid "Auto linkify"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:27
+msgid ""
+"Enable this option to automagically convert URLs in user posts to HTML links."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:33
+msgid "Auto paragraph"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:33
+msgid ""
+"Enable this option to convert double newlines in user posts to paragraphs. p "
+"tags must be allowed for this directive to take effect. We do not use br "
+"tags for paragraphing, as that is semantically incorrect."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:39
+msgid "Allowed HTML tags"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/HTMLPurifier/HTMLPurifier/PluginInfo.php:39
+msgid ""
+"HTML tags allowed to be used. Separate tags with a comma. If you are not "
+"sure what to enter here, it is recommended that you leave this option as-is."
+msgstr ""

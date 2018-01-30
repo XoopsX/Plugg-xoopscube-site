@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:8
+msgid ""
+"Anti SPAM plugin using Akismet or other compatible spam-filtering services"
+msgstr ""
+"Akismetまたは互換性のあるスパム判定サービスを利用してスパムを見つけ除去します"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:9
+msgid "Akismet"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:13
+msgid "API key"
+msgstr "APIキー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:19
+msgid "Alternate API server"
+msgstr "互換APIのサーバ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:20
+msgid ""
+"Enter the hostname of Akismet compatible service provider, e.g. api.antispam."
+"typepad.com"
+msgstr ""
+"スパム判定サービスを提供するプロバイダのサーバホスト名を入力してください"
+"（例: api.antispam.typepad.com）"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:21
+msgid ""
+"If you want to use a spam-filtering service provider other than Akismet, "
+"enter the server hostname of the provider below."
+msgstr ""
+"Akismet以外のスパム判定サービスを提供するプロバイダを利用する場合は、そのプロ"
+"バイダのサーバホスト名を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:28
+msgid "Alternate API port"
+msgstr "互換APIのポート番号"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Akismet/Akismet/PluginInfo.php:30
+msgid ""
+"Enter the port number of the spam-filtering service provider if the provider "
+"uses a non-standard port."
+msgstr ""
+"スパム判定サービスを提供するプロバイダのサーバポート番号を入力してください"
+"（標準ポート番号以外の場合のみ）"

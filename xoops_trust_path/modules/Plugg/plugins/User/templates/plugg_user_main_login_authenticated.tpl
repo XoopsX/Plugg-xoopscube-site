@@ -1,0 +1,1 @@
+<?php print $register_form_html;?>

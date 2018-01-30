@@ -1,0 +1,100 @@
+#plugg img {border:0; vertical-align:middle;}
+
+#plugg .highlight {background-color:#ffffa9;}
+#plugg .dim {background-color:#eee;}
+#plugg .pending {background-color:#d9d9d9;}
+#plugg span.highlight {background-color:transparent; font-weight:bold;}
+#plugg span.dim {background-color:transparent; text-decoration:line-through;}
+#plugg .roundcorner {border-radius:8px; -webkit-border-radius:8px; -moz-border-radius:8px; -khtml-border-radius:8px;}
+#plugg p.topicPath {padding:0; margin:0 0 5px;}
+
+#plugg div.warning,
+#plugg div.error,
+#plugg div.success,
+#plugg div.info {clear:both; margin:5px 0; padding:10px 30px; border-style:solid; border-width:2px; border-radius:8px; -webkit-border-radius:8px; -moz-border-radius:8px; -khtml-border-radius:8px;}
+#plugg div.warning {background:#fec url('../images/exclamation.gif') no-repeat 5px 50%; border-color:#fca;}
+#plugg div.error {background:#fee url('../images/stop.gif') no-repeat 5px 50%; border-color:#fbb;}
+#plugg div.success {background:#efe url('../images/accept.gif') no-repeat 5px 50%; border-color:#bfb;}
+#plugg div.info {background:#eef url('../images/information.gif') no-repeat 5px 50%; border-color:#bbf;}
+
+#plugg img.user {1border:1px solid #ccc;}
+#plugg img.user.width16.height16 {padding:2px;}
+#plugg img.user.width32.height32 {padding:3px;}
+#plugg img.user.width48.height48 {padding:5px;}
+#plugg img.user.width64.height64 {padding:7px;}
+
+#plugg ul.pages {list-style:none; margin:0; padding:0;}
+#plugg ul.pages li {margin-left:2px; display:inline; padding:0;}
+#plugg ul.pages li a {padding:5px; margin:0;}
+#plugg ul.pages li.pagesSummary {display:none;}
+
+#plugg ul.tabs a {margin:0; display:block; text-decoration:none;}
+#plugg ul.tabs {float:left; width:100%; padding:0; margin:10px 0 5px; background-color:#fff; border-bottom:2px solid #ccc;}
+#plugg ul.tabs li {float:left; list-style-type:none; margin:0; padding:0; background-color:#f5f5f5; margin-left:3px;}
+#plugg ul.tabs.right {float:right;}
+#plugg ul.tabs.right li {float:right; margin-right:3px;}
+#plugg ul.tabs *.tab-label {display:block; border:2px solid #ccc; margin:0; padding:3px 8px 3px 8px; font-weight:normal; text-align:center; font-size:1.0em; border-top-right-radius:8px; border-top-left-radius:8px; -webkit-border-top-right-radius:8px; -webkit-border-top-left-radius:8px; -moz-border-radius-topright:8px; -moz-border-radius-topleft:8px; -khtml-border-top-right-radius:8px; -khtml-border-top-left-radius:8px; border-bottom:0; margin-bottom:-2px;}
+#plugg ul.tabs li.selected *.tab-label {border-bottom:none; border-top:2px solid #999; background-color:#fff;}
+
+#plugg form.quickform .form-header {padding: 7px 0 5px 0;}
+#plugg form.quickform .form-content {border:2px solid #ccc; margin:5px 0; padding:10px; padding-top:0; background-color:#f5f5f5; border-radius:8px; -webkit-border-radius:8px; -moz-border-radius:8px; -khtml-border-radius:8px;}
+#plugg form.quickform fieldset {margin:5px 0; margin-top:7px; background-color:#fff; border:1px solid #ddd; padding:10px; border-radius:8px; -webkit-border-radius:8px; -moz-border-radius:8px; -khtml-border-radius:8px;}
+#plugg form.quickform fieldset legend.form-label {font-weight:bold; font-size:1.15em; margin:2px}
+#plugg form.quickform fieldset div.grouped div.form-label {font-weight:bold; margin-bottom:1px; font-size:1.0em;}
+#plugg form.quickform fieldset div.grouped {margin-bottom:5px;}
+#plugg form.quickform fieldset span.form-required {font-weight:bold; color:#d00; margin-left:2px;}
+#plugg form.quickform fieldset div.form-label2,
+#plugg form.quickform fieldset div.form-label3 {font-size:90%; font-weight:lighter; margin-bottom:3px;}
+#plugg form.quickform fieldset span.form-error {display:block; color:#d00; margin-top:2px; background:transparent url('../images/stop.gif') no-repeat left center; padding-left:20px;}
+#plugg form.quickform fieldset div.form-error {border:1px solid #d00; margin:0; margin-bottom:2px; padding:5px; background-color:#fee;}
+#plugg form.quickform input[type="checkbox"],
+#plugg form.quickform input[type="radio"] {margin:3px 3px 0 0;}
+#plugg form.quickform .form-buttons {padding:0; margin-top:15px;}
+
+#plugg th {text-align:left;}
+#plugg th.right,
+#plugg td.right {text-align:right;}
+#plugg th.center,
+#plugg td.center {text-align:center;}
+
+#plugg table.horizontal {width:100%; border-collapse:collapse;}
+#plugg table.horizontal th {padding:8px; vertical-align:middle;}
+#plugg table.horizontal td {padding:8px; vertical-align:middle;}
+#plugg table.horizontal thead th {border-bottom:3px solid #ccc;}
+#plugg table.horizontal tbody tr {border:none;}
+#plugg table.horizontal tbody tr.error td {background-color:#fbb;}
+#plugg table.horizontal tbody tr.warning td {background-color:#fec;}
+#plugg table.horizontal tbody tr.hidden td {background-color:#eee;}
+#plugg table.horizontal tbody td {border-bottom:1px solid #ddd;}
+#plugg table.horizontal tfoot td {padding-left:4px; font-size:0.9em;}
+#plugg table.horizontal tbody tr.last td,
+#plugg table.horizontal tbody tr.last th {border-bottom:0;}
+
+#plugg table.vertical {width:100%; border-collapse:collapse;}
+#plugg table.vertical td,
+#plugg table.vertical th {border-top:1px solid #ddd; padding:8px; vertical-align:middle;}
+#plugg table.vertical th {width:30%; border-right:1px solid #ddd;}
+#plugg table.vertical thead th,
+#plugg table.vertical thead td {border-bottom:3px solid #ccc; padding-left:0; padding-bottom:3px;}
+#plugg table.vertical tfoot td {text-align:right; border:0; padding:8px 0 3px;}
+
+#plugg dl.list {margin:0; padding:0; background-color:#fff;}
+#plugg dl.list dt {margin-top:10px; color:#999; font-size:1.1em;}
+#plugg dl.list dt:first-child {margin-top:0;}
+#plugg dl.list dd {margin-left:0; margin-top:2px;}
+
+#plugg div.addEntityLink {background:transparent url('../images/add.gif') no-repeat left; padding-left:18px; margin:5px 0;}
+
+#plugg span.treeLeaf {background:transparent url('../images/bullet_black.gif') no-repeat left; padding-left:18px;}
+#plugg span.treeBranch {background:transparent url('../images/bullet_arrow_right.gif') no-repeat left; padding-left:18px;;}
+#plugg span.treeBranchOpen {background:transparent url('../images/bullet_arrow_down.gif') no-repeat left; padding-left:18px;;}
+
+#plugg .pluggLink {padding:10px; float:right; font-size:0.9em;}
+
+#plugg #plugg-content {position:relative;}
+
+#plugg .clear {clear:both;}
+#plugg .clearfix:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+/* Hides from IE-mac \*/
+* html #plugg .clearfix {height: 1%;}
+/* End hide from IE-mac */

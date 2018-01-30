@@ -1,0 +1,239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-06 18:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:8
+msgid "The user plugin adds user security system to the application"
+msgstr "ユーザ管理等のユーザに関する各種データの管理を可能にします"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:9
+msgid "User"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:28
+msgid "User management plugin"
+msgstr "ユーザ管理プラグイン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:28
+msgid ""
+"IMPORTANT! If you are switching to another plugin, make sure that the new "
+"plugin already has valid user accounts. Otherwise, you may not be able to "
+"login and/or may result in corruputed user system on your site."
+msgstr ""
+"【重要】ユーザ管理プラグインを変更する場合、変更先のプラグインには既にユーザ"
+"データが有ることを確認してください。ユーザデータがない場合、ログインができな"
+"くなったりユーザ情報の整合性が失われる場合があります。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:35
+msgid "Allow anyone includeing guest users to view any user profile"
+msgstr "ゲストユーザを含む全てのユーザが他ユーザのプロフィールを閲覧できる"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:35
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:41
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:47
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:53
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:59
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:66
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:72
+msgid "Applicable if user management plugin is not the API type plugin."
+msgstr "ユーザ管理プラグインの種類がAPIでない場合にのみ有効です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:41
+msgid "Allow new user registration"
+msgstr "新規ユーザ登録を可能にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:47
+msgid "Community features - Friends"
+msgstr "友達機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:47
+msgid "Select yes to allow users to add each other as a friend"
+msgstr ""
+"「はい」を選択するとユーザ同士でお互いをマイフレンドとして追加できるようにな"
+"ります。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:53
+msgid "AutoLogin - Allow users to keep logged in for specific range of time"
+msgstr "自動ログインを有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:59
+msgid "AutoLogin - Number of days users can keep logged in"
+msgstr "自動ログインを有効にする期間"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:66
+msgid "AutoLogin - Limit only one autologin session to be created per user"
+msgstr "自動ログインは各ユーザについて1セッションまでとする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:72
+msgid "Select activation type of newly registered users"
+msgstr "新規ユーザ登録の承認（有効化）方法"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:77
+msgid "Require activation by user"
+msgstr "ユーザ自身で承認する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:78
+msgid "Activate automatically"
+msgstr "自動的に承認する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:79
+msgid "Activation by administrators"
+msgstr "管理者が承認する"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:83
+msgid "Confirmation email sent to user upon new registration"
+msgstr "新規ユーザ登録時にユーザ宛に送信されるメールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:88
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:101
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:114
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:127
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:141
+msgid "Hello {USER_NAME},"
+msgstr "{USER_NAME}さん、こんにちは。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:89
+msgid ""
+"The email address ({USER_EMAIL}) has been used to register an account at "
+"{SITE_NAME}."
+msgstr ""
+"「{SITE_NAME}」でのユーザ登録にあなたのメールアドレス（{USER_EMAIL}）が使用さ"
+"れました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:90
+msgid ""
+"To become a member of {SITE_NAME}, please confirm your request by clicking "
+"on the link below:"
+msgstr ""
+"「{SITE_NAME}」でのユーザ登録を承認するには下記のリンクをクリックしてくださ"
+"い。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:96
+msgid "Notification email sent to user upon user account activation"
+msgstr "新規ユーザ登録の承認後にユーザ宛に送信されるメールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:102
+msgid "Your user account registration at {SITE_NAME} is complete."
+msgstr "「{SITE_NAME}」でのユーザ登録が完了しました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:103
+msgid ""
+"You can now login from the following URL with the password you have provided "
+"upon registration:"
+msgstr ""
+"ユーザ登録時に入力したパスワードを使用して下記URLからログインできます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:109
+msgid "Confirmation email to send upon user email address modification"
+msgstr "メールアドレス変更時にユーザ宛に送信されるメールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:115
+msgid ""
+"The email address ({USER_EMAIL}) has been used for a user account at "
+"{SITE_NAME}."
+msgstr ""
+"「{SITE_NAME}」でのユーザ登録メールアドレスとしてあなたのメールアドレス"
+"（{USER_EMAIL}）が使用されました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:116
+msgid "Please click on the link below to confirm the email address:"
+msgstr "メールアドレスを承認するには下記のリンクをクリックしてください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:122
+msgid "Confirmation email to send upon new user password request"
+msgstr "パスワード再発行の申請時にユーザ宛に送信されるメールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:128
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:142
+msgid ""
+"A web user from {IP} has just requested a new password for your user account "
+"at {SITE_NAME}."
+msgstr "「{SITE_NAME}」にてパスワード再発行の申請を受け付けました。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:129
+msgid ""
+"Please click on the link below to confirm the request and receive a new "
+"password:"
+msgstr ""
+"パスワード再発行の申請を承認し、新しいパスワードを受け取るには下記のリンクを"
+"クリックしてください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:131
+msgid "If you did not ask for this, you can just ignore this email."
+msgstr ""
+"パスワード再発行の申請に覚えがない場合は、このメールは無視してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:136
+msgid "Email containing new user password"
+msgstr "パスワード再発行後にユーザ宛に送信されるメールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:143
+msgid "Here are your login details:"
+msgstr "新しいログイン情報は下記の通りです。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:144
+msgid "Username: {USER_NAME}"
+msgstr "ユーザ名: {USER_NAME}"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:144
+msgid "New Password: {USER_PASSWORD}"
+msgstr "新しいパスワード: {USER_PASSWORD}"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:145
+msgid "You can change the password after you login from the following URL:"
+msgstr "なお、パスワードを変更するには下記URLよりログインしてください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:151
+msgid ""
+"Confirmation email sent to admin email address upon new user registration"
+msgstr "新規ユーザ登録時に管理者宛に送信されるメールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:156
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:169
+msgid "Hello admin,"
+msgstr "管理人さん、こんにちは。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:157
+msgid ""
+"A new user {USER_NAME} ({USER_EMAIL}) has just registered an account at "
+"{SITE_NAME}."
+msgstr ""
+"「{SITE_NAME}」にて新規ユーザ登録がありました。ユーザ名は「{USER_NAME}」で、"
+"ユーザ登録に使用されたメールアドレスは「{USER_EMAIL}」です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:158
+msgid "Clicking on the link below will activate the user account:"
+msgstr "ユーザ登録を承認するには下記のリンクをクリックしてください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:164
+msgid ""
+"Confirmation email sent to admin email address upon completion of new user "
+"registration"
+msgstr "新規ユーザ登録の完了後に管理者宛に送信されるメールの内容"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:170
+msgid ""
+"A new user {USER_NAME} ({USER_EMAIL}) has completed user registration at "
+"{SITE_NAME}."
+msgstr ""
+"「{SITE_NAME}」にて新規ユーザ登録が完了しました。ユーザ名は「{USER_NAME}」"
+"で、ユーザ登録に使用されたメールアドレスは「{USER_EMAIL}」です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/User/User/PluginInfo.php:171
+msgid "Click the link below to view the user profile:"
+msgstr ""
+"このユーザのプロフィールを閲覧するには下記のリンクをクリックしてください。"

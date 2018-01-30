@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 17:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:8
+msgid "Filters out trackback spams using the Services_Trackback PEAR library"
+msgstr ""
+"Services_Trackbackライブラリを使用してトラックバックによるスパム投稿を除去ま"
+"す"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:9
+msgid "ServicesTrackback"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:14
+msgid "Use wordlist spam checker"
+msgstr "単語チェック機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:20
+msgid "List of words to check"
+msgstr "スパム判定する単語一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:20
+msgid "Separate words with \"|\""
+msgstr "各単語を「|」で離して入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:27
+msgid "Use regex spam checker"
+msgstr "正規表現チェック機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:33
+msgid "List of regex to check"
+msgstr "スパム判定する正規表現一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:33
+msgid "Separate regex formats with \"|\""
+msgstr "各正規表現を「|」で離して入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:40
+msgid "Use DNSBL spam checker"
+msgstr "DNSBLチェック機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:40
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:52
+msgid "Net_DNSBL package is required for this checker to work."
+msgstr "Net_DNSBLライブラリが必要です。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:46
+msgid "List of DNSBL servers"
+msgstr "DNSBLサーバ一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:46
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:58
+msgid "Enter each on a new line"
+msgstr "各行にサーバを入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:52
+msgid "Use SURBL spam checker"
+msgstr "SURBLチェック機能を有効にする"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/ServicesTrackback/ServicesTrackback/PluginInfo.php:58
+msgid "List of SURLBL servers"
+msgstr "SURBLサーバ一覧"
+
+#, fuzzy
+#~ msgid "Net_DNSBL package is required for this checker to work"
+#~ msgstr "Net_DNSBLライブラリが必要です。"

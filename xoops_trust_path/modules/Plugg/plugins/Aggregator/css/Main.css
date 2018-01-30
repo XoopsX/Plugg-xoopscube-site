@@ -1,0 +1,30 @@
+#plugg .aggregator-feed {clear:both; position:relative; margin-top:15px; min-height:130px;}
+#plugg .aggregator-feed-screenshot {position:absolute; left:0; top:0;}
+#plugg .aggregator-feed-info,
+#plugg .aggregator-feed-description,
+#plugg h3.aggregator-feed-title,
+#plugg .aggregator-feed .aggregator-links {padding-left:135px;}
+#plugg h3.aggregator-feed-title {margin-bottom:0;}
+#plugg h3.aggregator-feed-title.aggregator-feed-title-image {background:transparent no-repeat 135px center; padding:2px 0; padding-left:155px;}
+#plugg p.aggregator-feed-description {min-height:40px;}
+#plugg .aggregator-feed-info,
+#plugg .aggregator-item-info,
+#plugg .aggregator-links {margin:0;}
+#plugg .aggregator-links {float:right; margin:5px;}
+#plugg ul.aggregator-links li {display:inline; list-style:none; margin-left:0; margin-right:5px;}
+#plugg .aggregator-item-info {margin-bottom:10px;}
+#plugg ul.aggregator-item-info li,
+#plugg ul.aggregator-feed-info li {display:inline; list-style:none; margin-left:0; margin-right:5px; line-height:21px; padding:2px 0; padding-left:20px;}
+#plugg li.aggregator-author {background:transparent url(./image.php?plugin=Aggregator&file=user.gif) no-repeat center left;}
+#plugg li.aggregator-date {background:transparent url(./image.php?plugin=Aggregator&file=date.gif) no-repeat center left;}
+#plugg li.aggregator-feed-title {background:transparent url(./image.php?plugin=Aggregator&file=world.gif) no-repeat center left;}
+#plugg li.aggregator-feed-title span {font-size:0.9em; font-style:italic;}
+#plugg div.aggregator-rss {clear:right; float:right; margin-right:2px;}
+#plugg-aggregator-user-viewfeed div.aggregator-rss,
+#plugg-aggregator-main-viewfeed div.aggregator-rss {margin-top:-15px;}
+#plugg div.aggregator-pagination {clear:both; text-align:center; margin-top:20px;}
+#plugg div.aggregator-feeds,
+#plugg div.aggregator-items {margin-bottom:20px;}
+
+#plugg div.aggregator-item {clear:both; margin-top:15px;}
+#plugg h2.aggregator-item-title {margin-bottom:0;}

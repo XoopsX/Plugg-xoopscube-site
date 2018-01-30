@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:9
+msgid ""
+"Xigg allows site administrators to maintain a community-based news article "
+"popularity website like digg.com."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:10
+msgid "Xigg"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:16
+msgid "Number of articles to display on top page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:24
+msgid "The default period to display articles on top page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:27
+msgid "Newest first (all period)"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:28
+msgid "Top voted first (24 hours)"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:29
+msgid "Top voted first (1 week)"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:30
+msgid "Top voted first (1 month)"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:31
+msgid "Top voted first (all period)"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:32
+msgid "Newly commented first"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:33
+msgid "Last active first"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:39
+msgid "Allow more than 1 article to quote the same source URL"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:46
+msgid "Number of comments to display in one page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:55
+msgid "Number of trackbacks to display in one page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:64
+msgid "Number of votes to display in one page"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:72
+msgid "Guest users are allowed to vote on articles"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:78
+msgid "Guest users are allowed to post comments"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:85
+msgid "Length of time a user can edit own comment"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:88
+msgid "Edit not allowed"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:89
+msgid "1 hour"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:90
+msgid "2 hours"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:91
+msgid "1 day"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:92
+msgid "2 days"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:93
+msgid "1 week"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:94
+msgid "10 days"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:95
+msgid "30 days"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:101
+msgid "Use the upcoming article feature"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:107
+msgid "Use the comment feature"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:113
+msgid "Use the trackback feature"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:119
+msgid "Use the voting feature"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:126
+msgid "Number of votes required for an article to become popular"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/Xigg/Xigg/PluginInfo.php:134
+msgid "Display view count for each article"
+msgstr ""

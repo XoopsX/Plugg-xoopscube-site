@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 19:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:8
+msgid ""
+"Enables user authentication using the user data on another XOOPSCube website."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:9
+msgid "XOOPSCubeUserAuth"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:15
+msgid "XOOPSCube website URL"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:15
+msgid "Enter the value of XOOPS_URL defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:22
+msgid "XOOPSCube website name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:22
+msgid "Enter the name of the target XOOPSCube website."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:29
+msgid "Database hostname"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:29
+msgid ""
+"Enter the value of XOOPS_DB_HOST defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:37
+msgid "Use SSL encryption"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:37
+msgid "Use SSL encryption during connection."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:44
+msgid "Database scheme"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:44
+msgid ""
+"Enter the value of XOOPS_DB_SCHEME defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:53
+msgid "Database name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:53
+msgid ""
+"Enter the value of XOOPS_DB_NAME defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:61
+msgid "Database user name"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:61
+msgid ""
+"Enter the value of XOOPS_DB_USER defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:69
+msgid "Database user password"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:69
+msgid ""
+"Enter the value of XOOPS_DB_PASS defined in the target XOOPSCube system."
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:77
+msgid "Database table prefix"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUserAuth/XOOPSCubeUserAuth/PluginInfo.php:77
+msgid ""
+"Enter the value of XOOPS_DB_PREFIX defined in the target XOOPSCube system."
+msgstr ""

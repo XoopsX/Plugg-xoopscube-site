@@ -1,0 +1,1 @@
+<?php $plugin_params_form->display();?>

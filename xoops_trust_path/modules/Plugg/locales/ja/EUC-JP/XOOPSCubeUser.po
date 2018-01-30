@@ -1,0 +1,305 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-05 17:32+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=EUC-JP\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:10
+msgid "Current image"
+msgstr "現在のアバター画像"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:13
+msgid ""
+"Upload an image file to be used as your avatar or select one from the list."
+msgstr "アバター画像をアップロードするかアバター画像一覧より選択してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:14
+#, php-format
+msgid "File size must be smaller than %d kilo bytes, %dx%d pixels."
+msgstr ""
+"画像ファイルの大きさは%dキロバイトおよび%d x %d（横 x 縦）ピクセル以下にして"
+"ください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:15
+msgid "Upload image file"
+msgstr "アップロード"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:22
+msgid "Invalid file type"
+msgstr "不正なファイルです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:26
+msgid "Select an avatar image from the list below."
+msgstr "下記一覧よりアバター画像を選択してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:30
+msgid "None"
+msgstr "なし"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/EditImageForm.php:41
+msgid "Select image"
+msgstr "アバター画像一覧"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:37
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:3
+msgid "Full name"
+msgstr "名前"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:37
+msgid "Enter your full name"
+msgstr "名前を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:44
+msgid "Website URL"
+msgstr "ホームページ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:44
+msgid "Enter the URL of your website if any"
+msgstr "ホームページのURLを入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:45
+msgid "Invalid URL"
+msgstr "不正なURLです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:92
+msgid "Time zone"
+msgstr "タイムゾーン"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:92
+msgid "Select the appropriate time zone for your location from the list below."
+msgstr "お住まいの地域のタイムゾーンを選択してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:102
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:19
+msgid "ICQ"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:103
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:23
+msgid "AOL Instant Messenger"
+msgstr "AOLインスタントメッセンジャー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:104
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:27
+msgid "Yahoo! Messenger"
+msgstr "Yahoo!メッセンジャー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:105
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:31
+msgid "MSN Messenger"
+msgstr "MSNメッセンジャー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:106
+msgid "IM accounts"
+msgstr "インスタントメッセンジャー"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:106
+msgid ""
+"Enter your IM accounts below if any to let other users contact you easier."
+msgstr ""
+"各種インスタントメッセンジャーのアカウントをお持ちの場合は、各アカウントの"
+"ユーザ名を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:113
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:50
+msgid "Location"
+msgstr "居住地"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:120
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:55
+msgid "Occupation"
+msgstr "職業"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:127
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:60
+msgid "Interests"
+msgstr "趣味"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:127
+msgid "Enter things you are interested in"
+msgstr "興味のある物事を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:147
+msgid "Select how you would like to receive notification messeges."
+msgstr "通知メッセージの受信方法を選択してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:149
+msgid ""
+"Enter your signature that may be attached to the end of your posted content."
+msgstr "自分が投稿したコンテンツの末尾に追加する署名を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:151
+msgid "Site preferences"
+msgstr "サイト設定"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:151
+msgid ""
+"Select some options to make this website more useful to you. Note that not "
+"all contents support these features."
+msgstr ""
+"当サイトをもっと便利に利用するための設定です。なお、下記の設定が当サイトの全"
+"てのコンテンツへと反映されるとは限りません。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:158
+msgid "About me"
+msgstr ""
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/FormBuilder.php:158
+msgid ""
+"Enter any extra information you would like other users to see on your "
+"profile page."
+msgstr "追加のプロフィール情報を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/Plugin.php:35
+msgid "Invalid username or password"
+msgstr "ユーザ名またはパスワードが正しくありません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/Plugin.php:76
+msgid "The username is already registered."
+msgstr "このユーザ名は既に使用されています。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/Plugin.php:81
+msgid "The email address is already registered."
+msgstr "このメールアドレスは既に使用されています。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/Plugin.php:236
+msgid "The email address is not registered"
+msgstr "このメールアドレスは登録されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/Plugin.php:267
+msgid "The email address is already registered by another user"
+msgstr "このメールアドレスは既に使用されています"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:9
+#, php-format
+msgid "User name must be %d to %d characters long"
+msgstr "ユーザ名は%d〜%d文字以内（半角の場合）で入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:10
+msgid "User name"
+msgstr "ユーザ名"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:10
+msgid "Please enter your desired user name."
+msgstr "このサイトで使用したいユーザ名を入力してください。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:11
+msgid "User name is required"
+msgstr "ユーザ名が入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:16
+msgid "Confirm Email"
+msgstr "メールアドレス再入力"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:16
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:32
+msgid "Enter again for confirmation"
+msgstr "確認のためもう一度入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:17
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:17
+msgid ""
+"Please enter a valid email address for yourself. We will send you an email "
+"shortly that you must confirm to complete the sign-up process."
+msgstr ""
+"有効なメールアドレスを入力してください。フォーム送信後、入力されたメールアド"
+"レス宛に確認のメールを送ります。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:20
+msgid "Email is required"
+msgstr "メールアドレスが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:21
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:25
+msgid "Invalid email address"
+msgstr "不正なメールアドレスです"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:24
+msgid "Please enter email address two times"
+msgstr "メールアドレスを２回入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:30
+#, php-format
+msgid "Password must be at least %d characters long"
+msgstr "パスワードは%d文字以上で入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:31
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:35
+msgid "Password"
+msgstr "パスワード"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:32
+msgid "Confirm Password"
+msgstr "パスワード再入力"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:35
+msgid ""
+"Please enter a password for your user account. Note that passwords are case-"
+"sensitive."
+msgstr ""
+"パスワードを入力してください。大文字と小文字は異なるものとして認識されます。"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:38
+msgid "Password is required"
+msgstr "パスワードが入力されていません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:42
+msgid "Please enter password two times"
+msgstr "パスワードを２回入力してください"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:67
+msgid "Invalid character(s) found"
+msgstr "不正な文字が見つかりました"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:77
+msgid "The passwords do not match"
+msgstr "パスワードが一致しません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/RegisterFormBuilder.php:82
+msgid "The email addresses do not match"
+msgstr "メールアドレスが一致しません"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:13
+msgid "Website"
+msgstr "ホームページ"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:37
+msgid "Member since"
+msgstr "ユーザ登録日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:40
+msgid "Last login"
+msgstr "最終ログイン日時"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:43
+msgid "Comments/Posts"
+msgstr "投稿数"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:45
+msgid "Rank"
+msgstr "ランク"
+
+#: /Users/onokazumi/Documents/workspace/Plugn/plugins/XOOPSCubeUser/XOOPSCubeUser/templates/plugg_xoopscubeuser_user_identity.tpl:65
+msgid "Extra information"
+msgstr "追加情報"
+
+#~ msgid "Extra info"
+#~ msgstr "その他"
+
+#~ msgid "Statistics"
+#~ msgstr "統計情報"

@@ -260,9 +260,9 @@ class Services_HyperEstraier_Node
      * @return  mixed   The value of the property.
      *                  If it does not exist, generates a user-level notice message
      *                  and returns `null'.
-     * @access  private
+     * @access  public
      */
-    private function __get($name)
+    public function __get($name)
     {
         $name = '_' . $name;
         if (property_exists($this, $name)) {

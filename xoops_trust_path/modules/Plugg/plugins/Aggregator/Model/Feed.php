@@ -20,7 +20,7 @@ class Plugg_Aggregator_Model_Feed extends Plugg_Aggregator_Model_Base_Feed
 
     function getScreenshot()
     {
-        return sprintf('<img src="http://mozshot.nemui.org/shot?img_x=120:img_y=120;effect=true;uri=%1$s" width="120" height="120" alt="%1$s" />', urlencode($this->site_url));
+        return sprintf('<img src="https://blinky.nemui.org/shot?img_x=120:img_y=120;effect=true;uri=%1$s" width="120" height="120" alt="%1$s" />', urlencode($this->site_url));
     }
 
     public function updateLastPublished($commit = true)

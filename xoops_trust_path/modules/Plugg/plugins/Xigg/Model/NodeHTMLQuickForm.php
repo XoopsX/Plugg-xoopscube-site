@@ -85,7 +85,7 @@ class Plugg_Xigg_Model_NodeHTMLQuickForm extends Plugg_Xigg_Model_Base_NodeHTMLQ
                             $reqOpts['ssl_verify_peer'] = SABAI_SSL_VERIFY_PEER;
                         }
                         $req = new HTTP_Request2($source, HTTP_Request2::METHOD_GET, $reqOpts);
-                        //$req->setConfig('follow_redirects', true);
+                        $req->setConfig('follow_redirects', true);
                         $res = $req->send();
                         if (200 == $code = $res->getStatus()) {
                             $body = $res->getBody();

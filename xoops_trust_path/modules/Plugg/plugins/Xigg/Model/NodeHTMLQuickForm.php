@@ -75,6 +75,9 @@ class Plugg_Xigg_Model_NodeHTMLQuickForm extends Plugg_Xigg_Model_Base_NodeHTMLQ
                     require_once 'HTTP/Request2.php';
                     try {
                         $reqOpts = array('timeout' => 30);
+                        if (extension_loaded('curl')) {
+                            $reqOpts['adapter'] = 'HTTP_Request2_Adapter_Curl';
+                        }
                         if (defined('SABAI_SSL_CAFILE')) {
                             $reqOpts['ssl_cafile'] = SABAI_SSL_CAFILE;
                         }

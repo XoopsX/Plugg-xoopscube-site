@@ -46,7 +46,7 @@ class Plugg_System_Admin_UpgradePlugin extends Sabai_Application_Controller
                 }
                 $plugin->set('nicename', $nicename);
                 $message = '';
-                $plugin_object = $this->_application->getPlugin($plugin_name, false);
+                $plugin_object = $this->_application->getPluginManager()->getPlugin($plugin_name, false);
                 if (!$plugin_object->upgrade($previous_version, $message)) {
                     $context->response->setError($message, array('base' => '/system/plugin'));
                     return;

@@ -150,7 +150,16 @@ if(!class_exists('plugg_xoopscube_module_preloader', false)) {
 
         public function setupUser($principal, $controller, $context)
         {
-            if ($user = $this->_app->hasCurrentUser()) {
+            $user = $this->_app->hasCurrentUser();
+            // support to the xoops 3rd party's login function
+            if (!$user && !empty($_SESSION['xoopsUserId'])) {
+                $identity = $this->_app->getService('UserIdentityFetcher')->fetchUserIdentity($_SESSION['xoopsUserId']);
+                if (!$identity->isAnonymous()) {
+                    $user = new Sabai_User($identity, true, $this->_app->getId());
+                    $user->startSession();
+                }
+            }
+            if ($user) {
                 if ($context->mXoopsUser = xoops_gethandler('member')->getUser($user->getId())) {
                     if (!isset($_SESSION['xoopsUserGroups'])) {
                         $_SESSION['xoopsUserGroups'] = $context->mXoopsUser->getGroups();

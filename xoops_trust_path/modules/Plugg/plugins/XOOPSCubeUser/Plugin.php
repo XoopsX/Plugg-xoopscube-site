@@ -46,6 +46,8 @@ class Plugg_XOOPSCubeUser_Plugin extends Plugg_Plugin implements Plugg_User_Mana
 
     public function userLogoutUser(Sabai_User_Identity $identity)
     {
+        // for the xoops 3rd party's login function
+        unset($_SESSION['xoopsUserId']);
         return true;
     }
 
@@ -533,8 +535,11 @@ class Plugg_XOOPSCubeUser_Plugin extends Plugg_Plugin implements Plugg_User_Mana
     {
         if (!$this->_application->isType(Plugg::XOOPSCUBE_LEGACY)) return;
 
+        $uid = $user->getId();
+        // for the xoops 3rd party's login function
+        $_SESSION['xoopsUserId'] = $uid;
         $db = $this->getXoopsDB();
-        $sql = sprintf('UPDATE %susers SET last_login = %d WHERE uid = %d', $db->getResourcePrefix(), time(), $user->getId());
+        $sql = sprintf('UPDATE %susers SET last_login = %d WHERE uid = %d', $db->getResourcePrefix(), time(), $uid);
         $db->exec($sql);
     }
 }

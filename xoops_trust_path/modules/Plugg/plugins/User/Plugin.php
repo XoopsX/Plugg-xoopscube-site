@@ -632,8 +632,8 @@ class Plugg_User_Plugin extends Plugg_Plugin implements Plugg_Widget_Widget, Plu
         $model->getGateway('Extra')->deleteByCriteria($model->createCriteria('Extra')->userid_is($id));
         $model->getGateway('Authdata')->deleteByCriteria($model->createCriteria('Authdata')->userid_is($id));
         $model->getGateway('Autologin')->deleteByCriteria($model->createCriteria('Autologin')->userid_is($id));
-        $model->getGateway('Queue')->deleteByCriteria($model->createCriteria('Queue')->identity_id_is($id));
-        $model->getGateway('Friendrequest')->deleteByCriteria($model->createCriteria('Freindrequest')->userid_is($id));
+        $model->getGateway('Queue')->deleteByCriteria($model->createCriteria('Queue')->identityId_is($id));
+        $model->getGateway('Friendrequest')->deleteByCriteria($model->createCriteria('Friendrequest')->userid_is($id));
         $model->getGateway('Friend')->deleteByCriteria($model->createCriteria('Friend')->userid_is($id)->or_()->with_is($id));
     }
 

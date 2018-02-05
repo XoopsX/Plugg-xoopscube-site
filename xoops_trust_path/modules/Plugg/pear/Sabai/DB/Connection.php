@@ -60,7 +60,7 @@ abstract class Sabai_DB_Connection
         }
         $conn = new $class($params);
         if (!$conn->connect()) {
-            throw new Exception('An error occurred while connecting to the database.');
+            trigger_error('An error occurred while connecting to the database.');
         }
         return $conn;
     }

@@ -9,7 +9,7 @@ if (file_exists($lang_file = $lang_dir . @$xoopsConfig['language'] . '/modinfo.p
 
 $modversion['name'] = constant($const_prefix . '_NAME');
 $modversion['version'] = 1.04;
-$modversion['detailed_version'] = '1.04.3';
+$modversion['detailed_version'] = '1.04.5';
 $modversion['description'] = constant($const_prefix . '_DESC');
 $modversion['credits'] = 'Kazumi Ono<br />( http://www.myweb.ne.jp/ )';
 $modversion['author'] = 'Kazumi Ono AKA onokazu';

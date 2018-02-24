@@ -25,9 +25,31 @@ class Plugg_XOOPSCubeUser_Plugin extends Plugg_Plugin implements Plugg_User_Mana
         $username = mb_trim($values['username'], $mb_whitespace);
         $password = mb_trim($values['password'], $mb_whitespace);
         if (!empty($username) && !empty($password)) {
+            $row = null;
             $db = $this->getXoopsDB();
-            $sql = sprintf('SELECT * FROM %susers WHERE uname = %s AND pass = %s', $db->getResourcePrefix(), $db->escapeString($username), $db->escapeString(md5($password)));
-            if (($rs = $db->query($sql, 1, 0)) && ($row = $rs->fetchAssoc())) {
+            if (is_callable('User_Utils::passwordVerify')) {
+                $sql = sprintf('SELECT * FROM %susers WHERE uname = %s', $db->getResourcePrefix(), $db->escapeString($username));
+                if ($rs = $db->query($sql, 1, 0)) {
+                    $row = $rs->fetchAssoc();
+                    if (User_Utils::passwordVerify($password, $row['pass'])) {
+                        // auto re-hash
+                        if (is_callable('User_Utils::encryptPassword') && is_callable('User_Utils::passwordNeedsRehash') && User_Utils::passwordNeedsRehash($row['pass']) && (!is_callable('User_Utils::checkUsersPassColumnLength') || User_Utils::checkUsersPassColumnLength())) {
+                            // save to DB
+                            $new_hash = User_Utils::encryptPassword($password);
+                            $sql = sprintf('UPDATE %susers SET pass = %s WHERE uid = %d', $db->getResourcePrefix(), $db->escapeString($new_hash), $row['uid']);
+                            $db->exec($sql);
+                        }
+                    } else {
+                        $row = null;
+                    }
+                }
+            } else {
+                $sql = sprintf('SELECT * FROM %susers WHERE uname = %s AND pass = %s', $db->getResourcePrefix(), $db->escapeString($username), $db->escapeString(md5($password)));
+                if ($rs = $db->query($sql, 1, 0)) {
+                    $row = $rs->fetchAssoc();
+                }
+            }
+            if ($row) {
                 require_once 'Sabai/User/Identity.php';
                 return $this->_buildIdentity($row);
             }
@@ -247,7 +269,12 @@ class Plugg_XOOPSCubeUser_Plugin extends Plugg_Plugin implements Plugg_User_Mana
     {
         $db = $this->getXoopsDB();
         $new_password = substr(md5(uniqid(mt_rand(), true)), 5, 8);
-        $sql = sprintf('UPDATE %susers SET pass = %s WHERE uid = %d', $db->getResourcePrefix(), $db->escapeString(md5($new_password)), $queue->get('identity_id'));
+        if (is_callable('User_Utils::encryptPassword') && (!is_callable('checkUsersPassColumnLength') || checkUsersPassColumnLength())) {
+            $new_hash = User_Utils::encryptPassword($new_password);
+        } else {
+            $new_hash = md5($new_password);
+        }
+        $sql = sprintf('UPDATE %susers SET pass = %s WHERE uid = %d', $db->getResourcePrefix(), $db->escapeString($new_hash), $queue->get('identity_id'));
         return $db->exec($sql) ? $new_password : false;
     }
 
@@ -290,7 +317,12 @@ class Plugg_XOOPSCubeUser_Plugin extends Plugg_Plugin implements Plugg_User_Mana
     {
         $db = $this->getXoopsDB();
         $new_password = $form->getSubmitValue('password');
-        $sql = sprintf('UPDATE %susers SET pass = %s WHERE uid = %d', $db->getResourcePrefix(), $db->escapeString(md5($new_password)), $identity->getId());
+        if (is_callable('User_Utils::encryptPassword') && (!is_callable('checkUsersPassColumnLength') || checkUsersPassColumnLength())) {
+            $new_hash = User_Utils::encryptPassword($new_password);
+        } else {
+            $new_hash = md5($new_password);
+        }
+        $sql = sprintf('UPDATE %susers SET pass = %s WHERE uid = %d', $db->getResourcePrefix(), $db->escapeString($new_hash), $identity->getId());
         $ret = $db->exec($sql);
         return $ret;
     }

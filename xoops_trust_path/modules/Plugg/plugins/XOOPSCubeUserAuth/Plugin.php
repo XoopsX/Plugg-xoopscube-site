@@ -44,14 +44,32 @@ class Plugg_XOOPSCubeUserAuth_Plugin extends Plugg_Plugin implements Plugg_User_
         $username = mb_trim($values['username'], $mb_whitespace);
         $password = mb_trim($values['password'], $mb_whitespace);
         if (!empty($username) && !empty($password)) {
+            $row = null;
             $db = $this->_getDB();
-            $sql = sprintf(
-                'SELECT email, name FROM %susers WHERE uname = %s AND pass = %s',
-                $db->getResourcePrefix(),
-                $db->escapeString($username),
-                $db->escapeString(md5($password))
-            );
-            if (($rs = $db->query($sql, 1, 0)) && ($row = $rs->fetchAssoc())) {
+            if (is_callable('User_Utils::passwordVerify')) {
+                $sql = sprintf(
+                    'SELECT email, name, pass FROM %susers WHERE uname = %s',
+                    $db->getResourcePrefix(),
+                    $db->escapeString($username)
+                );
+                if ($rs = $db->query($sql, 1, 0)) {
+                    $row = $rs->fetchAssoc();
+                    if (!User_Utils::passwordVerify($password, $row['pass'])) {
+                        $row = null;
+                    }
+                }
+            } else {
+                $sql = sprintf(
+                    'SELECT email, name FROM %susers WHERE uname = %s AND pass = %s',
+                    $db->getResourcePrefix(),
+                    $db->escapeString($username),
+                    $db->escapeString(md5($password))
+                );
+                if ($rs = $db->query($sql, 1, 0)) {
+                    $row = $rs->fetchAssoc();
+                }
+            }
+            if ($row) {
                 return array(
                     'id' => $username,
                     'display_id' => $username,

@@ -32,11 +32,8 @@ class Plugg_User_Main_Confirm extends Sabai_Application_Controller
         // Remove queue
         $queue->markRemoved();
         if (!$queue->commit()) {
+            $this->_application->content = $context->plugin->_('An error occurred. Please click on the email link again to complete the process.');
             $context->response
-                ->setVar(
-                    'content',
-                    $context->plugin->_('An error occurred. Please click on the email link again to complete the process.')
-                )
                 ->popContentName();
             $context->response->pushContentName('plugg_user_content');
 

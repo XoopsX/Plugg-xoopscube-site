@@ -42,11 +42,8 @@ class Plugg_User_Main_RequestPassword extends Sabai_Application_Controller
                         // Send confirmation email
                         $context->plugin->sendRequestPasswordConfirmEmail($queue, $identity, $manager);
 
+                        $this->_application->content = $context->plugin->_('Password request has been submitted successfully. Please check your email for further instruction.');
                         $context->response
-                            ->setVar(
-                                'content',
-                                $context->plugin->_('Password request has been submitted successfully. Please check your email for further instruction.')
-                            )
                             ->popContentName();
                         $context->response->pushContentName('plugg_user_content');
 

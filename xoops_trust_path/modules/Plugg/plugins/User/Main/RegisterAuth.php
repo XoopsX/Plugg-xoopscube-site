@@ -120,8 +120,8 @@ class Plugg_User_Main_RegisterAuth extends Sabai_Application_Controller
                             } else {
                                 $msg = $context->plugin->_('Registration data has been submitted successfully. Please check your email for further instruction.');
                             }
+                            $this->_application->content = $msg;
                             $context->response
-                                ->setVar('content', $msg)
                                 ->popContentName();
                             $context->response->pushContentName('plugg_user_content');
 

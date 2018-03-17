@@ -274,7 +274,10 @@ EOT;
             if ($is_multiple) {
                 $element =& HTML_QuickForm::createElement('checkbox',$myName);
                 //xxx - qf won't take a value as constructor argument
-                $element->updateAttributes(array('value' => $option['attr']['value']));
+                $element->updateAttributes(array(
+                    'name' => $myName,
+                    'value' => $option['attr']['value']
+                ));
             } else {
                 $element =& HTML_QuickForm::createElement('radio',
                                                           $myName,
